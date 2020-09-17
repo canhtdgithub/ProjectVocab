@@ -1,0 +1,3498 @@
+[
+  {
+    "example" : "The two parties agreed to abide by the judge's decision (Hai bên đã đồng ý tuân theo quyết định của tòa án.)",
+    "type" : "(v): tôn trọng, tuân theo, giữ (lời)",
+    "vocabulary" : "abide by"
+  },
+  {
+    "example" : "According to the agreement, the caterer will also supply the flowers for the event (Theo như thỏa thuận, nhà cung cấp lương thực thực phẩm cũng sẽ cung cấp hoa cho sự kiện)",
+    "type" : "(n): hợp đồng, giao kèo, sự đồng ý\/thỏa thuận với nhau",
+    "vocabulary" : "agreement"
+  },
+  {
+    "example" : "The sales associate gave his assurance that the missing keyboard would be replaced the next day. (Đối tác bán hàng cam đoan rằng ngày mai bàn phím lỗi sẽ được thay.)",
+    "type" : "(n): sự cam đoan, bảo đảm, chắc chắn; sự tin chắc, tự tin",
+    "vocabulary" : "assurance"
+  },
+  {
+    "example" : "The cancelation of her flight caused her problems for the rest of the week (Việc hủy chuyến bay đã gây cho cô ấy nhiều vấn đề trong những ngày còn lại của tuần.)",
+    "type" : "(n): sự bãi bỏ, hủy bỏ",
+    "vocabulary" : "cancellation"
+  },
+  {
+    "example" : "After reading the contract, I was still unable to detemine if our company was liable for back wages. (Sau khi đọc hợp đồng, tôi vẫn không thể biết được liệu rằng công ty của chúng tôi có phải chịu trách nhiệm hoàn trả lại lương không)",
+    "type" : "(v): quyết định, xác định, định rõ; quyết tâm, kiên quyết",
+    "vocabulary" : "determine"
+  },
+  {
+    "example" : "He engaged us in a fascinating discussion about current business law (Anh ấy cùng chúng tôi thảo luận sôi nổi về luật kinh doanh hiện hành)",
+    "type" : "(v): (v)Tham gia, cam kết, (n)sự hứa hẹn, hứa hôn",
+    "vocabulary" : "engage"
+  },
+  {
+    "example" : "The merger of the two company established a powerful new corporation (Sự liên kết giữa 2 công ty tạo nên một tập đoàn kinh tế hùng mạnh.)",
+    "type" : "(v): thiết lập, thành lập; xác minh, chứng minh, củng cố",
+    "vocabulary" : "establish"
+  },
+  {
+    "example" : "The contractor was obligated by the contract to work 40 hours a week. (Nhà thầu buộc phải làm việc 40 tiếng mỗi tuần.)",
+    "type" : "(v): bắt buộc, ép buộc",
+    "vocabulary" : "obligate"
+  },
+  {
+    "example" : "The parties agreed to settlement in their contract dispute. (Các bên đã nhất trí đi đến một thỏa thuận trong hợp đồng gây tranh cãi của họ.)",
+    "type" : "(n): đảng, phái, đội, nhóm; người tham dự\/tham gia; buổi liên hoan, buổi tiệc",
+    "vocabulary" : "party"
+  },
+  {
+    "example" : "The father made provision for his children through his will. (Người cha đã truyền lại di chúc cho những đứa con của mình.)",
+    "type" : "(n): sự dự liệu, dự trữ, dự phòng, cung cấp; điều khoản",
+    "vocabulary" : "provision"
+  },
+  {
+    "example" : "The manager resolved to clean out all the files at the end of the week. (Cuối tuần, người quản lý đã quyết định xóa sạch tất cả các dữ liệu)",
+    "type" : "(v, n): (v) giải quyết, (n) sự kiên quyết \/ sự tin chắc",
+    "vocabulary" : "resolve"
+  },
+  {
+    "example" : "The customer's specific complaint was not addressed in his e-mail. (Khiếu nại cụ thể của khách hàng đã không được giải quyết trong Email gửi anh ấy.)",
+    "type" : "(adj): riêng biệt, cụ thể, đặc trưng; rõ ràng, rành mạch",
+    "vocabulary" : "specific"
+  },
+  {
+    "example" : "The display attracted a number of people at the convention (Việc trưng bày đã thu hút được một số người tại hội nghị)",
+    "type" : "(v): hấp dẫn, lôi cuốn, thu hút",
+    "vocabulary" : "attract"
+  },
+  {
+    "example" : "Once the customer compared the two products, her choice was easy. (Khi mà người khách hàng được so sánh 2 sản phẩm, sự lựa chọn của cô ta sẽ dễ dàng hơn.)",
+    "type" : "(v): so sánh, đối chiếu",
+    "vocabulary" : "compare"
+  },
+  {
+    "example" : "In the competition for afternoon dinners, Hector's has come out on top (Trong cuộc thi của các quán ăn chiều, của hàng Hector đã được xếp hạng nhất.)",
+    "type" : "(v): ‹sự\/cuộc› cạnh tranh, tranh giành, thi đấu",
+    "vocabulary" : "competition"
+  },
+  {
+    "example" : "The printer consumes more toner than the downstairs printer (Cái máy in ngốn nhiều ống mực hơn là cái máy in ở dưới nhà)",
+    "type" : "(v): tiêu thụ, tiêu dùng",
+    "vocabulary" : "consume"
+  },
+  {
+    "example" : "He convinced me that he was right. (Anh ấy đã thuyết phục tôi rằng anh ấy đã đúng.)",
+    "type" : "(v): Thuyết phục",
+    "vocabulary" : "convince"
+  },
+  {
+    "example" : "Currently, customers are demanding big discounts for bulk orders (Hiện nay, khách hàng đang đòi hỏi những khoản giảm giá nhiều cho những đơn hàng lớn)",
+    "type" : "(adv): hiện thời, hiện nay, lúc này",
+    "vocabulary" : "currently"
+  },
+  {
+    "example" : "The mini dress was a fad once thought to be finished, but now it is making a comeback (Váy ngắn là mốt tạm thời mỗi khi ý tưởng bị hết, nhưng hiện giờ nó đang quay trở lại)",
+    "type" : "(n): mốt nhất thời, sự thích thú tạm thời; dở hơi, gàn dở",
+    "vocabulary" : "fad"
+  },
+  {
+    "example" : "His work is an inspiration to the marketing department. (Công việc của anh ta là một nguồn cảm hứng cho bộ phận tiếp thị)",
+    "type" : "(n): ‹sự\/người\/vật› truyền cảm hứng, gây cảm hứng",
+    "vocabulary" : "inspiration"
+  },
+  {
+    "example" : "The market for brightly colored clothing was brisk last year, but it's moving sluggishly this year (Thị trường của trang phục màu sắc sặc sỡ rất phát đạt vào năm ngoái, nhưng nó lại chuyển động uể oải trong năm nay)",
+    "type" : "(v): thị trường, chợ, nơi mua bán sản phẩm...",
+    "vocabulary" : "market"
+  },
+  {
+    "example" : "The seminar teaches techniques of persuasion to increase sales. (Hội thảo giảng dạy những kỹ thuật thuyết phục để gia tăng doanh số)",
+    "type" : "(n): ‹sự› thuyết phục, làm cho tin (chú ý: persuade > convince)",
+    "vocabulary" : "persuasion"
+  },
+  {
+    "example" : "The unproductive sales meeting brought many staff complaints (Hội nghị kinh doanh phi lợi nhuận đã làm cho nhiều nhân viên phàn nàn)",
+    "type" : "(adj): sản xuất, sinh sản; sinh lợi nhiều, có hiệu quả",
+    "vocabulary" : "productive"
+  },
+  {
+    "example" : "Your satisfaction is guaranteed or you'll get your money back. (Sự hài lòng của bạn được bảo đảm, hoặc là bạn sẽ được nhận lại tiền của mình)",
+    "type" : "(n): sự làm thỏa mãn, sự hài lòng",
+    "vocabulary" : "satisfaction"
+  },
+  {
+    "example" : "One characteristic of the store is that it is slow in mailing refund checks. (Một đặc điểm của cửa hàng là nó chậm chạp trong việc gửi hóa đơn hoàn trả)",
+    "type" : "(adj, n): (adj) đặc thù, (n) đặc trưng, đặc điểm, đặc thù, cá biệt",
+    "vocabulary" : "characteristic"
+  },
+  {
+    "example" : "As a consequence of not having seen a dentist for several years, Lydia had several cavities. (Là hậu quả của việc không đi khám nha sĩ trong vài năm, Lydia đã bị vài răng sâu rỗng)",
+    "type" : "(n): kết quả, hậu quả, hệ quả; tầm quan trọng, tính trọng đại",
+    "vocabulary" : "consequence"
+  },
+  {
+    "example" : "After considering all the options, Della decided to buy a used car (Sau khi cân nhắc tất cả sự chọn lựa, Della đã quyết định mua chiếc xe cũ)",
+    "type" : "(v): cân nhắc, suy xét, suy nghĩ (một cách cẩn thận); lưu ý, quan tâm",
+    "vocabulary" : "consider"
+  },
+  {
+    "example" : "Will my medical insurance cover this surgery? (Hợp đồng bảo hiểm y tế của tôi liệu có bao gồm cho ca phẫu thuật này không?)",
+    "type" : "(v): che, phủ, trùm, bọc; bao gồm",
+    "vocabulary" : "cover"
+  },
+  {
+    "example" : "Have you checked the expriration date on this yogurt? (Anh đã kiểm tra hạn sử dụng của món sữa chua này chưa?)",
+    "type" : "(n): sự mãn hạn, sự hết hạn, sự kết thúc",
+    "vocabulary" : "expiration"
+  },
+  {
+    "example" : "Appliances frequently come with a one-year warranty (Trang thiết bị thường có bảo hành một năm)",
+    "type" : "(adv): thường xuyên, một cách thường xuyên",
+    "vocabulary" : "frequently"
+  },
+  {
+    "example" : "The guarantee on the Walkman implied that all damages were covered under warranty for one year (Giấy bảo đảm theo máy nghe nhạc Walkman đã ngụ ý rằng mọi hư hỏng đều được bao gồm trong thời hạn bảo hành là 1 năm)",
+    "type" : "(v): ngụ ý, hàm ý, ẩn ý, ý nói",
+    "vocabulary" : "imply"
+  },
+  {
+    "example" : "The sales associate promised that our new mattress would arrive by noon on Saturday (Người cộng tác kinh doanh hứa rằng tấm nệm mới của chúng ta sẽ đến trước trưa thứ Bảy)",
+    "type" : "(v): (n) hứa hẹn, cam đoan, bảo đảm; (v) hứa",
+    "vocabulary" : "promise"
+  },
+  {
+    "example" : "Consumer laws are designed to protect the public against unscrupulous vendors (Luật tiêu dùng được thiết kế để bảo vệ công chúng trước những kẻ bán hàng vô lương tâm)",
+    "type" : "(v): bảo vệ, bảo hộ, che chở",
+    "vocabulary" : "protect"
+  },
+  {
+    "example" : "The company knew that the reputation of its products was the most important asset it had (Công ty biết rằng tiếng tăm sản phẩm của họ là thứ tài sản quan trọng nhất mà họ có)",
+    "type" : "(n): danh tiếng, thanh danh, tiếng (tốt của nhân vật)",
+    "vocabulary" : "reputation"
+  },
+  {
+    "example" : "The law requires that each item clearly display the warranty information (Luật pháp yêu cầu mỗi món hàng trình bày rõ ràng thông tin về bảo hành)",
+    "type" : "(v): đòi hỏi, yêu cầu, cần phải",
+    "vocabulary" : "require"
+  },
+  {
+    "example" : "There's a variety of standard terms that you'll find in warranties (Có nhiều điều khoản tiêu chuẩn mà bạn sẽ thấy ở trong các phiếu bảo hành)",
+    "type" : "(n): đa dạng, nhiều thứ\/loại\/vẻ khác nhau",
+    "vocabulary" : "variety"
+  },
+  {
+    "example" : "Marco's business plan addresses the needs of small business owners (Kế hoạch kinh doanh của Marco nhằm vào nhu cầu của những chủ doanh nghiệp nhỏ)",
+    "type" : "(n,v): (n) địa chỉ, diễn văn, bài nói chuyện, tác phong nói chuyện, sự khôn khéo; (v) trình bày",
+    "vocabulary" : "address"
+  },
+  {
+    "example" : "To avoid going out of business, owners should prepare a proper business plan (Nhằm tránh lụn bại việc làm ăn, những người chủ nên chuẩn bị một kế hoạch KD phù hợp)",
+    "type" : "(v): tránh, tránh khỏi; hủy bỏ, bác bỏ",
+    "vocabulary" : "avoid"
+  },
+  {
+    "example" : "The professor demonstrated through a case study that a business plan can impress a lender (Vị giáo sư đã chứng minh thông qua bài học tình huống là một kế hoạch kinh doanh có thể gây ấn tượng với một người cho vay)",
+    "type" : "(v): bày tỏ, biểu lộ, cho thấy; chứng minh, giải thích",
+    "vocabulary" : "demonstrate"
+  },
+  {
+    "example" : "Lily developed her ideas into a business plan by taking a class at the community college (Lily đã phát triển ý tưởng của cô ta vào kế hoạch kinh doanh bằng cách tham dự một lớp học tại trường cao đẳng cộng đồng)",
+    "type" : "(v): phát triển, tiến triển, triển khai, mở rộng",
+    "vocabulary" : "develop"
+  },
+  {
+    "example" : "It's important to evaluate your competition when making a business plan (Đánh giá sức cạnh tranh của bạn là việc quan trọng khi lập một kế hoạch kinh doanh)",
+    "type" : "(v): đánh giá, định giá; ước lượng",
+    "vocabulary" : "evaluate"
+  },
+  {
+    "example" : "We gathered information for our plan from many sources (Chúng tôi thu thập thông tin cho bản kế hoạch của mình từ nhiều nguồn)",
+    "type" : "(v): tập hợp, tụ thập, thu thập; kết luận, suy ra",
+    "vocabulary" : "gather"
+  },
+  {
+    "example" : "Devon accepted our offer to write the business plan (Devon đã chuấp thuận đề nghị của chúng tôi để viết một bản kế hoạch kinh doanh)",
+    "type" : "(n,v): (n) đề xuất, đề nghị, chào mời, chào hàng, dạm, hỏi, ướm; (v) đề nghị",
+    "vocabulary" : "offer"
+  },
+  {
+    "example" : "The developers are thinking primarily of how to enter the South American market (Những nhà phát triển quan tâm nhất đến việc làm sao để xâm nhập thị trường Nam Mỹ)",
+    "type" : "(adv): trước hết, đầu tiên; chính, chủ yếu, quan trọng nhất",
+    "vocabulary" : "primarily"
+  },
+  {
+    "example" : "The primary risk for most start-up businesses is insufficient capital (Nguy cơ lớn nhất đối với hầu hết các cuộc khởi nghiệp là thiếu vốn)",
+    "type" : "(n): nguy cơ, sự nguy hiểm, sự rủi ro",
+    "vocabulary" : "risk"
+  },
+  {
+    "example" : "A business plan is a strategy for running a business and avoiding problems (Một kế hoạch kinh doanh là một chiến lược để vận hành công việc và tránh các rắc rối)",
+    "type" : "(n): chiến lược, sự vạch kế hoạch hành động",
+    "vocabulary" : "strategy"
+  },
+  {
+    "example" : "The professor made a strong argument for the value of a good business plan (Vị giáo sư đã gây ra một cuộc tranh luận sôi nổi về giá trị của một kế hoạch KD tốt)",
+    "type" : "(adj): khỏe, mạnh, tốt, bền, kiên cố; đanh thép, kiên quyết; sôi nổi, nhiệt tình...",
+    "vocabulary" : "strong"
+  },
+  {
+    "example" : "Your substitution of fake names for real ones makes the document seem insincere (Việc anh lấy tên giả thay cho tên thật khiến cho tài liệu có vẻ như không thành thật)",
+    "type" : "(n): sự đổi, sự thay thế",
+    "vocabulary" : "substitution"
+  },
+  {
+    "example" : "The meeting room was large enough to accommodate the various needs of the groups using it (Phòng họp đủ lớn để phù hợp với nhiều nhu cầu khác nhau của các nhóm sử dụng nó)",
+    "type" : "(v): điều tiết, điều chỉnh, thu xếp, làm cho phù hợp",
+    "vocabulary" : "accommodate"
+  },
+  {
+    "example" : "The travel arrangements were taken care of by Sara, Mr. Billing's capable assistant (Việc thu xếp chuyến đi được chịu trách nhiệm bởi Sara, trợ lý có năng lực của ông Billing)",
+    "type" : "(n): ‹sự› thu xếp, dàn xếp, sắp xếp, sắp đặt",
+    "vocabulary" : "arrangement"
+  },
+  {
+    "example" : "An association that aims to provide descriptions of effective reading practices around the world (Một hiệp hội với mục đích cung cấp những mô tả về lợi ích của đọc sách trên toàn thế giới)",
+    "type" : "(n): hội, hội liên hiệp, đoàn thể; ‹sự› kết hợp, liên kết, liên hợp",
+    "vocabulary" : "association"
+  },
+  {
+    "example" : "We expect more than 100 members to attend the annual meeting (Chúng tôi hy vọng hơn 100 thành viên đến tham dự cuộc họp thường niên)",
+    "type" : "(v): tham dự, có mặt; chăm sóc, phục vụ; đi theo, đi kèm, hộ tống",
+    "vocabulary" : "attend"
+  },
+  {
+    "example" : "As soon as we arrive at the hotel, we will get in touch with the manager about the unexpected guests (Ngay khi chúng tôi đến khách sạn, chúng tôi sẽ liên hệ với giám đốc về những vị khách không mời mà đến)",
+    "type" : "(v): liên lạc với, tiếp xúc với, giữ quan hệ với, có dính líu đến",
+    "vocabulary" : "get in touch"
+  },
+  {
+    "example" : "This meeting room holds at least 80 people comfortably (Phòng họp này chứa được thoải mái ít nhất 80 người)",
+    "type" : "(v): cầm, nắm, giữ; chứa, đựng; tổ chức, tiến hành",
+    "vocabulary" : "hold"
+  },
+  {
+    "example" : "The location of the meeting was changed from the Red Room to the Green Room (Vị trí họp đã được thay đổi từ phòng Đỏ sang phòng Xanh)",
+    "type" : "(n): vị trí, khu đất, hiện trường",
+    "vocabulary" : "location"
+  },
+  {
+    "example" : "Too many poor people are living in overcrowded conditions (Có quá nhiều người nghèo đang sống trong điều kiện chật chội)",
+    "type" : "(adj): chật ních, đông nghịt",
+    "vocabulary" : "overcrowded"
+  },
+  {
+    "example" : "According to the register, more than 250 people attended the afternoon seminar (Theo sổ đăng ký, đã có hơn 250 người tham dự buổi hội thảo chiều)",
+    "type" : "(n, v): (n) danh sách, sổ, sổ sách; (v) đăng ký",
+    "vocabulary" : "register"
+  },
+  {
+    "example" : "The winners were a select group (Những người chiến thắng là một nhóm có chọn lọc (nhóm dành riêng))",
+    "type" : "(v): chọn lựa, chọn lọc, tuyển chọn",
+    "vocabulary" : "select"
+  },
+  {
+    "example" : "The morning sessions tend to fill up first, so sign up early (Các phiên họp sáng có khuynh hướng kín chỗ trước hết, vì vậy hãy đăng ký sớm)",
+    "type" : "(n): phiên, kỳ, buổi (họp, học)",
+    "vocabulary" : "session"
+  },
+  {
+    "example" : "We could not get enough people to take part in the meeting, so we canceled it (Chúng tôi không có đủ người tham dự cuộc họp, vì vậy chúng tôi hủy bỏ nó)",
+    "type" : "(v): tham dự, tham gia",
+    "vocabulary" : "take part in"
+  },
+  {
+    "example" : "You can't gain access to the files unless you know the password (Anh không có được quyền truy cập file trừ phi anh biết mật khẩu)",
+    "type" : "(n, v): (n) lối vào, đường vào, sự\/quyền truy cập; (v) truy cập",
+    "vocabulary" : "access"
+  },
+  {
+    "example" : "The office manager did not allocate enough money to purchase software (Người quản lý văn phòng không cấp đủ tiền để mua sắm phần mềm)",
+    "type" : "(v): cấp cho, phân phối, phân phát, chia phần; chỉ định, định rõ vị trí",
+    "vocabulary" : "allocate"
+  },
+  {
+    "example" : "This operating system is not compatible with this model computer (Hệ điều hành không tương thích với kiểu máy tính này)",
+    "type" : "(adj): tương thích, tương hợp, hợp nhau, có thể dùng được với nhau",
+    "vocabulary" : "compatible"
+  },
+  {
+    "example" : "The technicians deleted all the data on the disk accidentally (Kỹ thuật viên đã vô tình xóa mọi dữ liệu trên đĩa)",
+    "type" : "(v): xóa đi, bỏ đi, gạch đi (to remove, to erase)",
+    "vocabulary" : "delete"
+  },
+  {
+    "example" : "The accounting program displays a current balance when opened. (Chương trình kế toán hiển thị một con số cân bằng thu chi khi mở (chương trình đó) ra)",
+    "type" : "(v, n): (v) hiển thị, biểu lộ, phô bày, trình bày, trưng bày; (n) sự trưng bày",
+    "vocabulary" : "display"
+  },
+  {
+    "example" : "I think the new word processing program will duplicate the success of the one introduced last year (Tôi nghĩ rằng chương trình xử lý văn bản mới sẽ thành công gấp đôi so với chương trình được giới thiệu hồi năm ngoái)",
+    "type" : "(v): sao lại, làm thành 2 bản, gấp đôi, nhân đôi",
+    "vocabulary" : "duplicate"
+  },
+  {
+    "example" : "Your failure to inform us about the changed password cost the company a day's work (Anh không thông báo cho chúng tôi về mật khẩu bị đổi đã làm tốn công ty 1 ngày làm việc)",
+    "type" : "(n): hỏng, thiếu, yếu, trượt, thất bại, bất thành",
+    "vocabulary" : "failure"
+  },
+  {
+    "example" : "By examining all of the errors, the technicians figured out how to fix the problem (Bằng cách xem xét mọi lỗi, các kỹ thuật viên đã tìm ra các để sửa chữa các sự cố)",
+    "type" : "(v): tìm hiểu, đoán ra, tính toán ra, giải ra",
+    "vocabulary" : "figure out"
+  },
+  {
+    "example" : "He ignored all the 'No Smoking' signs and lit up a cigarette (Anh ấy phớt lờ bảng cấm hút thuốc để hút 1 điểu thuốc)",
+    "type" : "(v): bỏ qua, phớt lờ, không để ý tới",
+    "vocabulary" : "ignore"
+  },
+  {
+    "example" : "Our search of the database produced very little information (Việc tìm kiếm trong cơ sở dữ liệu của chúng tôi đã đem lại rất ít thông tin)",
+    "type" : "(n, v): (n) tìm kiếm, tìm hiểu; điều tra, thăm dò; (v) tìm",
+    "vocabulary" : "search"
+  },
+  {
+    "example" : "Please shut down the computer before you leave (Vui lòng tắt máy trước khi bạn ngừng làm việc)",
+    "type" : "(v): đóng lại, ngừng lại; tắt máy, ngừng hoạt động, chấm dứt",
+    "vocabulary" : "shut down"
+  },
+  {
+    "example" : "The red flashing light gives a warning to users that the battery is low (Ánh sáng nhấp nháy màu đỏ đưa ra sự cảnh báo với người dùng rằng pin bị cạn)",
+    "type" : "(n): ‹sự\/lời› cảnh báo, báo trước (có nguy hiểm hoặc gặp vấn đề rắc rối)",
+    "vocabulary" : "warning"
+  },
+  {
+    "example" : "The company's first priority was to find an affordable phone system (Ưu tiên trước hết của công ty là tìm một hệ thống điện thoại có đủ khả năng (hoạt động))",
+    "type" : "(adj): có đủ khả năng, có đủ điều kiện (sức lực\/thời gian\/tiền bạc)",
+    "vocabulary" : "affordable"
+  },
+  {
+    "example" : "The service contract states that repairs will be made on an as-needed basis (Hợp đồng dịch vụ nói rằng việc sửa chữa sẽ được thực hiện dựa trên cơ sở mỗi khi cần)",
+    "type" : "(adv): khi cần, lúc cần, cần thiết",
+    "vocabulary" : "as needed"
+  },
+  {
+    "example" : "He appointed someone to be in charge of maintaining a supply of paper in the fax machine (Ông ấy chọn người nào đó chịu trách nhiệm duy trì việc cung cấp giấy cho máy fax)",
+    "type" : "(v): chịu trách nhiệm về; đang điều khiển, đang chỉ huy",
+    "vocabulary" : "be in charge of"
+  },
+  {
+    "example" : "The new conference room is much larger and has a capacity of one hundred people (Phòng họp mới thì lớn hơn nhiều (phòng cũ) và có khả năng chứa được một trăm người)",
+    "type" : "(n): sức chứa, dung tích, khả năng chứa đựng; khả năng, năng lực",
+    "vocabulary" : "capacity"
+  },
+  {
+    "example" : "These chairs are more durable than the first ones we looked at (Những cái ghế này bền hơn nhiều những cái ghế đầu tiên mà chúng ta đã thấy)",
+    "type" : "(adj): bền, lâu, lâu bền",
+    "vocabulary" : "durable"
+  },
+  {
+    "example" : "Employees are encouraged to take the initiative and share their ideas with management. (Nhân viên được khuyến khích đi đầu và chia sẻ ý tưởng của họ với ban quản lý)",
+    "type" : "(n): bắt đầu, khởi đầu, khởi xướng",
+    "vocabulary" : "initiative"
+  },
+  {
+    "example" : "The computer screen is making her physically sick. (Màn hình máy tính khiến cho cô ta khó chịu về mặt thể chất)",
+    "type" : "(adv): về thân thể\/cơ thể\/thể chất; theo quy luật tự nhiên, một cách vật lý",
+    "vocabulary" : "physically"
+  },
+  {
+    "example" : "The deparment was extremely pleased with the service they received from the phone provide. (Bộ phận hết sức hài lòng với dịch vụ mà họ nhận được từ nhà cung cấp dịch vụ điện thoại)",
+    "type" : "(n): người cung cấp, nhà cung cấp (supplier)",
+    "vocabulary" : "provider"
+  },
+  {
+    "example" : "The managers did not want that particular error to recur (Các trưởng phòng không muốn những lỗi cá biệt đó lại tái diễn)",
+    "type" : "(v): lặp lại, diễn lại, tái diễn, tái phát; lặp đi lặp lại",
+    "vocabulary" : "recur"
+  },
+  {
+    "example" : "The outlet store gave a 20 percent reduction in the price of the shelves and bookcases (Cửa hàng tiêu thụ đã giảm giá 20% với các kệ sách và tủ sách)",
+    "type" : "(n): ‹sự› giảm, hạ, thu nhỏ, hạ thấp (lessening, decrease)",
+    "vocabulary" : "reduction"
+  },
+  {
+    "example" : "In this industry, you must stay on top of current developments (Trong ngành công nghiệp này, anh phải nắm bắt được tình hình về các diễn biến hiện tại)",
+    "type" : "(v): nắm bắt tình hình (đang xảy ra), hiểu biết thông tin mới nhất",
+    "vocabulary" : "stay on top of"
+  },
+  {
+    "example" : "The employees stocked the shelves on a weekly basis (Các nhân viên trữ hàng lên kệ căn cứ theo mỗi tuần)",
+    "type" : "(v, n): kho\/hàng dự trữ; vốn, cổ phần",
+    "vocabulary" : "stock"
+  },
+  {
+    "example" : "When you have an appreciation for something, you can see and truly understand its good qualities (Khi bạn nhận được một sự đánh giá đúng cho thứ nào đó, bạn có thể thấy và hiểu đúng chất lượng tốt của nó)",
+    "type" : "(n): ‹sự› đánh giá, nhận thức (đúng\/cao\/sâu sắc); sự cảm kích",
+    "vocabulary" : "appreciation"
+  },
+  {
+    "example" : "This job will really test what you are made of (Công việc này sẽ thật sự kiểm tra xem anh là người thế nào)",
+    "type" : "(v): làm bằng (cái gì), gồm có (cái gì)",
+    "vocabulary" : "be made of"
+  },
+  {
+    "example" : "The company brought in new team of project planners (Công ty đã thuê một đội mới cho các nhà hoạch định dự án)",
+    "type" : "(v): Thuê, mướn, tuyển dụng, dẫn tới, mang tới",
+    "vocabulary" : "bring in"
+  },
+  {
+    "example" : "On Fridays, most employees dress casually (Vào các thứ Sáu, phần lớn nhân viên ăn mặc tùy ý (không mặc đồng phục))",
+    "type" : "(adv): bình thường, tự nhiên, không trịnh trọng, thân mật (informally)",
+    "vocabulary" : "casually"
+  },
+  {
+    "example" : "Even the most traditional companies are changing their dress code to something less formal (Thậm chí hầu hết các công ty theo lối cổ cũng đang thay đổi quy tắc ăn mặc của họ sao cho bớt trịnh trọng đi)",
+    "type" : "(n): quy định, quy tắc, luật lệ, đạo lý",
+    "vocabulary" : "code"
+  },
+  {
+    "example" : "He did not want to expose his fears and insecurity to anyone. (Anh ấy không muốn để lộ sự sợ hãi và bất an của mình cho bất cứ ai.)",
+    "type" : "(v): phơi bày, bộc lộ, phô ra, trưng bày",
+    "vocabulary" : "expose"
+  },
+  {
+    "example" : "The secretary caught a glimpse of her new boss as she was leaving the office. (Cô thư ký bắt gặp ánh mắt lướt qua của người chủ mới khi cô ấy rời khỏi văn phòng)",
+    "type" : "(n): nhìn lướt qua, thoáng qua",
+    "vocabulary" : "glimpse"
+  },
+  {
+    "example" : "The presenter ran out of time before he reached his conclusion (Người dẫn chương trình đã hết thời gian trước khi anh ta đi đến kết luận)",
+    "type" : "(adj): hết, mất, không còn",
+    "vocabulary" : "out of"
+  },
+  {
+    "example" : "Before you do a mailing, make sure that none of the addresses is outdated. (Trước khi anh gửi thư, hãy bảo đảm rằng không có địa chỉ nào hiện không còn sử dụng)",
+    "type" : "(adj): hết hạn; lỗi thời, lạc hậu, cổ, hiện nay không còn dùng (obsolete)",
+    "vocabulary" : "outdated"
+  },
+  {
+    "example" : "Bill practiced answering the telephone until he was satisfied (Bill thực tập trả lời điện thoại cho đến khi anh ta cảm thấy hài lòng)",
+    "type" : "(n, v): (n) sự thực hành; (v) thực hành, rèn luyện, tập luyện; thói quen, thủ tục",
+    "vocabulary" : "practice"
+  },
+  {
+    "example" : "Employees reinforced their learning with practice in the workplace (Các nhân viên củng cố kiến thức của mình bằng việc thực hành ở nơi làm việc)",
+    "type" : "(v): tăng cường, củng cố, gia cố",
+    "vocabulary" : "reinforce"
+  },
+  {
+    "example" : "The guarantee was made only verbally (Sự bảo đảm được cam kết chỉ bằng lời)",
+    "type" : "(adv): bằng miệng, bằng lời nói",
+    "vocabulary" : "verbally"
+  },
+  {
+    "example" : "Rewritable compact disks are more expensive than read-only CDs (Đĩa quang có khả năng ghi thì đắt hơn nhiều đĩa CD chỉ đọc)",
+    "type" : "(n): đĩa (vi tính, thể thao, đĩa hát...)",
+    "vocabulary" : "disk"
+  },
+  {
+    "example" : "The computer program facilitated the scheduling of appointments (Chương trình máy tính làm cho việc lập lịch các buổi hẹn được thuận tiện)",
+    "type" : "(v): làm cho dễ dàng, làm cho thuận tiện",
+    "vocabulary" : "facilitate"
+  },
+  {
+    "example" : "We set up a new network in my office to share files (Chúng tôi thiết lập một mạng (máy tính) mới trong văn phòng để chia sẻ tập tin)",
+    "type" : "(v, n): (v) kết nối, liên kết; (n) mạng lưới, hệ thống",
+    "vocabulary" : "network"
+  },
+  {
+    "example" : "This brand of computers is extremely popular among college students (Thương hiệu máy tính này hết sức nổi tiếng trong các sinh viên đại học cao đẳng)",
+    "type" : "(n): ‹tính\/sự› đại chúng, phổ biến, nổi tiếng, được yêu mến",
+    "vocabulary" : "popularity"
+  },
+  {
+    "example" : "There is a process for determining why your computer is malfunctioning (Có một cách thức để xác định xem tại sao máy tính của anh bị trục trặc)",
+    "type" : "(v, n): (v) xử lý; (n) quá trình, sự tiến triển, sự tiến hành; phương pháp, cách thức, quy trình",
+    "vocabulary" : "process"
+  },
+  {
+    "example" : "I've replaced the hard drive that was malfunctioning (Tôi đã thay thế cái đĩa cứng bị trục trặc)",
+    "type" : "(v): thay thế; đặt vào lại chỗ cũ",
+    "vocabulary" : "replace"
+  },
+  {
+    "example" : "We see a revolution in the computer field almost every day (Chúng ta thấy một cuộc cách mạng trong lãnh vực máy tính hầu như mỗi ngày)",
+    "type" : "(n): vòng, tua, sự xoay vòng; cuộc cách mạng",
+    "vocabulary" : "revolution"
+  },
+  {
+    "example" : "The new employee proved how sharp she was when she mastered the new program in a few days (Nhân viên mới đã chứng tỏ được cô ấy thông minh đến thế nào khi mà cô đã làm chủ được chương trình mới trong vài ngày)",
+    "type" : "(adj): sắc, bén, rõ rệt, sắc nét; thông minh, láu lỉnh; thình lình, đột ngột",
+    "vocabulary" : "sharp"
+  },
+  {
+    "example" : "The software developer has excellent technical skills and would be an asset to our software programming team (Người phát triển phần mềm có những kỹ năng chuyên môn xuất săc và là một vốn quý đối với đội ngũ lập trình phần mềm của chúng tôi)",
+    "type" : "(n): kỹ năng, kỹ xảo; sự khéo léo, sự tinh xảo",
+    "vocabulary" : "skill"
+  },
+  {
+    "example" : "Many computers come pre-loaded with software (Nhiều máy tính đã có sẵn phần mềm)",
+    "type" : "(n): phần mềm, chương trình máy tính",
+    "vocabulary" : "software"
+  },
+  {
+    "example" : "You can store more data on a zip drive (Anh có thể lưu trữ dữ liệu nhiều hơn trên ổ đĩa nén)",
+    "type" : "(v): cửa hàng, cửa hiệu, kho hàng",
+    "vocabulary" : "store"
+  },
+  {
+    "example" : "Technically speaking, the virus infected only script files (Nói về mặt kỹ thuật thì virus chỉ tác động lên các tập tin script (tập tin kịch bản thi hành))",
+    "type" : "(adv): nói đến\/nói về mặt kỹ thuật; một cách chuyên môn\/nghiêm túc",
+    "vocabulary" : "technically"
+  },
+  {
+    "example" : "All the students were asked to assemble in the main hall (Tất cả các sinh viên được yêu cầu tập hợp ở hội trường chính.)",
+    "type" : "(v): thu thập, lắp ráp, tập hợp",
+    "vocabulary" : "assemble"
+  },
+  {
+    "example" : "To speed up the mailing, we should prepare the labels beforehand (Để tăng tốc gửi thư, chúng ta nên chuẩn bị nhãn trước.)",
+    "type" : "(adv): sẵn, có sẵn, trước, sớm",
+    "vocabulary" : "beforehand"
+  },
+  {
+    "example" : "She will have to spend two more days in the hospital due to complications during the surgery. (Cô sẽ phải mất hai ngày nữa trong bệnh viện do biến chứng trong khi phẫu thuật.)",
+    "type" : "(n): sự phức tạp, sự rắc rối",
+    "vocabulary" : "complication"
+  },
+  {
+    "example" : "We hired a courier to deliver the package (Chúng tôi đã thuê một người đưa thư để phân phát các kiện hàng.)",
+    "type" : "(n): người đưa tin, người đưa thư, người chuyển phát",
+    "vocabulary" : "courier"
+  },
+  {
+    "example" : "It's important that this document be there tomorrow, so please send it express mail. (Việc tài liệu này phải có ở chổ ngày mai vì nó rất quan trọng, do đó nên hãy gửi thư chuyển phát nhanh)",
+    "type" : "(adj): nhanh, hỏa tốc, tốc hành.",
+    "vocabulary" : "express"
+  },
+  {
+    "example" : "Fold the letter into three parts before stuffing it into the envelope (Gấp lá thư làm ba bước trước khi nhét nó vào bao thư.)",
+    "type" : "(v): nếp gấp, gấp lại",
+    "vocabulary" : "fold"
+  },
+  {
+    "example" : "There is no single correct layout for business letters (Trong thư thương mại thì không có bổ cục nào là chuẩn hoàn toàn hết cả.)",
+    "type" : "(n): sự bổ trí trang giấy",
+    "vocabulary" : "layout"
+  },
+  {
+    "example" : "You should mention in the letter that we can arrange for mailing the brochures as well as printing them (Anh nên đề cập trong thư rằng chúng ta có thể thu xếp gửi (thư) tờ bướm cũng như là in ấn chúng.)",
+    "type" : "(n, v): (n) sự đề cập; (v) nói đến, đề cập đếm, đề xuất",
+    "vocabulary" : "mention"
+  },
+  {
+    "example" : "The petition was photocopied and distributed to workers who will collect the neccessary signatures (Đơn kiến nghị được photocopy và phân phát đến những công nhân nào sẽ thu thập chữ ký cần thiết.)",
+    "type" : "(n, v): (n) ‹sự\/đơn› cầu xin, đơn kiến nghị, đơn thỉnh cầu; (v) cầu xin, kiến nghị",
+    "vocabulary" : "petition"
+  },
+  {
+    "example" : "This letter was not proofed very carefully; it is full of typing mistakes (Lá thư này không được kiểm lỗi cẩn thận; nó đầy những lỗi đánh máy.)",
+    "type" : "(n): bằng chứng, chứng cớ",
+    "vocabulary" : "proof"
+  },
+  {
+    "example" : "You can register this mail for an additional $2.2 (Anh ấy có thể gửi đảm bảo thư này với một khoản 2.2 đô-la phí bổ sung)",
+    "type" : "(v): đăng ký, sổ, sổ sách, công- tơ",
+    "vocabulary" : "register"
+  },
+  {
+    "example" : "The brochure was revised several times before it was sent to the printer (Tờ bướm được duyệt lại vài lần trước khi nó được gửi đi in.)",
+    "type" : "(v): đọc lại, xem lại, duyệt lại, sửa lại (bản in thử, đạo luật...)",
+    "vocabulary" : "revise"
+  },
+  {
+    "example" : "The computer analyst was glad to have chosen a field in which jobs were abundant (Người phân tích máy tính hài lòng vì đã chọn một lãnh vực mà trong đó việc làm rất nhiều)",
+    "type" : "(adj): nhiều, phong phú, thừa",
+    "vocabulary" : "abundant"
+  },
+  {
+    "example" : "The success of the company was based on its early accomplishments (Sự thành công của công ty được dựa trên những thành tựu trước đó của nó)",
+    "type" : "(n): thành tựu, thành tích; sự hoàn thành, sự làm xong",
+    "vocabulary" : "accomplishment"
+  },
+  {
+    "example" : "Our goal this year is to bring together the most creative group we can find (Mục tiêu của chúng tôi trong năm nay họp thành một sáng tạo nhất.)",
+    "type" : "(v): gom lại; nhóm lại, họp lại",
+    "vocabulary" : "bring together"
+  },
+  {
+    "example" : "The recruiter will interview all candidates for the position (Người tuyển dụng sẽ phỏng vấn tất cả ứng viên cho vị trí công việc)",
+    "type" : "(n): ứng cử viên, thí sinh, người dự thi, người dự tuyển",
+    "vocabulary" : "candidate"
+  },
+  {
+    "example" : "In order for that small business to succeed, it needs to come up with a new strategy (Để những doanh nghiệp nhỏ có thể thành công thì nó cần đưa ra một chiến lược mới.)",
+    "type" : "(v): đưa ra, phát hiện, khám phá, ý định",
+    "vocabulary" : "come up with"
+  },
+  {
+    "example" : "Generally the first year's salary is commensurate with experience and education level (Nói chung thì tiền lương năm đầu tiên tương xứng với kinh nghiệm và trình độ học vấn)",
+    "type" : "(adj): (+with) xứng với, tương xứng với",
+    "vocabulary" : "commensurate"
+  },
+  {
+    "example" : "It is difficult to make a decision when both candidates seem to be a perfect match (Thật là khó đưa ra quyết định khi mà cả 2 ứng viên dường như ngang sức ngang tài)",
+    "type" : "(n): ‹cái› xứng nhau, hợp nhau; địch thủ, đối thủ, người ngang tài sức;",
+    "vocabulary" : "match"
+  },
+  {
+    "example" : "The recruiter told him that, unfortunately, he did not fit the job profile (Người tuyển dụng nói rằng, thật không may, anh ta không hợp với bản tóm lược công việc)",
+    "type" : "(n): tiểu sử sơ lược, bản tóm lược các đặc tính",
+    "vocabulary" : "profile"
+  },
+  {
+    "example" : "The applicant had so many qualifications that the company created a new position for her (Người xin việc có nhiều văn bằng chứng nhận đến nỗi cty đã tạo ra chỗ làm mới cho cô ta)",
+    "type" : "(n): tư cách, khả năng, năng lực, trình độ (để làm cái gì);",
+    "vocabulary" : "qualification"
+  },
+  {
+    "example" : "The new recruits spent the entire day in training (Những nhân viên mới đã dành ra cả ngày để rèn luyện)",
+    "type" : "(v, n): (v) tuyển dụng; (n) lính mới, nhân viên mới, thành viên mới",
+    "vocabulary" : "recruit"
+  },
+  {
+    "example" : "Submit your r&eacute;sum&eacute; to the human resources department (Hãy nộp sơ yếu lý lịch của anh cho bộ phận nhân sự (bộ phận nguồn nhân lực))",
+    "type" : "(v): trình, đệ trình; biện hộ",
+    "vocabulary" : "submit"
+  },
+  {
+    "example" : "Five interviews later, Ms. Lopez had the job, but it was the most time-consuming process she had ever gone through (Năm cuộc phỏng vấn gần đây, cô Lopez đã có việc làm, nhưng nó là quá trình tốn nhiều thời gian nhất mà cô ấy đã từng trải qua)",
+    "type" : "(adj): tốn nhiều thời gian, dài dòng",
+    "vocabulary" : "time-consuming"
+  },
+  {
+    "example" : "The designer's ability was obvious from her porfolio (Năng lực của người thiết kế đã rõ ràng từ cặp hồ sơ (thiết kế) của cô ta.)",
+    "type" : "(n): năng lực, khả năng, tài năng",
+    "vocabulary" : "ability"
+  },
+  {
+    "example" : "The college graduate applied for three jobs and received three offers. (Người tốt nghiệp cao đẳng đã xin việc ở 3 nơi và nhận được 3 lời mời chào.)",
+    "type" : "(v): nộp, ứng tuyển, áp dụng, ứng dụng,; thỉnh cầu, xin, xin việc, tim việc",
+    "vocabulary" : "apply"
+  },
+  {
+    "example" : "Your background in the publishing industry is a definite asset for this job (Kiến thức của anh trong công nghiệp xuất bản là một vốn quý rõ ràng cho công việc này.)",
+    "type" : "(n): kiến thức, kinh nghiệm, quá trình đào tạo, quá trình học tập",
+    "vocabulary" : "background"
+  },
+  {
+    "example" : "If you want peace be ready for war (Nếu bạn muốn hoà bình, hãy sẵn sàng cho chiến tranh)",
+    "type" : "(v): sẵn sàng cho",
+    "vocabulary" : "be ready for"
+  },
+  {
+    "example" : "The HR manager called in all the qualified applicants for a 2nd interview (Giám đốc nhân sự mời tất cả các ứng viên đủ điều kiện cho một cuộc phỏng vấn lần 2)",
+    "type" : "(v): yêu cầu, mời tới",
+    "vocabulary" : "call in"
+  },
+  {
+    "example" : "Good applicants show confidence during an interview (Những người xin việc giỏi thể hiện sự tự tiwn trong suốt cuộc phỏng vấn.)",
+    "type" : "(n): sự tin cậy, tin tưởng",
+    "vocabulary" : "confidence"
+  },
+  {
+    "example" : "The company is constanly looking for highly trained employees (Công ty không ngừng tìm kiếm những nhân viên được đào tạo tốt.)",
+    "type" : "(adj): Luôn luôn, liên tục, liên miên",
+    "vocabulary" : "constantly"
+  },
+  {
+    "example" : "Our department head is an expert in financing (Thủ trưởng bộ phận của chúng tôi là một chuyên gia về tài chính.)",
+    "type" : "(n): Chuyên gia, chuyên viên",
+    "vocabulary" : "expert"
+  },
+  {
+    "example" : "Always follow up an interview with a thank-you note (Luôn bám sát một cuộc phỏng vấn với một lá thư cám ơn ngắn.)",
+    "type" : "(v, n): (v) theo sau, bám miết; (n) tiếp theo, kế tiếp",
+    "vocabulary" : "follow up"
+  },
+  {
+    "example" : "Marla was hesitant about negotiating a higher salary (Marla lưỡng lự về việc thương lượng một mức lương cao hơn.)",
+    "type" : "(adj): Do dự, lưỡng lự, ngập ngừng",
+    "vocabulary" : "hesitant"
+  },
+  {
+    "example" : "The local MP will start the race and present the prizes ()",
+    "type" : "(v): Đưa ra, bày tỏ, giới thiệu",
+    "vocabulary" : "present"
+  },
+  {
+    "example" : "Her hands trembled and she spoke weakly at the interview (Tay cô ta run và cô ta nói giọng yếu ớt tại buổi phỏng vấn.)",
+    "type" : "(adv): Một cách yếu ớt, yếu, ốm yếu",
+    "vocabulary" : "weakly"
+  },
+  {
+    "example" : "Interviews were conducted over a period of three weeks. (Các cuộc phỏng vấn được tổ chức trong suốt giai đoạn kéo dài 3 tuần)",
+    "type" : "(n, v): (n) hạnh kiểm, tư cách, cách cư xử; ‹sự› chỉ đạo, điều khiển, quản lý... (v) tiến hành, cư xử",
+    "vocabulary" : "conduct"
+  },
+  {
+    "example" : "The new training program generated a lot of interest among employees (Chương trình huấn luyện mới đã tạo ra nhiều lợi ích cho mỗi nhân viên)",
+    "type" : "(v): sinh ra, đẻ ra; làm ra, tạo ra, phát ra",
+    "vocabulary" : "generate"
+  },
+  {
+    "example" : "She was hired after her third interview (Cô ta đã được thuê sau lần phỏng vấn thứ ba)",
+    "type" : "(n, v): ‹sự› thuê, mướn; tiền trả công",
+    "vocabulary" : "hire"
+  },
+  {
+    "example" : "Employees are encouraged to take courses in order to keep up with new developments (Nhân viên được khuyến khích tham dự các khóa đào tạo để theo kịp sự phát triển mới)",
+    "type" : "(v): theo kịp, bắt kịp, đạt cho bằng được",
+    "vocabulary" : "keep up with"
+  },
+  {
+    "example" : "Staff members looked up to the director because he had earned their respect over the years (Tập thể nhân viên tôn kính người giám đốc vì ông đã được hưởng sự kính trọng của họ suốt những năm qua)",
+    "type" : "(v): tôn kính, kính trọng, khâm phục",
+    "vocabulary" : "look up to"
+  },
+  {
+    "example" : "She was a friend and mentor to many young actors (Cô là một người bạn và người cố vấn cho nhiều diễn viên trẻ)",
+    "type" : "(n): người thầy (thông thái), người cố vấn (dày dạn kinh nghiệm)",
+    "vocabulary" : "mentor"
+  },
+  {
+    "example" : "They're on track to make record profits (Họ đi tìm cách để tạo ra lợi nhuận đột phá.)",
+    "type" : "(n): theo dõi, đi tìm",
+    "vocabulary" : "on track"
+  },
+  {
+    "example" : "We put the rejects in this box (Chúng tôi để những phế phẩm vào trong hộp này)",
+    "type" : "(n, v ): (v) vật bị loại; (n)đồ thừa, đồ bỏ, phế phẩm",
+    "vocabulary" : "reject"
+  },
+  {
+    "example" : "Set up a time and place for the meeting and then inform everyone who is involved (Thiết lập một thời gian và địa điểm cho cuộc họp và sau đó thông báo cho tất cả những người có liên quan)",
+    "type" : "(adj, v): thiết lập, tạo dựng",
+    "vocabulary" : "set up"
+  },
+  {
+    "example" : "The director's success came after years of hiring the right people at the right time (Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm)",
+    "type" : "(n): ‹sự\/người› thành công, thành đạt, thắng lợi",
+    "vocabulary" : "success"
+  },
+  {
+    "example" : "The new hire received such good training that, within a week, she was as productive as the other workers (Người nhân viên mới nhận được sự huấn luyện tốt đến nỗi, trong vòng một tuần, cô đã có năng suất như là các công nhân khác)",
+    "type" : "(n): ‹sự› rèn luyện, tập luyện, huấn luyện, dạy dỗ, đào tạo",
+    "vocabulary" : "training"
+  },
+  {
+    "example" : "The personnel officer updated the employees on the latest personnel changes (Thư ký văn phòng cập nhật cho nhân viên biết những thay đổi nhân sự mới nhất)",
+    "type" : "(v, n): (v) cập nhật; (n) sự cập nhật, thông tin mới nhất, hành động cập nhật;",
+    "vocabulary" : "update"
+  },
+  {
+    "example" : "The manager didn't have any basis for firing the employee (Người trưởng phòng không có bất kỳ cơ sở nào cho việc sa thải người nhân viên)",
+    "type" : "(n): nền tảng, cơ sở, căn cứ",
+    "vocabulary" : "basis"
+  },
+  {
+    "example" : "Although the analyst earned a better salary at his new job, his benefits were better at his previous job (Mặc dù chuyên viên phân tích kiếm được mức lương tốt hơn với công việc mới, nhưng phúc lợi của anh ta lại tốt hơn với công việc trước đây)",
+    "type" : "(n, v): (n) chế độ đãi ngộ, lợi ích, phúc lợi; (v) được lợi",
+    "vocabulary" : "benefit"
+  },
+  {
+    "example" : "The company will compensate employees for any travel expenses (Công ty sẽ bù cho nhân viên về bất kỳ chi phí đi lại nào)",
+    "type" : "(v): bù, đền bù, bồi thường",
+    "vocabulary" : "compensate"
+  },
+  {
+    "example" : "The manager delicately asked about the health of his client (Người trưởng phòng tế nhị hỏi thăm sức khỏe khách hàng của anh ta)",
+    "type" : "(adv): ‹một cách› tinh vi, tế nhị, lịch thiệp, khôn khéo, thận trọng",
+    "vocabulary" : "delicately"
+  },
+  {
+    "example" : "Some employees may be eligible for the tuition reimbursement plan (Một số nhân viên có thể đủ tiêu chuẩn cho kế hoạch hoàn trả học phí)",
+    "type" : "(adj): thích hợp, đủ tư cách, đủ tiêu chuẩn; có thể chọn được",
+    "vocabulary" : "eligible"
+  },
+  {
+    "example" : "My manager thinks flexibly, enabling herself to solve many sticky problems (Trưởng phòng của tôi suy nghĩ linh hoạt, cho phép bà tự giải quyết nhiều vấn đề khó chịu)",
+    "type" : "(adv): ‹một cách› mềm dẻo, linh hoạt, linh động",
+    "vocabulary" : "flexibly"
+  },
+  {
+    "example" : "You must know what you want and what you can accept when you negotiate a salary (Anh phải biết mình muốn gì và mình có thể chấp nhận gì khi thương lượng về lương bổng)",
+    "type" : "(v): thương lượng, đàm phán, điều đình",
+    "vocabulary" : "negotiate"
+  },
+  {
+    "example" : "We need to raise the standard for timeliness (Chúng ta cần nâng tiêu chuẩn về tính hợp thời)",
+    "type" : "(n, v): (n) ‹sự› nâng lên, tăng lên, tăng lương; (v) nâng lên, đưa lên",
+    "vocabulary" : "raise"
+  },
+  {
+    "example" : "She was forced to retire early from teaching because of ill health (Cô bị buộc phải nghỉ hưu sớm trong việc giảng dạy vì lý do sức khỏe)",
+    "type" : "(v): nghỉ hưu",
+    "vocabulary" : "retire"
+  },
+  {
+    "example" : "The day that Ms. Weng became fully vested in the retirement plan, she gave her two weeks' notice (Ngày mà bà Weng được trao đầy đủ kế hoạch nghỉ hưu, bà đã nhận thông báo trước 2 tuần)",
+    "type" : "(adj): được trao, được ban, được phong; quyền được bảo đảm",
+    "vocabulary" : "vested"
+  },
+  {
+    "example" : "Hourly wages have increase by 20 percent over the last two years (Tiền công theo giờ đã tăng 20% qua 2 năm vừa rồi)",
+    "type" : "(n): tiền công, tiền lương (thường trả theo giờ)",
+    "vocabulary" : "wage"
+  },
+  {
+    "example" : "Are you aware of the new employee's past work history? (Anh có biết về lịch sử làm việc trước đây của người nhân viên mới không?)",
+    "type" : "(v): am hiểu, nhận biết, có ý thức, biết, biết được",
+    "vocabulary" : "be aware of"
+  },
+  {
+    "example" : "Joseph's achievements in R&amp;D will go down in company history (Thành tựu của Joseph ở bộ phận R&D sẽ được ghi vào lịch sử công ty)",
+    "type" : "(n): thành tích, thành tựu; ‹sự› đạt được, hoàn thành",
+    "vocabulary" : "achievement"
+  },
+  {
+    "example" : "Make sure your boss is aware of the work you contributed to the project (Phải chắc là sếp của bạn nhận biết được việc (mà) bạn đã đóng góp vào dự án)",
+    "type" : "(v): đóng góp, góp phần; gia tăng, cộng thêm",
+    "vocabulary" : "contribute"
+  },
+  {
+    "example" : "The director's dedication to a high-quality product has motivated many of his employees (Sự cống hiến của giám đốc cho một sản phẩm chất lượng cao đã thúc đẩy nhiều nhân viên)",
+    "type" : "(n): ‹sự› cống hiến, hiến dâng, tận tâm, tận tụy",
+    "vocabulary" : "dedication"
+  },
+  {
+    "example" : "We look forward to seeing you at the next meeting (Chúng tôi mong đợi được gặp anh vào cuộc họp tiếp sau)",
+    "type" : "(v): mong đợi, mong chờ, trông mong",
+    "vocabulary" : "look forward to"
+  },
+  {
+    "example" : "The staff is looking to their supervisor for guidance and direction (Nhân viên đang trông cậy vào người giám sát của họ về sự chỉ đạo và hướng dẫn)",
+    "type" : "(v): tin vào, trông cậy vào, mong đợi ở (ai)",
+    "vocabulary" : "look to"
+  },
+  {
+    "example" : "Even though your assistant is loyal, you have to question his job performance (Dù là trợ lý của anh trung thành, anh vẫn phải đặt vấn đề về kết quả công việc của hắn)",
+    "type" : "(adj): trung thành, trung nghĩa, trung kiên",
+    "vocabulary" : "loyal"
+  },
+  {
+    "example" : "Employees are evaluated on their merit and not on seniority (Nhân viên được đánh giá theo công lao của họ và không theo thâm niên)",
+    "type" : "(n): giá trị, xuất sắc; công lao, công trạng",
+    "vocabulary" : "merit"
+  },
+  {
+    "example" : "Her tardiness was obviously resented by her coworkers (Sự chậm chạp của cô ta rõ ràng là bị đồng nghiệp bực bội)",
+    "type" : "(adv): ‹một cách› rõ ràng, hiển nhiên (clearly, evidently)",
+    "vocabulary" : "obviously"
+  },
+  {
+    "example" : "The managers had a very productive meeting and were able to solve many of the problems (Người trưởng phòng có một cuộc họp rất hiệu quả và đã có thể làm sáng tỏ nhiều vấn đề)",
+    "type" : "(adj): hữu ích; có năng suất, có hiệu quả, sinh lợi cao",
+    "vocabulary" : "productive"
+  },
+  {
+    "example" : "Even though the sales associate had a good year, it wasn't possible to promote him (Dù là người trợ lý kinh doanh đã có một năm tốt, thì vẫn không thể thăng chức anh ta)",
+    "type" : "(v): xúc tiến, đẩy mạnh, khuyến khích; đề xướng, đề đạt; thăng tiến, thăng chức",
+    "vocabulary" : "promote"
+  },
+  {
+    "example" : "Recognition of excellent work should be routine for every manager (Sự nhận ra công việc xuất sắc là chuyện thường ngày của mọi trưởng phòng)",
+    "type" : "(n): ‹sự› công nhận, thừa nhận, nhận ra",
+    "vocabulary" : "recognition"
+  },
+  {
+    "example" : "The expert valued the text at $7,000 (Chuyên gia đã định giá nguyên bản\/cuốn sách là 7 ngàn đô-la)",
+    "type" : "(v): đánh giá, định giá; chuộng, quý, coi trọng",
+    "vocabulary" : "value"
+  },
+  {
+    "example" : "Lois compared the sweaters carefully to determine which was a better bargain (Lois so sánh cẩn thận những chiếc áo len để xác định cái nào là món hời hơn)",
+    "type" : "(v, n): (v) trả giá, mặc cả; (n) món hời, cơ hội tốt (buôn bán)",
+    "vocabulary" : "bargain"
+  },
+  {
+    "example" : "Moya doesn't like crowds so she cannot bear to shop during the holiday rush (Moya không thích đám đông vì thế cô không chịu đi mua sắm trong kỳ đổ xô đi sắm dịp lễ)",
+    "type" : "(v): chịu đựng, cam chịu",
+    "vocabulary" : "bear"
+  },
+  {
+    "example" : "Suspicious behavior in a department store will draw the attention of the security guards (Thái độ khả nghi ở trong cửa hàng bách hóa sẽ thu hút sự chú ý của nhân viên an ninh)",
+    "type" : "(n): thái độ, hành vi, cách cư xử, cách đối xử, cách ăn ở",
+    "vocabulary" : "behaviour"
+  },
+  {
+    "example" : "The line at this checkout is too long, so let's look for another (Hàng chờ tại quầy tính tiền này dài quá, vậy chúng ta hãy đi tìm hàng khác)",
+    "type" : "(n): thanh toán, quầy thanh toán (ở siêu thị, KS...)",
+    "vocabulary" : "checkout"
+  },
+  {
+    "example" : "I like to dress for comfort if I'm spending the day shopping (Tôi thích ăn mặc thoải mái (không gò bó) nếu tôi bỏ ra cả ngày đi mua sắm)",
+    "type" : "(v, n): (v) làm khuây khỏa; (n) sự thoải mái,thoải mái, dễ dàng",
+    "vocabulary" : "comfort"
+  },
+  {
+    "example" : "The new manager has significantly expanded the store's inventory (Người giám đốc mới đã chú trọng triển khai việc kiểm kê kho hàng)",
+    "type" : "(v): mở rộng, trải rộng, giãn ra, nở ra; khai triển, phát triển",
+    "vocabulary" : "expand"
+  },
+  {
+    "example" : "The collector likes to explore antique shops looking for bargains (Nhà sưu tập thích đi khám phá các cửa hàng đồ cổ để tìm kiếm các món hời)",
+    "type" : "(v): khảo sát, thăm dò, khám phá",
+    "vocabulary" : "explore"
+  },
+  {
+    "example" : "Do you think I can get all these items into one bag? (Cô có nghĩ rằng tôi có thể để tất cả món đồ này vào một cái túi không?)",
+    "type" : "(n): khoản, món, mục, mặt hàng",
+    "vocabulary" : "item"
+  },
+  {
+    "example" : "The jewelry store has a mandatory policy of showing customers only one item at a time (Cửa hàng nữ trang có một chính sách bắt buộc là chỉ cho khách xem mỗi lúc một món đồ)",
+    "type" : "(adj): (thuộc) lệnh, bắt buộc; ủy nhiệm, ủy thác",
+    "vocabulary" : "mandatory"
+  },
+  {
+    "example" : "I am very impressed with the selection of merchandise at this store (Tôi rất có ấn tượng với sự tuyển chọn hàng hóa tại cửa hàng này)",
+    "type" : "(n): hàng hóa",
+    "vocabulary" : "merchandise"
+  },
+  {
+    "example" : "Our store strictly enforces its return policy (Cửa hàng chúng tôi thực thi nghiêm túc chính sách hoàn trả hàng của mình)",
+    "type" : "(adv): ‹một cách› nghiêm ngặt, nghiêm khắc; chính xác, đúng, hoàn toàn",
+    "vocabulary" : "strictly"
+  },
+  {
+    "example" : "The clothing store tries to stay on top of all the new trends (Cửa hàng trang phục cố gắng nắm bắt tình hình về tất cả các mốt mới)",
+    "type" : "(n): khuynh hướng, xu hướng, phương hướng, mốt đang thịnh hành",
+    "vocabulary" : "trend"
+  },
+  {
+    "example" : "The consultant that we hired recommends that we don't diversify at this time (Nhà tư vấn mà chúng tôi thuê khuyên rằng chúng tôi không được thay đổi vào lúc này)",
+    "type" : "(v): đa dạng hóa, làm cho thành nhiều dạng, thay đổi",
+    "vocabulary" : "diversify"
+  },
+  {
+    "example" : "The new enterprise quickly established an account with the office supply store (Công ty mới thiết lập một cách nhanh chóng bản thanh toán với cửa hàng đồ dùng văn phòng (bàn ghế, văn phòng phẩm, máy fax...))",
+    "type" : "(n): công trình, dự án lớn; tổ chức kinh doanh, hãng, công ty, xí nghiệp",
+    "vocabulary" : "enterprise"
+  },
+  {
+    "example" : "He was, essentially, a teacher, not a manager. (Về cơ bản thì anh ấy như là 1 giáo viên chứ không phải người quản lý.)",
+    "type" : "(adv): cần thiết",
+    "vocabulary" : "essentially"
+  },
+  {
+    "example" : "This everyday routine of having to check inventory is boring (Công việc thường ngày phải kiểm tra hàng tồn kho thì thật chán)",
+    "type" : "(adj): hàng ngày, thường ngày, thông thường",
+    "vocabulary" : "everyday"
+  },
+  {
+    "example" : "What is the function of this device? (Chức năng của thiết bị này là gì?)",
+    "type" : "(v, n): (v) thực hiện chức năng; (n) chức năng, nhiệm vụ",
+    "vocabulary" : "function"
+  },
+  {
+    "example" : "I've been maintaining a list of office supplies that are in greatest demand (Tôi đang giữ một danh sách các nơi cung cấp đồ dùng văn phòng được ưa chuộng nhất)",
+    "type" : "(v): bảo quản, giữ gìn, duy trì",
+    "vocabulary" : "maintain"
+  },
+  {
+    "example" : "The employee obtained the report from her supervisor (Người nhân viên thu thập báo cáo từ người giám sát của của cô ta)",
+    "type" : "(v): đạt được, thu được, giành được, kiếm được (to acquire)",
+    "vocabulary" : "obtain"
+  },
+  {
+    "example" : "Here are the prerequisites that you need to purchase before coming to class (Đây là những thứ đòi hỏi trước hết mà bạn cần phải sắm trước khi vào lớp học)",
+    "type" : "(n): (điều\/điều kiện) tiên quyết, cần trước hết, đòi hỏi trước hết",
+    "vocabulary" : "prerequisite"
+  },
+  {
+    "example" : "The quality of their clothes has fallen ever since they started using cheaper fabrics to make them (Chất lượng quần áo của họ đã bị sa sút kể từ khi họ bắt đầu dùng các loại vải rẻ tiền hơn để làm ra chúng)",
+    "type" : "(n): chất lượng; phẩm chất; đặc tính, năng lực, tài năng, đức tính",
+    "vocabulary" : "quality"
+  },
+  {
+    "example" : "Her smooth manner won her the appreciation of the manager but not her colleagues (Thái độ hòa nhã của cô ta đã thu được sự đánh giá cao của giám đốc, nhưng không (thu phục) được đồng nghiệp)",
+    "type" : "(adj): nhẵn, trơn, mượt, phẳng lặng; trôi chảy, êm thấm; hòa nhã, lễ độ",
+    "vocabulary" : "smooth"
+  },
+  {
+    "example" : "I can't tell you the source of this information (Tôi không thể nói cho anh về nguồn của thông tin này)",
+    "type" : "(n): nguồn, nguồn gốc",
+    "vocabulary" : "source"
+  },
+  {
+    "example" : "We do not have enough stationery, so please order some more (Chúng ta không có đủ giấy và bao thư, vậy hãy đặt hàng thêm một ít nữa)",
+    "type" : "(n): đồ dùng văn phòng (giấy để viết và bao thư)",
+    "vocabulary" : "stationery"
+  },
+  {
+    "example" : "To gauge these figures accurately, we first need to get some facts from the shipping department (Để đánh giá chính xác những con số này, trước hết chúng ta cần lấy một số dữ kiện từ bộ phận vận chuyển hàng hóa)",
+    "type" : "(adv): ‹một cách› chính xác, đúng đắn, xác đáng",
+    "vocabulary" : "accurately"
+  },
+  {
+    "example" : "Lou, our favorite carrier, takes extra care of our boxes marked 'fragile' (Lou, người vận chuyển ưa thich của chúng tôi, đã phải cẩn thận hơn thường lệ với những cái hộp của chúng tôi có dán nhãn Dễ vỡ)",
+    "type" : "(n): ‹người\/vật\/hãng\/công ty› mang, đưa, chuyên chở, vận chuyển, vận tải",
+    "vocabulary" : "carrier"
+  },
+  {
+    "example" : "Her expectations were so high, we knew they would be hard to fulfill (Những mong đợi của cô ta quá cao, chúng tôi biết họ thật khó để thực hiện)",
+    "type" : "(v): thực hiện, thi hành; hoàn thành, làm tròn",
+    "vocabulary" : "fulfill"
+  },
+  {
+    "example" : "Ellen cataloged the complaints according to severity (Ellen chia thành từng mục các lời phàn nàn tùy theo tính nghiêm trọng)",
+    "type" : "(v, n): bản liệt kê, quyển danh mục, tập giới thiệu SP",
+    "vocabulary" : "catalog"
+  },
+  {
+    "example" : "A dependable stream of inventory is integral to reliable shipping of orders (Một dòng tóm tắt có căn cứ là không thể thiếu cho vận chuyển xác thực của các đơn hàng)",
+    "type" : "(adj): tính toàn bộ\/toàn vẹn, cần cho tính toàn bộ\/toàn vẹn; cần thiết, không thể thiếu",
+    "vocabulary" : "integral"
+  },
+  {
+    "example" : "The store closes one day a year so that the staff can take inventory of the stockroom (Cửa hàng đóng cửa 1 ngày mỗi năm để cho nhân viên có thể thực hiện kiểm kê kho hàng)",
+    "type" : "(n): ‹sự\/bản› kiểm kê, tóm tắt; hàng hóa tồn kho, hàng trong kho",
+    "vocabulary" : "inventory"
+  },
+  {
+    "example" : "The shipping staff minimized customer complaints by working overtime to deliver the packages quickly (Nhân viên hãng tàu đã giảm thiểu lời phàn nàn của khách hàng bằng cách làm việc ngoài giờ để phân phối các gói hàng nhanh chóng)",
+    "type" : "(v): giảm thiểu, giảm đến mức tối thiểu, tối thiểu hóa; đánh giá thấp",
+    "vocabulary" : "minimize"
+  },
+  {
+    "example" : "We had too much stock on hand, so we had a summer sale (Chúng ta đang có sẵn quá nhiều hàng tồn, vậy chúng ta phải có một đợt bán giá hạ mùa hè)",
+    "type" : "(adj): có thể dùng được, có sẵn",
+    "vocabulary" : "on hand"
+  },
+  {
+    "example" : "I will remember the combination to the safe without writing it down (Tôi sẽ nhớ khóa số của két sắt mà không phải ghi lại nó)",
+    "type" : "(v): nhớ, ghi nhớ",
+    "vocabulary" : "remember"
+  },
+  {
+    "example" : "Eva shipped the package carefully, since she knew the contents were made of glass (Eva đã chuyển hàng một cách cẩn thận, bởi vì cô biết bên trong được làm bằng thủy tinh)",
+    "type" : "(v): tàu thủy, máy bay",
+    "vocabulary" : "ship"
+  },
+  {
+    "example" : "We are sufficiently organized to begin transferring the palettes tomorrow (Chúng tôi đã tạo ra đủ để bắt đầu chuyển các tấm nâng hàng (pa-let) vào ngày mai)",
+    "type" : "(adv): đủ, có đủ",
+    "vocabulary" : "sufficiently"
+  },
+  {
+    "example" : "By making better use of our supplies, we can avoid ordering until next month ()",
+    "type" : "(n, v): (n) ‹sự\/đồ\/nguồn\/_› cung cấp, đáp ứng, dự trữ, tiếp tế cấp; (v) cung cấp",
+    "vocabulary" : "supply"
+  },
+  {
+    "example" : "What did they charge for the repairs ? (Họ đã tính phí gì cho việc sửa chữa?)",
+    "type" : "(v, n): (v) tính phí; (n) tiền phải trả, tiền công, thù lao",
+    "vocabulary" : "charge"
+  },
+  {
+    "example" : "The clerk is responsible for compiling the orders at the end of the day (Người nhân viên chịu trách nhiệm soạn các đơn đặt hàng vào cuối ngày)",
+    "type" : "(v): soạn, biên soạn, soạn thảo",
+    "vocabulary" : "compile"
+  },
+  {
+    "example" : "Let's make sure all invoices sent to customers are kept in alphabetical order (Chúng ta phải chắc rằng mọi hóa đơn gửi cho khách hàng được giữ theo thứ tự ABC)",
+    "type" : "(n): khách hàng (người mua hàng hóa hoặc dịch vụ)",
+    "vocabulary" : "customer"
+  },
+  {
+    "example" : "We are offering a 10 percent discount to all new customers (Chúng tôi đang đưa ra một khoản giảm giá 10% cho tất cả khách hàng mới)",
+    "type" : "(n, v): (n) ‹sự› giảm, bớt, giảm giá, chiết khấu, khấu trừ; (v) giảm giá",
+    "vocabulary" : "discount"
+  },
+  {
+    "example" : "The accountant was so efficient in processing the customer receipts that she had the job done before lunch (Nhân viên kế toán làm việc hiệu quả trong việc xử lý các hóa đơn khách hàng đến nỗi cô ta đã hoàn tất công việc trước bữa trưa)",
+    "type" : "(adj): có hiệu quả, có hiệu suất, có năng suất (cao)",
+    "vocabulary" : "efficient"
+  },
+  {
+    "example" : "We estimated our losses this year at about five thousand dollars (Chúng tôi ước tính thua lỗ trong năm nay của chúng tôi là vào khoảng 5 ngàn đô-la)",
+    "type" : "(v, n): (v) ước lượng; (n)‹sự› ước lượng, ước tính",
+    "vocabulary" : "estimate"
+  },
+  {
+    "example" : "The company will impose a surcharge for any items returned (Công ty phải chịu một khoản phi tổn thêm với bất kỳ sản phẩm nào bị trả lại)",
+    "type" : "(v): bắt chịu, bắt gánh vác; lạm dụng, lợi dụng; áp đặt, ép buộc",
+    "vocabulary" : "impose"
+  },
+  {
+    "example" : "I made a mistake in adding up your bill and we overcharged you twenty dollars (Tôi đã nhầm lẫn khi tính tổng hóa đơn của anh và chúng tôi đã tính quá của anh 20 đô-la)",
+    "type" : "(n): lỗi, sai, nhầm",
+    "vocabulary" : "mistake"
+  },
+  {
+    "example" : "The customer placed an order for ten new chairs (Người khách hàng đưa đơn đặt hàng 10 cái ghế mới)",
+    "type" : "(n, v): (n)đơn đặt hàng; thứ tự, trật tự, thứ, bậc, loại; mệnh lệnh, nội quy, thủ tục; (v) đặt hàng",
+    "vocabulary" : "order"
+  },
+  {
+    "example" : "We always reply promptly to customers' letters (Chúng tôi luôn hồi âm nhanh chóng các lá thư của khách hàng)",
+    "type" : "(adv): mau lẹ, nhanh chóng, ngay lập tức, tức thời",
+    "vocabulary" : "promptly"
+  },
+  {
+    "example" : "Embarrassed at his behavior, he rectified the situation by writing a letter of apology (Xấu hổ về thái độ của mình, anh ta đã sửa chữa tình huống bằng cách viết thư tạ lỗi)",
+    "type" : "(v): sửa cho đúng, sửa cho ngay",
+    "vocabulary" : "rectify"
+  },
+  {
+    "example" : "The terms of payment were clearly listed at the bottom of the invoice (Các điều kiện thanh toán đã được liệt kê rõ ràng ở bên dưới hóa đơn)",
+    "type" : "(n): điều kiện, điều khoản; thời hạn, kỳ hạn, học kỳ, khóa học, phiên tòa",
+    "vocabulary" : "terms"
+  },
+  {
+    "example" : "I've made a few adjustments to the design. (Tôi đã thực hiện một vài điều chỉnh để thiết kế.)",
+    "type" : "(n): điều chỉnh, chỉnh lý, sự sửa lại cho đúng",
+    "vocabulary" : "adjustment"
+  },
+  {
+    "example" : "The door opens automatically (Cửa mở một cách tự động)",
+    "type" : "(adv): ‹một cách› tự động",
+    "vocabulary" : "automatically"
+  },
+  {
+    "example" : "Inventory is a crucial process and must be taken seriously by all staff (Kiểm kê là một quá trình cốt yếu và phải được thực hiện nghiêm túc bởi mọi nhân viên)",
+    "type" : "(adj): cốt yếu, chủ yếu, có tính quyết định",
+    "vocabulary" : "crucial"
+  },
+  {
+    "example" : "We easily explained the discrepancy between the two counts (Chúng tôi giải thích rõ ràng sự khác nhau giữa 2 con số tổng)",
+    "type" : "(n): ‹sự› khác nhau, trái ngược nhau; không nhất quán\/thống nhất",
+    "vocabulary" : "discrepancy"
+  },
+  {
+    "example" : "Let's see how many products we can count in advance of inventory so we disturb fewer customers (Hãy xem có bao nhiêu sản phẩm chúng ta có thể đếm trước khi kiểm kê để cho chúng ta làm phiền khách hàng ít hơn)",
+    "type" : "(v): quấy rầy, quấy rối, làm náo động, gây náo loạn, làm ồn, làm phiền",
+    "vocabulary" : "disturb"
+  },
+  {
+    "example" : "The slippery steps were a terrible liability for the store (Những bậc thềm trơn trượt là một nguy cơ tệ hại cho cửa hàng)",
+    "type" : "(n): trách nhiệm, nghĩa vụ pháp lý; nguy cơ, điều gây khó khăn trở ngại",
+    "vocabulary" : "liability"
+  },
+  {
+    "example" : "She saw her reflection in the mirror (Cô ấy nhìn ảnh của mình ở trong gương)",
+    "type" : "(n): ‹sự› phản chiếu, phản xạ, phản ánh, hình ảnh; phê phán, nhận xét",
+    "vocabulary" : "reflection"
+  },
+  {
+    "example" : "As long as the computer is running, you can keep adding new data (Trong khi máy tính đang chạy, bạn có thể thực hiện việc bổ sung thêm dữ liệu mới)",
+    "type" : "(v): chạy, vận hành, hoạt động, thực hiện",
+    "vocabulary" : "run"
+  },
+  {
+    "example" : "She scanned through the newspaper over breakfast. (Cô ấy đã xem qua tờ báo trong lúc ăn sáng)",
+    "type" : "(v): xem lướt, xem qua",
+    "vocabulary" : "scan"
+  },
+  {
+    "example" : "6 subtracted from 9 is 3. (6 trừ 9 được 3)",
+    "type" : "(v): trừ đi, khấu trừ; loại ra, lấy ra khỏi",
+    "vocabulary" : "subtract"
+  },
+  {
+    "example" : "Counting merchandise all weekend is the most tedious job I can imagine (Kiểm đếm hàng suốt kỳ nghỉ cuối tuần là một công việc tẻ nhạt nhất tôi có thể hình dung)",
+    "type" : "(adj): chán ngắt, tẻ nhạt, nhạt nhẽo, buồn tẻ",
+    "vocabulary" : "tedious"
+  },
+  {
+    "example" : "We have no way of verifying his story (Chúng tôi không có cách nào để xác minh câu chuyện của anh ấy)",
+    "type" : "(v): kiểm tra lại, thẩm tra, xác minh",
+    "vocabulary" : "verify"
+  },
+  {
+    "example" : "The receptionist accepted the package from the courier (Người tiếp tân đã nhận kiện hàng từ người đưa thư)",
+    "type" : "(v): nhận, chấp nhận, thừa nhận, công nhận",
+    "vocabulary" : "accept"
+  },
+  {
+    "example" : "It took him over an hour to balance his checkbook (Nó lấy mất của anh hơn một tiếng đồng hồ để quyết toán tập chi phiếu)",
+    "type" : "(n, v): (n) cái cân, cán cân, sự cân bằng; số dư tài khoản; (v) quyết toán",
+    "vocabulary" : "balance"
+  },
+  {
+    "example" : "Do you want to borrow a pen? (Anh có muốn mượn một cây viết không?)",
+    "type" : "(v): vay, mượn",
+    "vocabulary" : "borrow"
+  },
+  {
+    "example" : "Act cautiously when signing contracts and read them thoroughly first (Hành động thận trọng khi ký các hợp đồng và trước hết hãy đọc chúng kỹ lưỡng)",
+    "type" : "(adv): ‹một cách› thận trọng, cẩn thận (carefully)",
+    "vocabulary" : "cautiously"
+  },
+  {
+    "example" : "By deducting the monthly fee from her checking account, Yi was able to make her account balance (Do việc khấu trừ tiền thù lao hàng tháng vào tài khoản vãng lai, Yi đã có thể thực hiện cân bằng thu chi tài khoản của mình)",
+    "type" : "(v): lấy đi, trừ đi, khấu trừ",
+    "vocabulary" : "deduct"
+  },
+  {
+    "example" : "The dividend was calculated and distributed to the group (cổ tức được tính toán và phân bổ theo nhóm)",
+    "type" : "(n): tiền lãi cổ phần, tiền được cuộc, cái bị chia, số bị chia (toán)",
+    "vocabulary" : "dividend"
+  },
+  {
+    "example" : "By making a large down payment, the couple saved a great deal in mortgage interest (Bằng việc trả trước một phần lớn, đôi vợ chồng tiết kiệm được một khoản lãi cầm cố cao)",
+    "type" : "(n): phần tiền trả trước ban đầu",
+    "vocabulary" : "down payment"
+  },
+  {
+    "example" : "Hiram mortgaged his home to get extra money to invest in his business (Hiram thế chấp nhà mình để nhận một khoản tiền phụ thêm để đầu tư cho công việc)",
+    "type" : "(n, v): (n) sự cầm cố, sự thế chấp; (v) cấm cố, thế chấp",
+    "vocabulary" : "mortgage"
+  },
+  {
+    "example" : "Access to the safe deposit box vault is restricted to key holders (Việc vào hầm két bạc được hạn chế trong những người giữ chìa khóa)",
+    "type" : "(adj): bị hạn chế, bị giới hạn",
+    "vocabulary" : "restricted"
+  },
+  {
+    "example" : "The customer's signature was kept on file for identification purposes (Chữ ký của khách hàng được lưu trên file nhằm mục đích nhận dạng)",
+    "type" : "(n): chữ ký, ký hiệu, dấu hiệu",
+    "vocabulary" : "signature"
+  },
+  {
+    "example" : "When can I take money out of bank? (Khi nào tôi có thể rút tiền khỏi ngân hàng)",
+    "type" : "(v): rút (tiền)",
+    "vocabulary" : "take out"
+  },
+  {
+    "example" : "Banking transaction will appear on your monthly statement (Giao dịch ngân hàng sẽ xuất hiện trong thông báo tài khoản ngân hàng mỗi tháng)",
+    "type" : "(n): sự giao dịch, công việc kinh doanh",
+    "vocabulary" : "transaction"
+  },
+  {
+    "example" : "Good accounting is needed in all businesses (Việc kế toán tốt là cần thiết cho mọi công việc làm ăn)",
+    "type" : "(n): công việc kế toán; sự thanh toán, tính toán",
+    "vocabulary" : "accounting"
+  },
+  {
+    "example" : "They have accumulated more than enough information (Họ đã tích lũy nhiều hơn mức thông tin đủ dùng)",
+    "type" : "(v): tích lũy, tích góp, gom góp",
+    "vocabulary" : "accumulate"
+  },
+  {
+    "example" : "The company's asset are worth millions of dollars (Tài sản của công ty trị giá hàng triệu đô-la)",
+    "type" : "(n): tài sản, của cải",
+    "vocabulary" : "asset"
+  },
+  {
+    "example" : "The independent accountants audited the company's books (Những kế toán viên độc lập đã kiểm toán sổ sách kế toán của công ty)",
+    "type" : "(n, v): (n) sự kiểm tra sổ sách, sự kiểm toán; (v) kiểm toán",
+    "vocabulary" : "audit"
+  },
+  {
+    "example" : "The company will have to budget more money for this department next year (Công ty sẽ phải dự thảo ngân sách nhiều tiền hơn cho bộ phận này vào năm sau)",
+    "type" : "(n, v): (n)ngân sách, ngân quỹ; (v) lên ngân sách",
+    "vocabulary" : "budget"
+  },
+  {
+    "example" : "The firm has built up a solid reputation for itself (Công ty phải xây dựng dần lên danh tiếng vững chắc cho chính mình)",
+    "type" : "(v): tăng cường, gom lại, tích lại, xây dựng dần dần lên, ‹trở thành› lớn hơn, nhiều hơn",
+    "vocabulary" : "build up"
+  },
+  {
+    "example" : "We must provide excellent services for our clients, otherwise we will lose them to our competition (Chúng ta phải cung cấp các dịch vụ xuất sắc cho khách hàng của mình, bằng không chúng ta sẽ để mất họ vào tay đối thủ)",
+    "type" : "(n): khách, khách hàng",
+    "vocabulary" : "client"
+  },
+  {
+    "example" : "The banks are worried about your increasing debt (Các ngân hàng lo lắng về khoản nợ đang gia tăng của anh)",
+    "type" : "(n): nợ, món nợ",
+    "vocabulary" : "debt"
+  },
+  {
+    "example" : "She has outstanding debts of over &pound;500. (Cô ấy còn khoản nợ hơn 500 triệu bảng Anh.)",
+    "type" : "(adj): còn tồn tại, chưa giải quyết xong, chưa trả nợ",
+    "vocabulary" : "outstanding"
+  },
+  {
+    "example" : "We invested in the stock market profitable (Công ty đã đầu tư sinh lợi vào thị trường chứng khoán)",
+    "type" : "(adv): có lợi, có ích, sinh lãi, sinh lợi",
+    "vocabulary" : "profitably"
+  },
+  {
+    "example" : "The accountant found the error when she reconcile the account (Nhân viên kế toán tìm ra lỗi khi cô ấy chỉnh lý tài khoản (sửa lại tài khoản cho đúng))",
+    "type" : "(v): hòa giải, giảng hòa; chỉnh lý, điều hòa, làm cho phù hợp\/nhất trí",
+    "vocabulary" : "reconcile"
+  },
+  {
+    "example" : "An annual turnover of $75 million (Doanh thu hàng năm của $ 75.000.000)",
+    "type" : "(n): doanh số, doanh thu",
+    "vocabulary" : "turnover"
+  },
+  {
+    "example" : "His ideas were not well received because he spoke so aggressively (Ý kiến của anh ta không được đón nhận nhiều vì anh ta nói quá hùng hổ)",
+    "type" : "(adv): hung hăng, hùng hổ; tháo vát, xông xáo",
+    "vocabulary" : "aggressively"
+  },
+  {
+    "example" : "Each investor should assess his or her own attitude toward investment (Mỗi nhà đầu tư nên tự đánh giá quan điểm của chính mình về việc đầu tư)",
+    "type" : "(n): quan điểm, thái độ (với ai hoặc cái gì); tư thế, điệu bộ, dáng dấp",
+    "vocabulary" : "attitude"
+  },
+  {
+    "example" : "It is a good idea to commit a certain percentage of your income to investments (Ý tưởng tốt là đem một vài % nào đó thu nhập của bạn để đầu tư)",
+    "type" : "(v): gửi, giao, giao phó, ủy nhiệm, ủy thác; hứa, cam kết",
+    "vocabulary" : "commit"
+  },
+  {
+    "example" : "Her conservative strategy paid off over the years (Chiến lược bảo thủ của cô ta đã đem lại kết quả tốt trong suốt những năm qua)",
+    "type" : "(adj): bảo thủ, dè dặt, thận trọng",
+    "vocabulary" : "conservative"
+  },
+  {
+    "example" : "He will have access to his trust fund when he is 21 years old (Anh ta sẽ được đụng đến tài sản được ủy thác (trust fund) của mình khi 21 tuổi)",
+    "type" : "(n, v): (n) nguồn tiền, quỹ dự trữ; kho; (v) tài trợ, cấp tiền cho",
+    "vocabulary" : "fund"
+  },
+  {
+    "example" : "Don't invest all of your time in just one project (Đừng đầu tư tất cả thời gian của bạn vào chỉ một dự án)",
+    "type" : "(v): Đầu tư",
+    "vocabulary" : "invest"
+  },
+  {
+    "example" : "The CEO's long-term goal was to increase the return on investment (Mục tiêu dài hạn của giám đốc điều hành (CEO) là gia tăng tiền lãi thu về từ việc đầu tư)",
+    "type" : "(adj): dài hạn, dài ngày, lâu dài (Trái nghĩa: short-term)",
+    "vocabulary" : "long-term"
+  },
+  {
+    "example" : "Investors are advised to have diverse portfolios (Nhà đầu tư được khuyên nên có nhiều danh mục đầu tư khác nhau)",
+    "type" : "(n): danh mục đầu tư, danh sách vốn đầu tư (của 1 cty, ngân hàng...)",
+    "vocabulary" : "portfolio"
+  },
+  {
+    "example" : "The pull out of the bank has left the company without financing (Sự rút lui của ngân hàng đã để mặc cho công ty không còn tài chính)",
+    "type" : "(v, n): (v) rút ra, rút khỏi, thôi không tham gia; (n) sự rút lui",
+    "vocabulary" : "pull out"
+  },
+  {
+    "example" : "The company's most valuable resource was its staff (Nguồn tài nguyên đáng giá nhất của công ty là đội ngũ nhân viên của nó)",
+    "type" : "(n): tài nguyên, tài sản",
+    "vocabulary" : "resource"
+  },
+  {
+    "example" : "Some investors are satisfied with a 15 percent return, while others want to see a much larger return (Một số nhà đầu tư hài lòng với một khoản lãi 15%, trong khi những người khác thì muốn thấy mức lãi nhiều hơn)",
+    "type" : "(n): tiền lãi, tiền lời",
+    "vocabulary" : "return"
+  },
+  {
+    "example" : "If you invest wisely, you will be able to retire early (Nếu anh đầu tư thông minh, anh sẽ có thể về hưu sớm)",
+    "type" : "(adj): khôn ngoan, từng trải, thông thái, uyên bác",
+    "vocabulary" : "wisely"
+  },
+  {
+    "example" : "According to my calculations, I'll owe less money on my income taxes this year (Theo tính toán của tôi, tôi sẽ chịu tiền thuế thu nhập ít hơn trong năm nay)",
+    "type" : "(n): ‹sự\/kết quả› tính, tính toán; ‹sự› dự tính, trù liệu",
+    "vocabulary" : "calculation"
+  },
+  {
+    "example" : "The deadline for paying this years's taxes is just two weeks away (Hạn chót cho việc nộp thuế cho năm nay chỉ còn cách 2 tuần)",
+    "type" : "(n): thời hạn chót",
+    "vocabulary" : "deadline"
+  },
+  {
+    "example" : "To file a claim \/ complaint \/ petition \/ lawsuit (How to File a Lawsuit) ()",
+    "type" : "(v): sắp xếp, sắp đặt",
+    "vocabulary" : "file"
+  },
+  {
+    "example" : "I usually ask someone to help me fill out my tax form (Tôi thường đề nghị ai đó giúp tôi điền vào các biểu mẫu thuế cho tôi)",
+    "type" : "(v): hoàn tất, hoàn thành; điền vào (cho đầy đủ)",
+    "vocabulary" : "fill out"
+  },
+  {
+    "example" : "Ms. Gomez is so optimistic that she never gives up (Cô Gomez lạc quan đến nỗi chưa bao giờ bỏ cuộc)",
+    "type" : "(v): bỏ, từ bỏ, thôi; tạm dừng; đầu hàng",
+    "vocabulary" : "give up"
+  },
+  {
+    "example" : "We opened a joint bank account five years ago (Chúng tôi đã mở một tài khoản ngân hàng chung từ 5 năm trước)",
+    "type" : "(adj): chung, cùng",
+    "vocabulary" : "joint"
+  },
+  {
+    "example" : "As the business grew, the owner paid back loans and owed less money (Vì kinh doanh tăng trưởng, người chủ đã hoàn trả các khoản vay và chỉ còn nợ ít hơn)",
+    "type" : "(v): nợ, mắc nợ; mang ơn, hàm ơn, chịu ơn",
+    "vocabulary" : "owe"
+  },
+  {
+    "example" : "To impose a penalty ()",
+    "type" : "(n): khoản tiền phạt",
+    "vocabulary" : "penalty"
+  },
+  {
+    "example" : "Income tax preparation can take a long time (Việc chuẩn bị cho thuế thu nhập có thể tốn một thời gian dà)",
+    "type" : "(n): ‹sự› chuẩn bị, sửa soạn",
+    "vocabulary" : "preparation"
+  },
+  {
+    "example" : "With the tax refund, we bought two plane tickets ()",
+    "type" : "(n, v): (n) sự trả lại tiền; (v) trả lại, hoàn lại tiền",
+    "vocabulary" : "refund"
+  },
+  {
+    "example" : "My spouse prepares the tax return for both of us (Vợ\/chồng tôi chuẩn bị bản khai báo thuế cho cả hai chúng tôi)",
+    "type" : "(n): Chồng, vợ",
+    "vocabulary" : "spouse"
+  },
+  {
+    "example" : "I think she is withholding information from the police (Tôi nghĩ cô ấy đang che giấu thông tin với cảnh sát)",
+    "type" : "(v): cố nín, cố nhịn, kìm lại, giữ lại; ngăn cản, cản trở",
+    "vocabulary" : "withhold"
+  },
+  {
+    "example" : "We desire to have our own home (Chúng tôi ao ước có ngôi nhà riêng)",
+    "type" : "(v): thèm muốn, khao khát, ao ước",
+    "vocabulary" : "desire"
+  },
+  {
+    "example" : "The office manager detailed each step of the inventory process at the staff meeting (Quản lý văn phòng trình bày chi tiết từng bước của quá trình kiểm kê tại cuộc họp NV)",
+    "type" : "(v): chi tiết, tỉ mỉ",
+    "vocabulary" : "detail"
+  },
+  {
+    "example" : "Analysts forecast a strong economic outlook (Các nhà phân tích dự báo một viễn cảnh kinh tế sung sức)",
+    "type" : "(n): (n) sự dự báo trước; (v) dự báo, dự đoán, đoán trước",
+    "vocabulary" : "forecast"
+  },
+  {
+    "example" : "We have never had an accountant work at such a sophisticated level before (Trước đây chúng tôi không bao giờ có một NV kế toán làm với trình độ tinh vi đến thế)",
+    "type" : "(n): mức, cấp, cấp bậc, trình độ",
+    "vocabulary" : "level"
+  },
+  {
+    "example" : "Overall, our costs are running true to prediction (Nói chung, chi phí của chúng ta đang vận hành đúng như dự kiến)",
+    "type" : "(adj): toàn bộ, toàn thể, tất cả; nói chung",
+    "vocabulary" : "overall"
+  },
+  {
+    "example" : "The budget statement will give the manager some perspective on where the costs of running the business are to be found (Bản báo cáo ngân sách sẽ cho người trưởng phòng một vài khía cạnh về việc tìm ra chi phí vận hành công việc ở chỗ nào)",
+    "type" : "(n): luật xa gần, luật phối cảnh; cảnh trông xa, viễn cảnh, triển vọng",
+    "vocabulary" : "perspective"
+  },
+  {
+    "example" : "The director projects that the company will need to hire ten new employees his year (Người giám đốc lập kế hoạch là công ty sẽ cần phải thuê 10 nhân viên mới trong năm nay)",
+    "type" : "(v): kế hoạch, đồ án, dự án",
+    "vocabulary" : "project"
+  },
+  {
+    "example" : "Stefano found that an accurate accounting gave him a realistic idea of his business's financial direction (Stefano thấy rằng công việc kế toán chính xác đã cho anh một ý niệm thực tế về việc quản trị tài chính trong công việc của mình)",
+    "type" : "(adj): hiện thực, thực tế",
+    "vocabulary" : "realistic"
+  },
+  {
+    "example" : "We targeted March as the deadline for completing the financial statement (Chúng tôi đặt ra mục tiêu tháng Ba là hạn chót để hoàn tất báo cáo tài chính)",
+    "type" : "(v, n): (v) đặt mục tiêu nhắm vào; (n) mục tiêu, mục đích (goal)",
+    "vocabulary" : "target"
+  },
+  {
+    "example" : "The translation of the statement from Japanese into English was very helpful (Bản dịch báo cáo từ tiếng Nhật sang tiếng Anh là rất có ích)",
+    "type" : "(n): bản dịch, bài dịch; ‹sự› dịch, chuyển sang, giải thích, truyền đạt",
+    "vocabulary" : "translation"
+  },
+  {
+    "example" : "Office expenses typically include such things as salaries, rent, and office supplies (Các chi phí văn phòng bao gồm tiêu biểu những thứ như là: tiền lương, tiền thuê và đồ dùng dự trữ văn phòng)",
+    "type" : "(adv): tiêu biểu, điển hình; đặc thù, đặc trưng, đặc tính",
+    "vocabulary" : "typically"
+  },
+  {
+    "example" : "The company's investment yielded high returns (Việc đầu tư của công ty đã mang lại tiền lãi cao hơn)",
+    "type" : "(n, v): sản lượng; lợi tức, hoa lợi",
+    "vocabulary" : "yield"
+  },
+  {
+    "example" : "My office is adjacent to the receptionist area on the third floor (Văn phòng của tôi ở bên cạnh khu vực tiếp tân ở tầng ba)",
+    "type" : "(adj): kế bên, liền kề, sát cạnh",
+    "vocabulary" : "adjacent"
+  },
+  {
+    "example" : "We believe that it was our collaboration that enabled us to achieve such favorable results (Chúng ta tin rằng sự hợp tác của chúng ta cho phép đạt được những kết quả có lợi đến thế)",
+    "type" : "(n): sự cộng tác, hợp tác",
+    "vocabulary" : "collaboration"
+  },
+  {
+    "example" : "We should concentrate our efforts on the last quarter of the year (Chúng ta nên tập trung nỗ lực của mình vào quý cuối cùng của năm)",
+    "type" : "(v): tập trung (to focus)",
+    "vocabulary" : "concentrate"
+  },
+  {
+    "example" : "The soft lights and music were conducive to a relaxed atmosphere. (Các đèn chiếu sáng nhẹ và nhạc sẽ có ích cho một bầu không khí thoải mái.)",
+    "type" : "(adj): có ích, có lợi",
+    "vocabulary" : "conducive"
+  },
+  {
+    "example" : "If there are no disruptions, the office renovations will be finished this week (Nếu không có gián đoạn, việc làm mới văn phòng sẽ hoàn thành trong tuần này)",
+    "type" : "(n): ‹sự› đập gãy, phá vỡ; ‹sự\/tình trạng› rối loạn, gián đoạn",
+    "vocabulary" : "disruption"
+  },
+  {
+    "example" : "The lack of supplies hampered our ability to finish on schedule (Việc thiếu đồ dự trữ đã gây trở ngại cho khả năng hoàn thành đúng thời gian của chúng tôi)",
+    "type" : "(v): làm vướng, gây vướng; cản trở, gây trở ngại",
+    "vocabulary" : "hamper"
+  },
+  {
+    "example" : "The manager inconsiderately scheduled the meeting for late Friday afternoon (Người giám đốc sơ suất lên lịch họp vào cuối buổi chiều thứ Sáu)",
+    "type" : "(adv): thiếu thận trọng, thiếu suy nghĩ, khinh suất, sơ suất;",
+    "vocabulary" : "inconsiderately"
+  },
+  {
+    "example" : "The reception area was moved from the lobby of the building to the third floor (Khu vực tiếp tân đã được chuyển từ hành lang của tòa nhà lên tầng ba)",
+    "type" : "(n): hành lang, sảnh chờ, vận động hành lang",
+    "vocabulary" : "lobby"
+  },
+  {
+    "example" : "In order to move up in the company, employees had to demonstrate their loyalty (Nhằm để thăng tiến trong công ty, các nhân viên phải biểu lộ lòng trung thành của họ)",
+    "type" : "(v): tiến lên, thăng tiến (to advance, to improve position)",
+    "vocabulary" : "move up"
+  },
+  {
+    "example" : "Since the junior executive was still on probation, he was open to much scrutiny and criticism (Bởi vì người nhân viên điều hành cấp thấp vẫn còn trong thời gian tập sự, anh hay bị săm soi và chỉ trích)",
+    "type" : "(adj): tiếp thu, dùng được cho ai đó (to be + open to)",
+    "vocabulary" : "open to"
+  },
+  {
+    "example" : "The operations manager opted for the less expensive office design (Trưởng phòng tác nghiệp đã chọn bản thiết kế văn phòng ít tốn kém)",
+    "type" : "(v): chọn, chọn lựa; quyết định",
+    "vocabulary" : "opt"
+  },
+  {
+    "example" : "Jim left his old job because he found it difficult to work under the close scrutiny of his boss (Jim đã rời bỏ công việc cũ vì anh thấy khó làm việc dưới sự săm sõi kỹ lưỡng của sếp)",
+    "type" : "(n): ‹sự› nhìn chăm chú; xem xét\/kiểm tra kỹ lưỡng, nghiên cứu cẩn thận",
+    "vocabulary" : "scrutiny"
+  },
+  {
+    "example" : "The chairman never adhered to his own rules (Vị chủ tịch chẳng bao giờ giữ vững những quy tắc của riêng ông ta)",
+    "type" : "(v): tuân thủ, tôn trọng triệt để, trung thành\/gắn bó với, giữ vững; tham gia, gia nhập",
+    "vocabulary" : "adhere to"
+  },
+  {
+    "example" : "The agenda was sent out three weeks ago so that everyone could prepare for the meeting (Chương trình nghị sự đã được phân phát 3 tuần trước để cho mọi người có thể chuẩn bị cho cuộc họp)",
+    "type" : "(n): nhật ký công tác, chương trình nghị sự",
+    "vocabulary" : "agenda"
+  },
+  {
+    "example" : "Can you bring up the main menu again? (Bạn có thể đưa lại thực đơn cho tôi xem được không ?)",
+    "type" : "(v): Đưa ra",
+    "vocabulary" : "bring up"
+  },
+  {
+    "example" : "After long discussions, the board has concluded that the project has to be canceled (Sau những cuộc tranh luận dài, ủy ban đã kết luận rằng dự án phải bị hủy bỏ)",
+    "type" : "(v): chấm dứt, kết thúc, bế mạc; kết luận, quyết định",
+    "vocabulary" : "conclude"
+  },
+  {
+    "example" : "The manager was just waiting for the go ahead from her boss before mailing the report (Người trưởng phòng đang chờ sự cho phép từ sếp của cô ta trước khi gửi báo cáo)",
+    "type" : "(n, v): (v) tiến hành; (n) sự tiến bộ, sự được phép (làm gì)",
+    "vocabulary" : "go ahead"
+  },
+  {
+    "example" : "Employees are expected to analyze and evaluate their annual goals (Các nhân viên được yêu cầu phân tích và đánh giá các mục tiêu hàng năm của họ)",
+    "type" : "(n): mục đích, mục tiêu; khung thành, cầu môn; bàn thắng, điểm",
+    "vocabulary" : "goal"
+  },
+  {
+    "example" : "After lengthy discussions, the chairperson was reelected for another term (Sau những cuộc tranh luận dài, vị chủ tịch đã được bầu lại một nhiệm kỳ nữa)",
+    "type" : "(adj): lâu, dài, dài dòng",
+    "vocabulary" : "lengthy"
+  },
+  {
+    "example" : "If there are no other matters to discuss, we will conclude the meeting (Nếu không có vấn đề nào khác để thảo luận, chúng ta sẽ kết thúc cuộc họp)",
+    "type" : "(n): nội dung, sự kiện, chủ đề, vấn đề, việc, chuyện",
+    "vocabulary" : "matter"
+  },
+  {
+    "example" : "The group tried to meet periodically (Nhóm đã cố gắng gặp gỡ định kỳ)",
+    "type" : "(adv): định kỳ, thường kỳ, chu kỳ",
+    "vocabulary" : "periodically"
+  },
+  {
+    "example" : "Since the remaining issues were not a priority, the group decided to move them to the next week's agenda (Vì những vấn đề còn tồn tại không phải là một ưu tiên, nhóm đã quyết định dời chúng vào chương trình nghị sự tuần tới)",
+    "type" : "(n): ‹quyền\/sự› ưu tiên, được xét trước",
+    "vocabulary" : "priority"
+  },
+  {
+    "example" : "The executive committee asked each group to present a report showing their progress for the year (Ủy ban chấp hành yêu cầu mỗi nhóm trình 1 báo cáo cho thấy sự tiến bộ của họ trong năm)",
+    "type" : "(n): (n) ‹sự› tiến tới, tiến bộ, phát triển; ‹sự› tiến hành, tiến triển; (v) tiến tới, tiến triển",
+    "vocabulary" : "progress"
+  },
+  {
+    "example" : "Without a leader, the group members wasted time and energy trying to organize themselves (Thiếu một người lãnh đạo, các thành viên nhóm đã lãng phí thời gian và công sức để cố gắng tự tổ chức)",
+    "type" : "(v, n): (v) lãng phí; (n) sự lãng phí; đồ bỏ đi, đồ thải ra, đồ rác rưởi",
+    "vocabulary" : "waste"
+  },
+  {
+    "example" : "All brands of aspirin are the same (Mọi nhãn hiệu về thuốc giảm đau aspirin là như nhau.)",
+    "type" : "(n): nhãn hiệu, nhãn hàng, chi nhánh",
+    "vocabulary" : "brand"
+  },
+  {
+    "example" : "Our safety standards conform to those established by the government (Các tiêu chuẩn an toàn của chúng tôi phù hợp với những tiêu chuẩn được thiết lập bởi chính phủ)",
+    "type" : "(v): làm cho phù hợp, làm cho thích hợp; thích nghi với, thích ứng với",
+    "vocabulary" : "conform"
+  },
+  {
+    "example" : "Because of a defect in stiching, the entire suit was throw out (Bởi vì một lỗi về đường khâu, cả bộ com-lê đã phải vứt bỏ.)",
+    "type" : "(n): khuyết điểm, nhược điểm; thiết sót, sai sót",
+    "vocabulary" : "defect"
+  },
+  {
+    "example" : "Every garment must be carefully inspected for defects before it is shipped (Mọi quần áo phải dduwwojc kiểm tra lỗi cẩn thận trước khi nó được chở đi.)",
+    "type" : "(v): nâng cao, tăng cường",
+    "vocabulary" : "enhance"
+  },
+  {
+    "example" : "Portland Garment Factory was established in 2008. (Nhà máy may ở Portland (tiểu bang của Mỹ) đã được thành lập năm 2008)",
+    "type" : "(n): Quần áo",
+    "vocabulary" : "garment"
+  },
+  {
+    "example" : "Chilren's car searts are thoroughly inspected and tested for safety before being put on the market (Chổ ngồi trên xe ô-tô của trẻ em được xem xét và kiểm nghiệm kỹ lưỡng trước khi có mặt trên thị trường.)",
+    "type" : "(v): thanh tra, kiểm tra, xem xét kỹ",
+    "vocabulary" : "inspect"
+  },
+  {
+    "example" : "It takes a perceptive person to be a good manager (Phải là một người có khả năng cảm nhận mới trở thành một nhà quản lý tốt.)",
+    "type" : "(adj): nhận thức được, cảm giác được, cảm thụ được",
+    "vocabulary" : "perceptive"
+  },
+  {
+    "example" : "Faulty products repel repeat customers (Những sản phẩm lỗi lại gây khó chịu cho khách hàng.)",
+    "type" : "(v): chống lại, đẩy lùi; khước từ, cự tuyệt; làm khó chịu",
+    "vocabulary" : "repel"
+  },
+  {
+    "example" : "The quality inspector took the shoddy work back to the assembly line to confront the workers (Thanh tra chất lượng đem sản phẩm xấu trở lại dây chuyền lắp ráp để đối chất với công nhân.)",
+    "type" : "(v): rút lui, rút lại; lấy lại, kéo lại, đồng ý nhận lại, chấp nhận cho ai trở lại",
+    "vocabulary" : "take back"
+  },
+  {
+    "example" : "You'll be thrown out if you don't pay the rent. (Bạn sẽ được đuổi ra nếu bạn không trả tiền thuê nhà.)",
+    "type" : "(v): vứt bỏ, bỏ đi, đuổi đi",
+    "vocabulary" : "throw out"
+  },
+  {
+    "example" : "The principles were applied uniformly across all the departments (Các nguyên tắc được áp dụng thống nhất trên tất cả các phòng ban)",
+    "type" : "(adv): đồng đều thống nhất, không thay đổi",
+    "vocabulary" : "uniformly"
+  },
+  {
+    "example" : "A wrinkle in the finish can be repaired more economically before a sale than after (Một vết nhăn trong (sản phẩm) hoàn chỉnh thì có thể sửa chữa trước khi bán có giá hơn là sau đó.)",
+    "type" : "(n): ‹vếp\/nếp› nhăn, nhàu",
+    "vocabulary" : "wrinkle"
+  },
+  {
+    "example" : "He seemed anxious about the meeting (Anh ấy có vẻ lo âu về buổi họp)",
+    "type" : "(adj): lo âu, băn khoăn",
+    "vocabulary" : "anxious"
+  },
+  {
+    "example" : "A necessary part of product development is to ascertain whether the product is safe (Một việc cần thiết cho sự phát triển sản phẩm là biết chắc sản phẩm có an toàn hay không)",
+    "type" : "(v): biết chắc, xác định rõ ràng, tìm hiểu chắc chắn",
+    "vocabulary" : "ascertain"
+  },
+  {
+    "example" : "The young man felt ready to assume the new responsibilities of his promotion (Người thanh niên cảm thấy đã sẵn sàng gánh vác trách nhiệm mới của việc đề bạt mình)",
+    "type" : "(v): giả sử, cho rằng; đảm đương, gánh vác; thừa nhận, cho là đúng",
+    "vocabulary" : "assume"
+  },
+  {
+    "example" : "Each decade seems to have its own fad products (Mỗi thập kỷ dường như có những sản phẩm mốt nhất thời riêng của nó)",
+    "type" : "(n): thập niên, thập kỷ; bộ mười, nhóm mười",
+    "vocabulary" : "decade"
+  },
+  {
+    "example" : "Before marketing a new product, researchers must carefully examine it from every aspect (Trước khi tiếp thị sản phẩm mới, nhà nghiên cứu phải khảo sát cẩn thận nó từ mọi khía cạnh)",
+    "type" : "(v): khám xét, xem xét; khảo sát, nghiên cứu; hỏi thi, sát hạch, thẩm vấn",
+    "vocabulary" : "examine"
+  },
+  {
+    "example" : "Product developers must conduct hundreds of experiments in their research (Các nhà phát triển sản phẩm phải làm hàng trăm thử nghiệm về sự nghiên cứu của họ)",
+    "type" : "(v, n): (v) làm thí nghiệm; (n) cuộc thí nghiệm, sự thí nghiệm, sự thử",
+    "vocabulary" : "experiment"
+  },
+  {
+    "example" : "In addition to logical thinkers, a good research and development team should include a few dreamers (Để bổ sung cho những người suy nghĩ theo lôgic, một đội nghiên cứu và phát triển SP giỏi nên bao gồm một vài người suy nghĩ mơ mộng)",
+    "type" : "(adj): hợp lý, hợp với lôgic, theo lôgic",
+    "vocabulary" : "logical"
+  },
+  {
+    "example" : "For toy manufacturers, research can be pure fun (Đối với các nhà sản xuất đồ chơi, việc nghiên cứu có thể là vui chơi thuần túy)",
+    "type" : "(n): sự nghiên cứu",
+    "vocabulary" : "research"
+  },
+  {
+    "example" : "The product development department has a huge responsibility to be sure that the product is safe, even if used improperly (Bộ phận phát triển sản phẩm có một trách nhiệm to lớn là phải chắc rằng sản phẩm là an toàn, cho dù là sử dụng không đúng cách)",
+    "type" : "(n): trách nhiệm, bổn phận",
+    "vocabulary" : "responsibility"
+  },
+  {
+    "example" : "Researchers find that every time they solve one problem, two more result (Các nhà nghiên cứu thấy rằng mỗi lần họ giải quyết 1 vấn đề, (sẽ có) hơn 2 kết quả)",
+    "type" : "(v): giải, giải quyết, làm sáng tỏ",
+    "vocabulary" : "solve"
+  },
+  {
+    "example" : "A good supervisor gets his team to work with him, not just for him (Một giám sát giỏi khiến cho đội ngũ của anh ta làm việc với anh ta, không chỉ cho anh ta)",
+    "type" : "(n): người giám sát",
+    "vocabulary" : "supervisor"
+  },
+  {
+    "example" : "While creative thinking is necessary, analyzing a problem systematically is indispensable (Trong khi mà sự suy nghĩ sáng tạo là cần thiết, thì việc phân tích một vấn đề một cách có hệ thống là không thể thiếu được)",
+    "type" : "(adv): có hệ thống, có phương pháp (methodically)",
+    "vocabulary" : "systematically"
+  },
+  {
+    "example" : "The mortgage lender was apprehensive about the company's ability to pay (Người cho vay thế chấp e ngại về khả năng thanh toán của công ty)",
+    "type" : "(adj): sợ hãi, e sợ; hiểu rõ, cảm thấy rõ, tiếp thu nhanh",
+    "vocabulary" : "apprehensive"
+  },
+  {
+    "example" : "Under the current economic circumstances, they will not be able to purchase the property (Trong tình cảnh kinh tế hiện tại, họ không có khả năng mua sắm tài sản)",
+    "type" : "(n): trường hợp, hoàn cảnh, tình huống",
+    "vocabulary" : "circumstance"
+  },
+  {
+    "example" : "Except for some minor repairs, the building is in very good condition (Trừ một vài tu chữa nhỏ, tòa nhà đang ở trong tình trạng rất tốt)",
+    "type" : "(n): điều kiện; hoàn cảnh, tình thế, tình trạng, trạng thái",
+    "vocabulary" : "condition"
+  },
+  {
+    "example" : "Due to the low interest rates, good office space is difficult to find (Vì mức lợi nhuận thấp, địa điểm văn phòng tốt rất khó tìm ra)",
+    "type" : "(perp): bởi, vì, do, tại, nhờ có",
+    "vocabulary" : "due to"
+  },
+  {
+    "example" : "No one is very comfortable making a large investment while the currency values fluctuate almost daily (Không ai thấy thật yên tâm thực hiện một đầu tư lớn trong khi giá trị tiền tệ dao động như cơm bữa)",
+    "type" : "(v): dao động, lên xuống, thay đổi thất thường",
+    "vocabulary" : "fluctuate"
+  },
+  {
+    "example" : "The company wanted to get out of the area before property values declined even further (Công ty muốn từ bỏ khu vực trước khi giá trị tài sản suy sụp thậm chí còn nhiều hơn nữa)",
+    "type" : "(v): thôi, mất, bỏ, từ bỏ, rời bỏ, tránh né, thoát khỏi",
+    "vocabulary" : "get out of"
+  },
+  {
+    "example" : "If the economy is an accurate indicator, rental prices will increase rapidly in the next six months (Nếu nền kinh tế là chỉ báo chính xác, tiền thuê (nhà) sẽ tăng nhanh chóng trong 6 tháng tới)",
+    "type" : "(n): ‹người\/vật\/chất› chỉ, chỉ thị (VD: đồng hồ chỉ thị, đèn xi-nhan)",
+    "vocabulary" : "indicator"
+  },
+  {
+    "example" : "They decided to lease the property rather than buy it (Họ đã quyết định đi thuê tài sản thay vì mua nó)",
+    "type" : "(n, v): (n) hợp đồng cho thuê; (v) cho thuê",
+    "vocabulary" : "lease"
+  },
+  {
+    "example" : "Before you lock yourself into something, check all your options (Trước khi bạn tự ràng buộc mình vào cái gì, hãy xem xét mọi chọn lựa của mình)",
+    "type" : "(v): nhốt, giam; ràng buộc chặt, không thể thay đổi",
+    "vocabulary" : "lock into"
+  },
+  {
+    "example" : "Our company has occupied this office for more than five years (Công ty chúng tôi đã ở văn phòng này hơn 5 năm)",
+    "type" : "(v): sở hữu, chiếm hữu; chiếm giữ, chiếm đóng",
+    "vocabulary" : "occupy"
+  },
+  {
+    "example" : "With the real estate market so tight right now, you don't have that many options (Với thị trường BĐS khan hiếm đến vậy vào lúc này, anh không có nhiều chọn lựa đến vậy)",
+    "type" : "(n): sự\/quyền lựa chọn; vật\/điều được chọn; tùy chọn",
+    "vocabulary" : "option"
+  },
+  {
+    "example" : "This contract is subject to all the laws and regulations of the state (Hợp đồng này tuân thủ mọi luật lệ và nguyên tắc của nhà nước)",
+    "type" : "(adj): lệ thuộc vào, tùy theo; tuân thủ",
+    "vocabulary" : "subject to"
+  },
+  {
+    "example" : "A restaurant with good food and reasonable prices has a lot of appeal (Một nhà hàng có thức ăn ngon và giá cả phải chăng có sức hút rất mạnh)",
+    "type" : "(n): ‹lời› kêu gọi, cầu khẩn; ‹sức› hấp dẫn, lôi cuốn, thu hút, quyến rũ",
+    "vocabulary" : "appeal"
+  },
+  {
+    "example" : "By the time our meal arrived, it was cold (Vào lúc mà thức ăn của chúng tôi được đem tới, nó đã nguội lạnh)",
+    "type" : "(v): đến, đi đến, tới nơi",
+    "vocabulary" : "arrive"
+  },
+  {
+    "example" : "John doesn't like sweet dishes so I compromised by adding just a small amount of sugar (John không thích các món ăn ngọt vì vậy tôi đã thỏa hiệp bằng cách chỉ thêm một ít đường)",
+    "type" : "(n, v): (n) sự thỏa hiệp; (v) thỏa hiệp, dàn xếp",
+    "vocabulary" : "compromise"
+  },
+  {
+    "example" : "We daringly ordered the raw squid (Chúng tôi cả gan gọi món mực sống)",
+    "type" : "(adj): táo bạo, cả gan, phiêu lưu, dũng cảm (bravely)",
+    "vocabulary" : "daringly"
+  },
+  {
+    "example" : "It's nice to see some familiar items on the menu (Thật là hay khi thấy vài món ăn quen thuộc trong thực đơn)",
+    "type" : "(adj): quen, quen thuộc, thân thuộc, phổ biến, tương tự",
+    "vocabulary" : "familiar"
+  },
+  {
+    "example" : "I don't know where to go, so why don't we consult the guide (Tôi không biết đi đâu, vậy thì sao chúng ta không hỏi ý kiến hướng dẫn viên)",
+    "type" : "(n): người hướng dẫn, người chỉ dẫn; sách hướng dẫn, biển chỉ dẫn",
+    "vocabulary" : "guide"
+  },
+  {
+    "example" : "The majority of the group wanted to try the new Chinese restaurant (Phần lớn nhóm muốn đi ăn thử ở nhà hàng Trung Quốc mới)",
+    "type" : "(n): đa số, phần lớn",
+    "vocabulary" : "majority"
+  },
+  {
+    "example" : "The mix of bright colors on the plate was very pleasing (Sự pha trộn các màu sáng ở trên đĩa thì rất thú vị)",
+    "type" : "(v, n): (v) trộn lẫn, pha lẫn; (n) sự kết hợp, hỗn hợp, sự hòa hợp",
+    "vocabulary" : "mix"
+  },
+  {
+    "example" : "I seldom rely on the restaurant reviews in the paper when choosing a restaurant (Tôi hiếm khi tin vào bài đánh giá nhà hàng ở trên báo mỗi khi chọn lựa một nhà hàng)",
+    "type" : "(v): dựa vào, tin cậy vào",
+    "vocabulary" : "rely"
+  },
+  {
+    "example" : "The hostess secured us another chair, so we could eat together (Bà chủ tiệc đã tìm được cho chúng tôi cái ghế khác, vì vậy chúng tôi có thể ăn cùng nhau)",
+    "type" : "(v): an toàn, an ninh; bảo đảm",
+    "vocabulary" : "secure"
+  },
+  {
+    "example" : "The reviews in this guidebook are highly subjective, but fun to read (Những bài đánh giá trong sách hướng dẫn này rất là chủ quan, nhưng đọc cũng vui)",
+    "type" : "(adj): chủ quan; tưởng tượng, có tính tưởng tượng",
+    "vocabulary" : "subjective"
+  },
+  {
+    "example" : "Can I make a suggestion about what to order? (Tôi có thể đề nghị về việc gọi món gì hay không?)",
+    "type" : "(n): đề nghị, ý kiến, sự gợi ý",
+    "vocabulary" : "suggestion"
+  },
+  {
+    "example" : "The new restaurant offers a very basic menu (Nhà hàng mới đưa ra một thực đơn rất là cơ bản)",
+    "type" : "(adj): cơ bản, cơ sở",
+    "vocabulary" : "basis"
+  },
+  {
+    "example" : "We ordered some dessert to complete our meal (Chúng tôi gọi một ít món tráng miệng để trọn vẹn bữa ăn của mình)",
+    "type" : "(v): ‹làm\/làm cho› hoàn toàn, đầy đủ, trọn vẹn; hoàn thành, xong",
+    "vocabulary" : "complete"
+  },
+  {
+    "example" : "Exotic flavor always excite me (Những hương vị lạ\/ngoại nhập luôn luôn kích thích tôi)",
+    "type" : "(v): kích thích, kích động, khuấy động",
+    "vocabulary" : "excite"
+  },
+  {
+    "example" : "The cook changed the flavor of the soup with a unique blend of herbs (Người nấu bếp thay đổi mùi vị món súp bằng một sự pha trộn các loại cây cỏ độc đáo)",
+    "type" : "(n): mùi vị, hương vị, mùi thơm phảng phất",
+    "vocabulary" : "flavor"
+  },
+  {
+    "example" : "The waiter forgot to bring the rolls, annoying the customer (Anh nhân viên phục vụ quên mang các ổ bánh mì, gây bực mình cho người khách)",
+    "type" : "(v): quên",
+    "vocabulary" : "forget"
+  },
+  {
+    "example" : "I was unfamiliar with some of the ingredients in the dish (Tôi không quen với một vài thành phần trong món ăn)",
+    "type" : "(n): thành phần, thành tố, phần hợp thành",
+    "vocabulary" : "ingredient"
+  },
+  {
+    "example" : "The restaurant review harshly judged the quality of the service (Bài nhận xét nhà hàng đã nhận xét gay gắt về chất lượng dịch vụ)",
+    "type" : "(v): xét xử, phân xử, xét đoán, phán đoán; đánh giá, cho rằng",
+    "vocabulary" : "judge"
+  },
+  {
+    "example" : "There was a mix-up about the ingredients and the dish was ruined (Đã có một sự lộn xộn về các thành phần và món ăn đã bị hỏng)",
+    "type" : "(n): ‹sự› lộn xộn, hỗn độn, hỗn loạn; cuộc đánh lộn",
+    "vocabulary" : "mix-up"
+  },
+  {
+    "example" : "This restaurant has many loyal patrons (Nhà hàng này có nhiều người khách hàng quen rất trung thành)",
+    "type" : "(n): người bảo trợ, người đỡ đầu, ông bầu, ông chủ; khách hàng quen",
+    "vocabulary" : "patron"
+  },
+  {
+    "example" : "I predicted this restaurant would become popuplar and I was right (Tôi đã dự đoán (rằng) nhà hàng này sẽ trở nên nổi tiếng và tôi đã đúng)",
+    "type" : "(v): nói trước, dự đoán, dự báo, tiên tri",
+    "vocabulary" : "predict"
+  },
+  {
+    "example" : "We randomly made our selections from the menu (Chúng tôi chọn đại (các món ăn) từ thực đơn)",
+    "type" : "(adv): ‹một cách› ngẫu nhiên, tình cờ, hú họa",
+    "vocabulary" : "randomly"
+  },
+  {
+    "example" : "I remind the client that we are meeting for dinner tomorrow (Tôi nhắc người khách rằng chúng tôi sẽ gặp nhau để đi ăn vào ngày mai)",
+    "type" : "(v): nhắc nhở, làm nhớ lại",
+    "vocabulary" : "remind"
+  },
+  {
+    "example" : "The secretary usually takes on the burden of ordering lunch for business meetings (Người thư ký thường gánh trách nhiệm đặt bữa trưa cho những cuộc họp làm ăn)",
+    "type" : "(n): gánh nặng (đen & bóng), gánh trách nhiệm",
+    "vocabulary" : "burden"
+  },
+  {
+    "example" : "The restaurants in this area commonly serve office workers and are only open during the week (Nhà hàng trong khu này thường phục vụ nhân viên văn phòng và thường mở cửa suốt tuần)",
+    "type" : "(adv): thường thường, thông thường, bình thường",
+    "vocabulary" : "commonly"
+  },
+  {
+    "example" : "The caterer hired a courier to make the delivery (Nhà cung cấp thực phẩm đã thuê một người đưa tin để thực hiện việc giao hàng)",
+    "type" : "(n): ‹sự› giao hàng, phân phát, phân phối",
+    "vocabulary" : "delivery"
+  },
+  {
+    "example" : "The elegance of the restaurant made it a pleasant place to eat (Sự thanh lịch của nhà hàng khiến nó là một nơi thú vị để ăn uống)",
+    "type" : "(n): ‹tính\/sự› thanh lịch, tao nhã",
+    "vocabulary" : "elegance"
+  },
+  {
+    "example" : "The task of preparing the meal fell to the assistant chef when the chief chef was ill (Nhiệm vụ nấu ăn rơi vào tay của phụ bếp khi mà người đầu bếp bị bệnh)",
+    "type" : "(v): bắt đầu vào việc, bắt tay vào việc; rơi vào tay của, trở thành trách nhiệm của",
+    "vocabulary" : "fall to"
+  },
+  {
+    "example" : "I was impressed with how quickly they delivered our lunch (Tôi bị ấn tượng với việc họ phân phát bữa trưa của chúng tôi nhanh chóng đến vậy)",
+    "type" : "(v): gây ấn tượng, khắc sâu, ghi sâu",
+    "vocabulary" : "impress"
+  },
+  {
+    "example" : "We had the delivery man mark the contents of each individual order (Chúng tôi đã được người giao hàng đánh dấu nội dung cho mỗi đơn hàng riêng biệt)",
+    "type" : "(adj): cá nhân, riêng, riêng lẻ; riêng biệt, đặc biệt, độc đáo;",
+    "vocabulary" : "individual"
+  },
+  {
+    "example" : "We keep a list of all the restaurants in this area that deliver (Chúng tôi giữ một danh sách các nhà hàng có giao hàng trong khu vực này)",
+    "type" : "(n): danh sách, bản kê khai",
+    "vocabulary" : "list"
+  },
+  {
+    "example" : "a house in multiple ownership\/occupancy (= owned\/occupied by several different people or families) ()",
+    "type" : "(adj): nhân; nhiều, nhiều mối, nhiều phần",
+    "vocabulary" : "multiple"
+  },
+  {
+    "example" : "This restaurant delivers only pizza and sandwiches, so that certainly narrows down the choices (Nhà hàng này chỉ giao hàng pizza và sandwich, hẳn nhiên là đã làm thu hẹp các chọn lựa)",
+    "type" : "(v): chật, hẹp; hạn chế; kỹ, tỉ mỉ",
+    "vocabulary" : "narrow"
+  },
+  {
+    "example" : "I'll pick you up at fiveo'clock. (Tôi sẽ đón bạn lúc 5 giờ)",
+    "type" : "(v): đón (ai đó)",
+    "vocabulary" : "pick up"
+  },
+  {
+    "example" : "We settle the bill with the cashier (Chúng tôi thanh toán hóa đơn với người thủ quỹ)",
+    "type" : "(v): ngồi, đậu, bố trí, định cư, làm ăn sinh sống; giải quyết, hòa giải, dàn xếp",
+    "vocabulary" : "settle"
+  },
+  {
+    "example" : "Chefs must accustom themselves to working long hours (Các đầu bếp phải tự làm quen với việc nấu nướng trong nhiều giờ)",
+    "type" : "(n): làm cho quen, tập cho quen",
+    "vocabulary" : "accustom to"
+  },
+  {
+    "example" : "The cooking school has an apprentice program that places students in restaurants to gain work experience (Trường dạy nấu ăn có một chương trình học nghề là đưa học viên đến các nhà hàng để lấy kinh nghiệm làm việc)",
+    "type" : "(n): người học việc, người mới vào nghề, người tập sự",
+    "vocabulary" : "apprentice"
+  },
+  {
+    "example" : "The chef was widely known for his culinary artistry (Người đầu biết được biết đến rộng rãi về nghệ thuật thuật ẩm thực của ông ấy)",
+    "type" : "(adj): (thuộc) nấu nướng, bếp núc",
+    "vocabulary" : "culinary"
+  },
+  {
+    "example" : "This style of cooking demands many exotic ingredients and a lot of preparation time (Kiểu nấu ăn này đòi hỏi nhiều thành phần (thực phẩm) lạ và nhiều thời gian chuẩn bị)",
+    "type" : "(v, n): đòi hỏi, yêu cầu; cần phải",
+    "vocabulary" : "demand"
+  },
+  {
+    "example" : "Matthew was drawn to a career in cooking (Matthew đã bị lôi cuốn với công việc nấu ăn)",
+    "type" : "(v): vẽ, vạch, thảo ra; kéo, lôi kéo, thu hút, lôi cuốn",
+    "vocabulary" : "draw"
+  },
+  {
+    "example" : "Here are the fresh greens for you to incorporate into a salad (Đây là rau tươi cho anh để kết hợp thành một món salad (rau trộn))",
+    "type" : "(v): kết hợp chặt chẽ; hợp thành tổ chức\/đoàn thể",
+    "vocabulary" : "incorporate"
+  },
+  {
+    "example" : "Due to the rise in popularity of cooking as a career, cooking schools report an influx of applications (Vì việc gia tăng sự phổ biến của nghề nấu ăn, các trường dạy nấu ăn báo cáo một dòng chảy các đơn xin nhập học.)",
+    "type" : "(n): sự chảy vào, sự tràn vào; luồng đi vào, dòng đi vào",
+    "vocabulary" : "influx"
+  },
+  {
+    "example" : "Gloria perfected a simple method for making croissants (Gloria đã hoàn thành một phương pháp đơn giản để làm bánh sừng bò)",
+    "type" : "(n): phương pháp, cách thức",
+    "vocabulary" : "method"
+  },
+  {
+    "example" : "Many people find cooking to be a hands-on outlet for their creativity (Nhiều người xem nấu ăn là một phương tiện thực hành để thỏa mãn óc sáng tạo của mình)",
+    "type" : "(n): chỗ thoát ra, lối ra, lối thoát; phương tiện để thỏa mãn",
+    "vocabulary" : "outlet"
+  },
+  {
+    "example" : "Cooking is considered as much a profession as is law or medicine (Nấu ăn được xem là một nghề nghiệp cũng như là nghề luật hay nghề y)",
+    "type" : "(n): nghề, nghề nghiệp",
+    "vocabulary" : "profession"
+  },
+  {
+    "example" : "After Claude married Kiki, he had to relinquish his exclusive hold on the kitchen and learn to share the joys of cooking (Sau khi Claude lấy Kiki, anh ta đã phải từ bỏ độc quyền nắm giữ nhà bếp và biết chia sẻ niềm vui nấu nướng)",
+    "type" : "(v): bỏ, từ bỏ; buông, thả",
+    "vocabulary" : "relinquish"
+  },
+  {
+    "example" : "North American literature is the main theme of this year's festival. (Văn học Bắc Mỹ là chủ đề chính của lễ hội năm nay.)",
+    "type" : "(n): chủ đề, đề tài",
+    "vocabulary" : "theme"
+  },
+  {
+    "example" : "Bonnie hired a secretary to assist her with the many details of the event (Bonnie đã thuê một thư ký để trợ giúp cô về rất nhiều chi tiết của sự kiện)",
+    "type" : "(v): giúp, giúp đỡ, trợ giúp",
+    "vocabulary" : "assist"
+  },
+  {
+    "example" : "Benet tried to coordinate all departments to make sure the event ran smoothly (Benet cố gắng kết hợp với tất cả các bộ phận để bảo đảm sự kiện sẽ vận hành trơn tru)",
+    "type" : "(v): phối hợp, kết hợp",
+    "vocabulary" : "coordinate"
+  },
+  {
+    "example" : "What are the dimensions of the ballroom? (Kích thước của phòng nhảy ra sao?)",
+    "type" : "(n): kích thước, chiều, cỡ, khổ",
+    "vocabulary" : "dimension"
+  },
+  {
+    "example" : "We will need an exact head count by noon tomorrow (Chúng tôi cần biết tổng số đầu người chính xác trước trưa ngày mai)",
+    "type" : "(adj): chính xác, đúng, đúng đắn",
+    "vocabulary" : "exact"
+  },
+  {
+    "example" : "We have a general idea of how many guests will attend (Chúng tôi có một hình dung chung chung về việc có bao nhiêu vị khách sẽ tham dự)",
+    "type" : "(adj): chung, tổng quát, toàn thể",
+    "vocabulary" : "general"
+  },
+  {
+    "example" : "Ideally, the location for the concert would have plenty of parking (Lý tưởng chổ địa điểm cho buổi hòa nhạc nên có nhiều chỗ đậu xe)",
+    "type" : "(adj): lý tưởng, đúng như lý tưởng, theo lý tưởng",
+    "vocabulary" : "ideally"
+  },
+  {
+    "example" : "The lead time for reservations is unrealistic (Khoảng thời gian cho quá trình đặt chỗ diễn ra là phi thực tế)",
+    "type" : "(n): khoảng thời gian ở giữa sự bắt đầu và sự hoàn thành của một quá trình",
+    "vocabulary" : "lead time"
+  },
+  {
+    "example" : "Planning their wedding was a source of tension for the young couple (Kế hoạch đám cưới của họ là một nguồn gốc căng thẳng của đôi tình nhân trẻ)",
+    "type" : "(v): ‹vẽ\/lập\/đặt› kế hoạch, đồ án, sơ đồ; dự\/dự định",
+    "vocabulary" : "plan"
+  },
+  {
+    "example" : "The fans were worried by the proximity of the storm clouds (Những người hâm mộ lo lắng bởi đám mây báo bão đến gần)",
+    "type" : "(n): gần (trạng thái gần, ở gần, thời gian gần, sự kiện gần...); sự gần gũi",
+    "vocabulary" : "proximity"
+  },
+  {
+    "example" : "The activities of credit companies are regulated by law. (Các hoạt động của các công ty tín dụng được quy định của pháp luật.)",
+    "type" : "(v): điều chỉnh, chỉnh đốn; quy định",
+    "vocabulary" : "regulate"
+  },
+  {
+    "example" : "Once we saw the site, we knew it would be perfect for the event (Khi mà chúng tôi thấy chỗ đó, chúng tôi đã biết nó lý tưởng cho sự kiện)",
+    "type" : "(n): nơi, chỗ, vị trí, địa điểm, khu đất",
+    "vocabulary" : "site"
+  },
+  {
+    "example" : "A historic house can be the perfect site to stage a small reception (Một ngôi nhà lịch sử có thể là một nơi lý tưởng để tổ chức một cuộc chiêu đãi nhỏ)",
+    "type" : "(n): trình diễn, dàn cảnh; sắp xếp, tổ chức",
+    "vocabulary" : "stage"
+  },
+  {
+    "example" : "A travel agent can usually find you the best deals on tickets and hotels (Đại lý du lịch thường có thể tìm cho bạn những giao dịch tốt nhất vè vé và khách sạn.)",
+    "type" : "(n): đại lý, đại diện (của một công ty)",
+    "vocabulary" : "agent"
+  },
+  {
+    "example" : "Did you hear an announcement about our new departure time? (Anh đã nghe thông báo về giờ khởi hành mới của chúng ta chưa?)",
+    "type" : "(n): ‹sự\/lời› thông báo, công bố, tuyên bố; cáo thị, thông cáo",
+    "vocabulary" : "announcement"
+  },
+  {
+    "example" : "The flight attendant offered all passenders a cold beverage during the flight (Tiếp viên hành không đã mời mọi hành khách một thức uống lạnh trong suốt chuyển bay.)",
+    "type" : "(n): đồ uống, thức uống (tất cả các loại, trừ nước lọc)",
+    "vocabulary" : "beverage"
+  },
+  {
+    "example" : "The snow blanketed the windshield making it difficult to see the roads (Tuyết bao phủ kính chắn gió, khiến cho việc nhìn thấy đường sá rất khó)",
+    "type" : "(n, v): (n) mềm, chăn, lớp phủ; (v) phủ lên, che phủ",
+    "vocabulary" : "blanket"
+  },
+  {
+    "example" : "Passengers are waiting to board (Các hành khách đang chờ để lên máy bay)",
+    "type" : "(v): Lên tàu \/ máy bay \/ xe lửa",
+    "vocabulary" : "board"
+  },
+  {
+    "example" : "Please proceed directly to the baggage arrival area to claim your luggage (Vui lòng tiếp tục đi thẳng đến khu vực nhận hành lý để nhận lại hành lý của bạn.)",
+    "type" : "(v): nhận lại, lấy lại; đòi hỏi, yêu cầu; tuyên bố, xác nhận; khai báo",
+    "vocabulary" : "claim"
+  },
+  {
+    "example" : "The bus was delayed due to inclement weather (Xe bus bị chậm trễ tại vì thời tiết khắc nghiệt)",
+    "type" : "(v): chậm trễ, trì hoãn, hoãn lại",
+    "vocabulary" : "delay"
+  },
+  {
+    "example" : "Flights for Rome depart from Terminal 3. (Chuyến bay khởi hành từ Rome cho Terminal 3)",
+    "type" : "(v): rời khỏi, khởi hành",
+    "vocabulary" : "depart"
+  },
+  {
+    "example" : "The flight creaw must check the passengers's documents before embarkation (Phi hành đoàn phải kiểm tra giấy tờ của hành khách trước khi cho lên máy bay.)",
+    "type" : "(n): ‹sự\/quá trình› lên tàu, cho lên tàu",
+    "vocabulary" : "embarkation"
+  },
+  {
+    "example" : "I had to change my itinerary when I decided to add two more countries to my vacation (Tôi đã phải đổi lộ trình khi tôi đã quyết định thêm vào 2 quốc gia nữa cho kỳ nghỉ của tôi.)",
+    "type" : "(n): lịch trình",
+    "vocabulary" : "itinerary"
+  },
+  {
+    "example" : "The policy prohibits smoking on school grounds. (Chính sách mới cấm hút thuốc trên sân trường.)",
+    "type" : "(v): ngăn cấm, ngăn chặn",
+    "vocabulary" : "prohibit"
+  },
+  {
+    "example" : "I need to make certain that my passport is valid if we plan to go overseas this December (Tôi cần biết chắc rằng hộ chiếu của tôi có giá trị nếu chúng tôi dự tính xuất ngoại tháng 12 này.)",
+    "type" : "(adj): có giá trị, có hiệu lực, hợp lệ (đặc biệt về mặt pháp lý)",
+    "vocabulary" : "valid"
+  },
+  {
+    "example" : "Ticket agents must deal courteously with irate customers (Đại lý bán vé phải đối xử nhã nhặn với những khách hàng nổi giận)",
+    "type" : "(v): giải quyết, đối phó, xử lý; bàn về cái gì, thỏa thuận về cái gì",
+    "vocabulary" : "deal with"
+  },
+  {
+    "example" : "The Great Barrier Reef is a popular tourist destination this year (Dải đá ngầm Great Barrier là một điểm đến du lịch phổ biến trong năm nay)",
+    "type" : "(n): nơi đến, nơi tới, đích đến, mục đích",
+    "vocabulary" : "destination"
+  },
+  {
+    "example" : "Suki was able to distinguish between the different types of jets on the runway (Suki có thể phân biệt được các kiểu máy bay phản lực khác nhau ở trên đường băng)",
+    "type" : "(v): phân biệt, nhận ra, nhận biết; phân thành, chia thành, xếp thành loại",
+    "vocabulary" : "distinguish"
+  },
+  {
+    "example" : "My travel agent knows I like to economize and always looks out for the best prices for me (Người đại lý du lịch của tôi biết tôi thích tiết kiệm và luôn tìm cho tôi giá tốt nhất)",
+    "type" : "(v): tiết kiệm",
+    "vocabulary" : "economize"
+  },
+  {
+    "example" : "The food the airline serves in coach class is equivalent to that served in first class (Đồ ăn mà hãng hàng không phục vụ cho vé hạng thường thì tương đương với đồ ăn được phục vụ cho vé hạng nhất)",
+    "type" : "(adj): tương đương",
+    "vocabulary" : "equivalent"
+  },
+  {
+    "example" : "There are regular weekend excursions throughout the summer. (Có chuyến du ngoạn cuối tuần thường xuyên trong suốt mùa hè.)",
+    "type" : "(n): chuyến thăm quan, cuộc đi tham quan, cuộc đi chơi",
+    "vocabulary" : "excursion"
+  },
+  {
+    "example" : "A luxury vacation involves many expenses (Một kỳ nghỉ xa hoa đòi hỏi nhiều chi phí.)",
+    "type" : "(v): Phí tốn, chi phí",
+    "vocabulary" : "expense"
+  },
+  {
+    "example" : "There are plans to extend the subway line in this city (Có kế hoạch để mở rộng đường tàu điện ngầm trong thành phố này)",
+    "type" : "(v): Kéo dài ( thời hạn....); gia hạn, mở rộng",
+    "vocabulary" : "extend"
+  },
+  {
+    "example" : "I narrowed my list of prospective destinations to my three top choices (Tôi rút gọn danh sách các điểm đến triển vọng đối với tôi xuống còn 3 chọn lựa)",
+    "type" : "(adj): (thuộc) tương lai, triển vọng; về sau, sắp tới",
+    "vocabulary" : "prospective"
+  },
+  {
+    "example" : "The airline suggested I check with the State Department regarding the political situation in the country I'm flying to (Hãng hàng không đã đề nghị tôi kiểm tra với Bộ Ngoại giao Mỹ về tình hình chính trị ở quốc gia mà tôi đang bay đến)",
+    "type" : "(n): vị trí, địa thế; tình huống, hoàn cảnh; việc làm, chỗ làm",
+    "vocabulary" : "situation"
+  },
+  {
+    "example" : "The airline I work for had a substantially higher rating for customer satisfaction than our competitors had (Hãng hàng không mà tôi đang làm việc có thứ hạng về sự hài lòng của khách hàng cao hơn đáng kể thứ hạng mà các đối thủ có)",
+    "type" : "(adv): về thực chất, về bản chất, về cơ bản; lớn lao, đáng kể",
+    "vocabulary" : "substantially"
+  },
+  {
+    "example" : "The airline system covers the entire world with flights (Hệ thống hàng không trải ra\/bao trùm toàn bộ thế giới bằng các chuyến bay)",
+    "type" : "(n): hệ thống, hệ thống phân loại, chế độ (hoạt động, xã hội...)",
+    "vocabulary" : "system"
+  },
+  {
+    "example" : "Our travel agent gave us a comprehensive travel package, including rail passes (Người đại lý du lịch của chúng tôi trao cho một gói du lịch toàn diện, kể cả đi tàu lửa)",
+    "type" : "(adj): bao hàm, toàn diện; mau hiểu, lĩnh hội nhanh",
+    "vocabulary" : "comprehensive"
+  },
+  {
+    "example" : "My parents decided to splurge on deluxe accommodations for their trip (Cha mẹ tôi đã quyết định tiêu tiền thoải mái vào tiện nghi xa hoa cho chuyến đi của họ)",
+    "type" : "(adj): xa xỉ, xa hoa; thuộc loại sang trọng\/thượng hạng",
+    "vocabulary" : "deluxe"
+  },
+  {
+    "example" : "We consulted the directory to see where the train station was located (Chúng tôi đã tham khảo danh bạ điện thoại để xem ga xe lửa nằm ở chỗ nào)",
+    "type" : "(n): danh bạ, danh bạ điện thoại; sách chỉ dẫn\/hướng dẫn",
+    "vocabulary" : "directory"
+  },
+  {
+    "example" : "Mother lent me her spare jacket for the duration of the trip (Mẹ đã cho tôi mượn chiếc áo khoác để dành của bà cho suốt thời gian chuyến đi (của tôi))",
+    "type" : "(n): khoảng thời gian (tồn tại một sự việc)",
+    "vocabulary" : "duration"
+  },
+  {
+    "example" : "During the holiday rush, a train ticket entitled the passenger to a ride, but not necessarily a seat (Trong suốt mùa cao điểm nghỉ lễ, vé xe lửa cho phép hành khách lên tàu tàu, nhưng không nhất thiết có một chỗ ngồi2)",
+    "type" : "(v): cho phép làm cái gì, cho phép có cái gì",
+    "vocabulary" : "entitle"
+  },
+  {
+    "example" : "Pay your fare at the ticket office and you will get a ticket to board the train (Thanh toán cước phí của anh tại phòng vé và anh sẽ nhận được một vé lên tàu)",
+    "type" : "(n): cước phí, tiền (vé) tàu xe",
+    "vocabulary" : "fare"
+  },
+  {
+    "example" : "The high cost of the hotel room offset the savings we made by taking the train instead of the plane (Chi phí cao của khách sạn bù lại khoản tiết kiệm mà chúng tôi đã có bằng cách đi xe lửa thay vì máy bay)",
+    "type" : "(v): bù lại, bù đắp, đền bù; in ốp-sét;",
+    "vocabulary" : "offset"
+  },
+  {
+    "example" : "The train only operates in this area at the height of the tourist season (Xe lửa chỉ chạy trong khu vực này vào lúc cao điểm của mùa du lịch)",
+    "type" : "(v): hoạt động, chạy (máy); thao tác, thực hiện, tiến hành, triển khai...",
+    "vocabulary" : "operate"
+  },
+  {
+    "example" : "Please be on time; the train leaves punctually at noon (Hãy đến kịp giờ; xe lửa rời ga đúng giờ vào buổi trưa)",
+    "type" : "(adv): đúng giờ, không chậm trễ",
+    "vocabulary" : "punctually"
+  },
+  {
+    "example" : "The train is relatively empty for this time of day (Đoàn tàu hơi vắng khách vào lúc này trong ngày)",
+    "type" : "(adv): tương đối, vừa phải, hơi; có quan hệ với, có liên quan",
+    "vocabulary" : "relatively"
+  },
+  {
+    "example" : "Force the remainder of the text into the next page (Bắt buộc phần văn bản còn lại sang trang tiếp)",
+    "type" : "(n): phần còn lại, chỗ còn lại; số dư, phần dư",
+    "vocabulary" : "remainder"
+  },
+  {
+    "example" : "We took the train out of the city and found a remote hotel in the country for the weekend (Chúng tôi đón xe lửa ra khỏi thành phố và tìm một khách sạn cách biệt ở miền quê vào dịp cuối tuần)",
+    "type" : "(adj): xa, xa xôi, xa xăm; xa cách, hẻo lánh, cách biệt",
+    "vocabulary" : "remote"
+  },
+  {
+    "example" : "Since the hotel installed an advanced computer system, all operations have been functioning more smoothly (Bởi vì khách sạn đã lắp đặt một hệ thống máy tính tiên tiến, mọi hoạt động đang được vận hành trơn tru.)",
+    "type" : "(adj): tiên tiến, tiến bộ, cấp trên; cấp cao, ở mức cao",
+    "vocabulary" : "advanced"
+  },
+  {
+    "example" : "Budget-priced hotel chains have made a huge impact in the industry (Chuỗi khách sạn giá rẻ đã tạo ra một tác động to lớn cho nền công nghiệp.)",
+    "type" : "(n): chuỗi (khách sạn); nhà hàng....)",
+    "vocabulary" : "chain"
+  },
+  {
+    "example" : "Do you know your check-in time ? (Bạn có biết thời gian check-in không?)",
+    "type" : "(v): làm thủ tục đăng ký (để vào khách sạn, vào hội nghị, lên máy bay…)",
+    "vocabulary" : "check in"
+  },
+  {
+    "example" : "Please write to confirm your reservation (Xin vui lòng viết xác nhận cho việc đặt phòng của bạn.)",
+    "type" : "(v): xác nhận, chứng thực",
+    "vocabulary" : "confirm"
+  },
+  {
+    "example" : "You can expect a clean room when you check in at a hotel (Anh có thể đòi hỏi một căn phòng sạch sẽ khi anh làm thủ tục check-in tại khách sạn.)",
+    "type" : "(v): mong chờ, mong đợi, hy vọng; đòi hỏi; cho rằng, nghĩ rằng; đoán trước, liệu trước",
+    "vocabulary" : "expect"
+  },
+  {
+    "example" : "Eloise's first job at the hotel was as a housekeeper and now she is the manager (Công việc đầu tiên của Eloise ở khách sạn là người trực buồng và bây giờ cô đã là người quản lý.)",
+    "type" : "(n): quản gia; người coi nhà, người giữ nhà",
+    "vocabulary" : "housekeeper"
+  },
+  {
+    "example" : "They notified the hotel that they had been delayed in traffic and would be arriving late. (Họ đã thông báo với khách sạn rằng họ đã bị chậm trễ trong giao thông và sẽ đến muộn.)",
+    "type" : "(v): báo, thông báo, khai báo",
+    "vocabulary" : "notify"
+  },
+  {
+    "example" : "The horrible rainstorm precluded us from traveling any further. (Cơn mưa giông kinh khủng đã ngăn chúng tôi du hành thêm nữa.)",
+    "type" : "(v): loại trừ, trừ bỏ, ngăn ngừa; đẩy ra",
+    "vocabulary" : "preclude"
+  },
+  {
+    "example" : "We were quoted a price of $89 for the room for one night (Chúng tôi đã định giá 89 đô la cho một phòng trong một đêm.)",
+    "type" : "(v): (n) sự trích dẫn, lời trích dẫn, đoạn trích dẫn, định giá; (v) trích dẫn",
+    "vocabulary" : "quote"
+  },
+  {
+    "example" : "The sign in the lobby lists the seasonal rates (Biển hiệu ở trong hành lang liệt kê các mức giá theo từng mùa.)",
+    "type" : "(n): mức, giá (giá được tính theo các nấc căn cứ theo chất lượng)",
+    "vocabulary" : "rate"
+  },
+  {
+    "example" : "I know I made a reservation for tonight, but the hotel staff has no record of it in the system (Tôi biết rằng tôi đã đặt chổ tối nay, nhưng nhân viên khách sạn không lưu nó vào hệ thống.)",
+    "type" : "(n): sự dành trước, sự đặt chổ trước",
+    "vocabulary" : "reservation"
+  },
+  {
+    "example" : "The food was good but the service was very slow. (Thức ăn thì rất ngon nhưng dịch vụ thì quá tồi.)",
+    "type" : "(n): dịch vụ, sự phục vụ",
+    "vocabulary" : "service"
+  },
+  {
+    "example" : "Alfred was busy getting ready for his vacation (Alfred bận rộn để chuẩn bị sẵn sàng cho kỳ nghỉ của mình)",
+    "type" : "(adj): bận, bận rộn",
+    "vocabulary" : "busy"
+  },
+  {
+    "example" : "My cousin's wedding coincided with a holiday weekend, so it was a perfect time to rent a car and go for a drive (Đám cưới của người anh\/em bà con của tôi trùng với kỳ nghỉ lễ cuối tuần, vậy nó là một dịp lý tưởng để thuê ô-tô và đi chơi bằng xe)",
+    "type" : "(v): trùng khớp, trùng hợp, trùng nhau; xảy ra đồng thời",
+    "vocabulary" : "coincide"
+  },
+  {
+    "example" : "To avoid any confusion about renting the car, Yolanda asked her travel agent to make the arrangements on her behalf (Để tránh bất kỳ nhầm lẫn nào trong việc thuê xe, Yolanda đã yêu cầu người đại lý du lịch thực hiện dàn xếp thay mặt cho cô ấy.)",
+    "type" : "(n): ‹sự› lộn xộn, hỗn loạn; ‹sự› mơ hồ, mập mờ; bối rối",
+    "vocabulary" : "confusion"
+  },
+  {
+    "example" : "Manuel contacted at least a dozen car rental agencies to get the best deal (Manuel đã tiếp xúc với ít nhất một tá đại lý đại lý cho thuê xe để được giao dịch tốt nhất)",
+    "type" : "(v): ‹sự\/chỗ› chạm, tiếp xúc, giao tiếp, giao dịch, gặp gỡ;",
+    "vocabulary" : "contact"
+  },
+  {
+    "example" : "Leila was disappointed to discover that no rental cars were available the weekend she wished to travel (Leila thất vọng khi phát hiện ra rằng không có xe thuê vào dịp cuối tuần mà cô muốn đi du lịch)",
+    "type" : "(v): thất vọng, chán ngán; nhụt chí, nản lòng; thất hứa, thất ước",
+    "vocabulary" : "disappoint"
+  },
+  {
+    "example" : "Do you intend to return the car to this location or to another location? (Anh định quay xe về chỗ này hay là chạy đến chỗ khác?)",
+    "type" : "(v): định, dự định, có ý định",
+    "vocabulary" : "intend"
+  },
+  {
+    "example" : "A driver's license allows you to operate a motor vehicle legally (Giấy phép lái xe hạng A cho phép bạn lái xe mô tô một cách hợp pháp)",
+    "type" : "(n): giấy chứng nhận; bản quyền",
+    "vocabulary" : "license"
+  },
+  {
+    "example" : "As we approached the city Lonnie started driving nervously, so I volunteered to drive that part of the trip (Lúc mà chúng tôi đến thành phố thì Lonnie bắt đầu lái xe rất căng thẳng, vì vậy tôi tình nguyện lái đoạn đường đó của cuộc hành trình)",
+    "type" : "(adv): lo lắng, bồn chồn, căng thẳng",
+    "vocabulary" : "nervously"
+  },
+  {
+    "example" : "Check this box if you wish to have this optional insurance (Hãy đánh dấu vào khung này này nếu anh muốn có tùy chọn bảo hiểm)",
+    "type" : "(adj): tùy ý, tùy chọn, không bắt buộc",
+    "vocabulary" : "optional"
+  },
+  {
+    "example" : "I am tempted by the idea of driving across the country instead of flying (Tôi bị cám dỗ bởi ý tưởng lái xe xuyên qua đất nước thay vì đi máy bay)",
+    "type" : "(v): cám dỗ, khêu gợi; xúi, xúi giục",
+    "vocabulary" : "tempt"
+  },
+  {
+    "example" : "Just taking a vacation is thrill enough, even if we are driving instead of flying (Hãy thực hiện một kỳ nghỉ có đủ sự rộn ràng lên, cho dù ta đang lái xe thay vì đi máy bay)",
+    "type" : "(n): run lên, rùng mình, rùng rợn, ly kỳ; rộn lên, rộn ràng; rung cảm, xúc động",
+    "vocabulary" : "thrill"
+  },
+  {
+    "example" : "If you are on a budget, I suggest you think about renting a car from our lowest tier (Nếu anh chỉ có một số tiền nhỏ, tôi đề nghị anh hãy suy nghĩ về việc thuê một chiếc xe thuộc hạng thấp nhất của chúng tôi)",
+    "type" : "(n): ‹người› buộc, cột, trói; tầng, lớp, tầng lớp",
+    "vocabulary" : "tier"
+  },
+  {
+    "example" : "The attainment of his ambitions was still a dream. (Việc đạt được những tham vọng của ông vẫn còn là một giấc mơ.)",
+    "type" : "(n): đạt được, giành được",
+    "vocabulary" : "attainment"
+  },
+  {
+    "example" : "The director combined two previously separate visual techniques (Đạo diễn đã kết hợp 2 kỹ xảo hình ảnh riêng biệt trước đây lại với nhau)",
+    "type" : "(v): kết hợp, phối hợp",
+    "vocabulary" : "combine"
+  },
+  {
+    "example" : "The film continues the story set out in an earlier film (Bộ phim tiếp nối câu chuyện được bắt đầu trong một bộ phim trước đây)",
+    "type" : "(v): tiếp tục, tiếp diễn, làm tiếp, duy trì",
+    "vocabulary" : "continue"
+  },
+  {
+    "example" : "The description of the film did not match what we saw on screen (Sự mô tả về bộ phim đã không xứng với những gì chúng ta thấy trên màn ảnh)",
+    "type" : "(n): ‹sự› diễn tả, mô tả; diện mạo, hình dạng",
+    "vocabulary" : "description"
+  },
+  {
+    "example" : "Police dispersed the protesters with tear gas. (Cảnh sát giải tán người biểu tình bằng hơi cay.)",
+    "type" : "(v): giải tán, phân tán",
+    "vocabulary" : "disperse"
+  },
+  {
+    "example" : "There was not entertainment for children of guests at the hotel (Không có trò giải trí nào cho những vị khách trẻ em ở khách sạn)",
+    "type" : "(n): ‹sự› giải trí, tiêu khiển",
+    "vocabulary" : "entertainment"
+  },
+  {
+    "example" : "The producer was able to influence the town council to allow her to film in the park (Nhà sản xuất có thể tác động hội đồng thành phố cho phép bà được quay phim trong công viên)",
+    "type" : "(n): ảnh hưởng đến, tác động đến; khiến cho",
+    "vocabulary" : "influence"
+  },
+  {
+    "example" : "The range of the director's vision is impressive (Tầm nhìn của đạo diện là đầy ấn tượng)",
+    "type" : "(n): vùng, phạm vi, lĩnh vực",
+    "vocabulary" : "range"
+  },
+  {
+    "example" : "The film was finally released to movie theaters after many delays (Bộ phim cuối cùng đã được phát hành cho các rạp chiếu phim sau nhiều trì hoãn)",
+    "type" : "(v): công bố, phát hành",
+    "vocabulary" : "release"
+  },
+  {
+    "example" : "The film's representation of world poverty through the character of the hungry child was quite moving (Sự diễn tả của bộ phim về thế giới bần cùng thông qua nhân vật đứa trẻ đói khát thì khá là thương tâm.)",
+    "type" : "(n): đại diện, thay mặt; tiêu biểu,tượng trưng; diễn tả, đóng vai",
+    "vocabulary" : "representation"
+  },
+  {
+    "example" : "The theater was very crowded so we had to sit separately (Rạp hát rất đông nên chúng tôi phải ngồi riêng rẽ)",
+    "type" : "(adv): tách rời, riêng rẽ",
+    "vocabulary" : "separately"
+  },
+  {
+    "example" : "This was their fourth successive win. (Đây là chiến thắng thứ tư liên tiếp của họ.)",
+    "type" : "(adj): kế tiếp, liên tiếp, liên tục; lần lượt",
+    "vocabulary" : "successive"
+  },
+  {
+    "example" : "She started her acting career while still at school. (Cô bắt đầu sự nghiệp diễn xuất của cô trong khi vẫn còn ở trường.)",
+    "type" : "(n): Diễn biến (của vở kịch)",
+    "vocabulary" : "action"
+  },
+  {
+    "example" : "The performance approaches perfection (Việc diễn kịch gần như là hoàn hảo)",
+    "type" : "(v): tiến gần, tiếp cận; đường tiến vào, lối vào; thăm dò, tiếp xúc",
+    "vocabulary" : "approach"
+  },
+  {
+    "example" : "The audience cheered the actors as they walked off the stage (Khán giả đã hoan hô các diễn viên khi họ rời khỏi sân khấu)",
+    "type" : "(n): khán giả, thính giả, độc giả",
+    "vocabulary" : "audience"
+  },
+  {
+    "example" : "The writer's creative representation of the Seven Deadly Sins was astounding (Sự diễn tả sáng tạo vở kịch 7 trọng tội của nhà văn đã làm kinh ngạc)",
+    "type" : "(adj): sáng tạo",
+    "vocabulary" : "creative"
+  },
+  {
+    "example" : "The actors performed the dialogue without using scripts (Các diễn viên trình diễn cuộc đối thoại mà không dùng kịch bản)",
+    "type" : "(n): cuộc đối thoại, giai thoại",
+    "vocabulary" : "dialogue"
+  },
+  {
+    "example" : "The audience is an essential element of live theater (Khán giả là một yếu tố thiết yếu của nhà hát sống (nhà hát trực tiếp))",
+    "type" : "(n): yếu tố, nguyên tố",
+    "vocabulary" : "element"
+  },
+  {
+    "example" : "The experience of live theater is very thrilling (Sự từng trải của nhà hát sống là rất ly kỳ)",
+    "type" : "(n): kinh nghiệm, từng trải",
+    "vocabulary" : "experience"
+  },
+  {
+    "example" : "The murder in the play occurs in the second act (Vụ án mạng trong vở kịch xuất hiện ở hồi thứ 2)",
+    "type" : "(v): xuất hiện; xảy ra, xảy đến",
+    "vocabulary" : "occur"
+  },
+  {
+    "example" : "The theater group performed a three-act play (Nhóm diễn kịch đang trình diễn một vở kịch có 3 hồi)",
+    "type" : "(v): thực hiện, thi hành; trình bày, biểu diễn, đóng vai",
+    "vocabulary" : "perform"
+  },
+  {
+    "example" : "Today, we'll just be rehearsing the final scene. (Hôm nay, chúng tôi sẽ chỉ được tập luyện cảnh cuối cùng.)",
+    "type" : "(v): diễn tập; nhắc lại, kể lại",
+    "vocabulary" : "rehearse"
+  },
+  {
+    "example" : "The terms of the contract are under review. (Các điều khoản của hợp đồng đang được xem xét.)",
+    "type" : "(n, v): sự phê bình, lời phê bình",
+    "vocabulary" : "review"
+  },
+  {
+    "example" : "The tickets sold out within hours. (Các vé đã được bán hết trong vài giờ)",
+    "type" : "(v): hết vé",
+    "vocabulary" : "sell out"
+  },
+  {
+    "example" : "I checked the list of available compact discs before ordering (Tôi đã kiểm tra danh sách các đĩa CD có sẵn trước khi đặt mua)",
+    "type" : "(adj): sẵn có, sẵn sàng (để dùng, để phục vụ)",
+    "vocabulary" : "available"
+  },
+  {
+    "example" : "You will appreciate music more if you broaden your tastes and listen to several types of music (Bạn sẽ biết thưởng thức âm nhạc hơn nếu bạn mở rộng thị hiếu của mình và lắng nghe vài loại âm nhạc)",
+    "type" : "(v): (to become wider): mở rộng, nới rộng",
+    "vocabulary" : "broaden"
+  },
+  {
+    "example" : "Jazz is one of many categories of music (Jazz là một trong nhiều thể loại âm nhạc)",
+    "type" : "(n): loại, hạng",
+    "vocabulary" : "category"
+  },
+  {
+    "example" : "Religious song cut across disparate categories of music (Bài hát tôn giáo (thánh ca) tách hẳn ra làm thể loại âm nhạc khác biệt)",
+    "type" : "(adj): khác biệt, khác loại, khác hẳn nhau",
+    "vocabulary" : "disparate"
+  },
+  {
+    "example" : "The music class was evenly divided between those who liked country and western music and those who do not (Các thể loại âm nhạc đã chia đều ra những người thích nhạc đồng quê và miền tây với những người không thích)",
+    "type" : "(v): chia ra, phân chia; chia rẽ, ly gián",
+    "vocabulary" : "divide"
+  },
+  {
+    "example" : "Sam enjoys the works of several composers but he tends to favor Mozart (Sam thưởng thức các tác phẩm của vài nhà soạn nhạc nhưng anh có khuynh hướng thiên về Mozart hơn)",
+    "type" : "(v): chiếu cố, thiên vị; thích, thiện cảm",
+    "vocabulary" : "favor"
+  },
+  {
+    "example" : "The student's ability to play the cello was so natural, it seemed an instinct (Khả năng chơi đàn cello của người sinh viên quả là trời cho, nó dường như là 1 bản năng)",
+    "type" : "(n): bản năng; năng khiếu, thiên hướng",
+    "vocabulary" : "instinct"
+  },
+  {
+    "example" : "Ms. Lanet prefers to get a seat near the aisle when she attends a concert (Cô Lanet thích chọn một ghế gần lối đi mỗi khi cô tham dự một buổi hòa nhạc)",
+    "type" : "(v): thích hơn, ưa hơn; đề bạt, thăng cấp; đưa ra, trình ra",
+    "vocabulary" : "prefer"
+  },
+  {
+    "example" : "There is every reason to believe that Beethoven will still be popular in the next century (Có nhiều lý do để tin rằng (nhạc) Beethoven vẫn còn nổi tiếng trong thế kỷ tiếp theo)",
+    "type" : "(n): lý do, lý lẽ; lý trí, lẽ phải",
+    "vocabulary" : "reason"
+  },
+  {
+    "example" : "He played the piano for relaxation and pleasure (Anh ta đã chơi đàn piano để thư giãn và vui thú)",
+    "type" : "(n): ‹sự› thư giãn, giải trí; nghỉ ngơi, nới lỏng, làm dịu, làm giảm",
+    "vocabulary" : "relaxation"
+  },
+  {
+    "example" : "He has very good taste in music. (Anh ấy rất biết thưởng thức âm nhạc.)",
+    "type" : "(n): vị giác; ‹sự› nếm, thưởng thức; sở thích, thị hiếu",
+    "vocabulary" : "taste"
+  },
+  {
+    "example" : "His mother urged him to study the piano (Mẹ anh ta đã thúc giục anh ta học đàn piano.)",
+    "type" : "(v): thúc giục, thúc đẩy, thôi thúc; cố nài, cố thuyết phục",
+    "vocabulary" : "urge"
+  },
+  {
+    "example" : "The museum acquired a Van Gogh during heavy bidding (Viện bảo tàng đã giành được một bức tranh của Van Gogh trải qua cuộc đấu giá mạnh tay)",
+    "type" : "(v): đạt được, thu được, giành được, kiếm được (obtain)",
+    "vocabulary" : "acquire"
+  },
+  {
+    "example" : "I admire all the effort the museum put into organizing this wonderful exhibit (Tôi khâm phục tất cả nỗ lực của bảo tàng đã dành thời gian tổ chức cuộc triển lãm kỳ diệu này)",
+    "type" : "(v): khâm phục, thán phục; hâm mộ, ngưỡng mộ",
+    "vocabulary" : "admire"
+  },
+  {
+    "example" : "The museum's collection contained many works donated by famous collectors (Bộ sưu tập của viện bảo tàng có nhiều tác phẩm được tặng bởi các nhà sưu tập nổi tiếng)",
+    "type" : "(n): ‹sự› sưu tầm, thu thập; ‹sự\/tiền› quyên góp; nhóm người\/đồ vật",
+    "vocabulary" : "collection"
+  },
+  {
+    "example" : "The revered artist's criticism of the piece was particularly insightful (Lời phê bình về tác phẩm của một họa sĩ được kính trọng là đặc biệt sâu sắc)",
+    "type" : "(n): ‹sự\/lời› phê bình, chỉ trích, phê phán",
+    "vocabulary" : "criticism"
+  },
+  {
+    "example" : "The photograph expresses a range of emotions (Bức ảnh biểu lộ đủ loại cảm xúc)",
+    "type" : "(v): biểu lộ, bày tỏ, diễn đạt; gửi nhanh, gửi tốc hành",
+    "vocabulary" : "express"
+  },
+  {
+    "example" : "The museum's classical architecture has never gone out of fashion (Kiến trúc cổ điển của viện bảo tàng không bao giờ lỗi thời)",
+    "type" : "(n): thời trang, mốt; hình dáng, kiểu cách",
+    "vocabulary" : "fashion"
+  },
+  {
+    "example" : "We can go to the permanent collection at our leisure (Chúng tôi có thể đi góp nhặt\/sưu tập thường xuyên vào lúc chúng tôi rảnh rỗi)",
+    "type" : "(n): ‹lúc\/thời gian› nhàn rỗi, nhàn hạ",
+    "vocabulary" : "leisure"
+  },
+  {
+    "example" : "I asked him his name, but he didn't respond. (Tôi đã gọi tên anh ấy nhưng anh ấy không phản hồi)",
+    "type" : "(v): hồi âm, phúc đáp",
+    "vocabulary" : "respond"
+  },
+  {
+    "example" : "The meeting is scheduled for Friday afternoon (Cuộc họp đã được lên lịch vào trưa thứ 6)",
+    "type" : "(v): thời gian biểu, lịch trình",
+    "vocabulary" : "schedule"
+  },
+  {
+    "example" : "There are no significant differences between the two groups of students. (Không có sự khác biệt đáng kể giữa hai nhóm học sinh.)",
+    "type" : "(n): quan trọng, trọng đại, hệ trọng; đầy ý nghĩa",
+    "vocabulary" : "significant"
+  },
+  {
+    "example" : "He specialized in criminal law. (Anh ấy chuyên về pháp luật hình sự.)",
+    "type" : "(v): chuyên môn hóa, chuyên về, đặc trưng về",
+    "vocabulary" : "specialize"
+  },
+  {
+    "example" : "Red and violet are at opposite ends of the spectrum. (Màu đỏ và tím được phân bổ ở hai đầu của quang phổ.)",
+    "type" : "(n): sự phân bổ theo tính chất, số lượng, hành vi",
+    "vocabulary" : "spectrum"
+  },
+  {
+    "example" : "This assignment has to be turned in before midnight (Công việc (được giao) này phải được thực hiện trước nửa đêm)",
+    "type" : "(n): ‹sự› giao việc, phân công; quy là, cho là",
+    "vocabulary" : "assignment"
+  },
+  {
+    "example" : "Alan chooses to read The New York Times over the Wall Street Journal (Alan chọn đọc tờ Thời báo New York hơn là tờ Tạp chí Phố Wall)",
+    "type" : "(v): chọn, chọn lựa",
+    "vocabulary" : "choose"
+  },
+  {
+    "example" : "Fashion is constantly changing. (Thời gian luôn tục thay đổi)",
+    "type" : "(adv): trung thành, chung thủy, liên tục",
+    "vocabulary" : "constantly"
+  },
+  {
+    "example" : "His action was interpreted as constituting a threat to the community. (Hành động của anh ấy được thiết lập như một mối nguy hiểm cho cộng đồng)",
+    "type" : "(v): tạo thành, thành lập, thiết lập",
+    "vocabulary" : "constitute"
+  },
+  {
+    "example" : "Newspaper editors often have to make quick decisions about which stories to publish (Các biên tập viên báo chí thường phải ra những quyết định nhanh về chuyện nào được công bố)",
+    "type" : "(n): sự quyết định; ‹sự› giải quyết, phân xử, phán quyết",
+    "vocabulary" : "decision"
+  },
+  {
+    "example" : "The media disseminates news across the world (Truyền thông đại chúng phổ biến tin tức đi khắp thế giới)",
+    "type" : "(v): truyền bá; phổ biến, gieo rắc (khắp nơi)",
+    "vocabulary" : "disseminate"
+  },
+  {
+    "example" : "The story of the presidential scandal had a huge impact on the public (Bài báo về vụ bê bối của tổng thống đã có tác động to lớn đến công chúng)",
+    "type" : "(n): ‹sự\/sức› va mạnh, va chạm mạnh, tác động mạnh, ảnh hưởng mạnh",
+    "vocabulary" : "impact"
+  },
+  {
+    "example" : "The newspaper gave in-depth coverage of the tragic bombing (Tờ báo đưa tin chi tiết về vụ ném bom bi thảm)",
+    "type" : "(adj): cẩn thận, tỉ mỉ, chu đáo, chi tiết",
+    "vocabulary" : "in-depth"
+  },
+  {
+    "example" : "Reporters need to thoroughly investigate the facts before publishing their stories (Các phóng viên cần phải điều tra kỹ lưỡng về sự kiện trước khi công bố bài báo về chúng)",
+    "type" : "(v): điều tra, nghiên cứu",
+    "vocabulary" : "investigate"
+  },
+  {
+    "example" : "Police suspect there may be a link between the two murders. (Cảnh sát nghi ngờ có thể có một mối liên kết giữa hai vụ giết người.)",
+    "type" : "(n): nối, liên kết, liên lạc, kết hợp",
+    "vocabulary" : "link"
+  },
+  {
+    "example" : "We subscribe to several sports channels (= on TV). (Chúng tôi đăng ký vào một số kênh thể thao (trên TV).)",
+    "type" : "(v): đặt mua một cái gì đó định kỳ, đăng ký",
+    "vocabulary" : "subscribe"
+  },
+  {
+    "example" : "The story was the result of thorough research (Bài báo là kết quả của sự nghiên cứu kỹ lưỡng)",
+    "type" : "(adj): thấu đáo, triệt để, hoàn toàn, trọn vẹn; tỉ mỉ, kỹ lưỡng",
+    "vocabulary" : "thorough"
+  },
+  {
+    "example" : "Everyone should get a physical exam annually (Mọi người nên đi khám sức khỏe hàng năm)",
+    "type" : "(adv): hàng năm, từng nằm, thường niên (yearly)",
+    "vocabulary" : "annually"
+  },
+  {
+    "example" : "I've got a dentist appointment at 3 o'clock. (Tôi đã có một cuộc hẹn với nha sĩ lúc 03:00.)",
+    "type" : "(n): cuộc hẹn, sự hẹn gặp, giấy mời; chức vụ được bổ nhiệm, sắc lệnh",
+    "vocabulary" : "appointment"
+  },
+  {
+    "example" : "The insurance rate Mr. Victor was assessed went up this year after he admitted that he had started smoking again (Mức phí bảo hiểm mà ông Victor được định giá tăng lên sau khi ông thú nhận đã bắt đầu hút thuốc trở lại)",
+    "type" : "(v): định giá, đánh giá; ước lượng, định lượng",
+    "vocabulary" : "assess"
+  },
+  {
+    "example" : "After considering the patient's symptoms and looking at his test results, the doctor diagnosed the lump as benign (Sau khi cân nhắc các triệu chứng của bệnh nhân và xem kết quả xét nghiệm của anh ta, vị bác sĩ đã chẩn đoán khối u là u lành)",
+    "type" : "(v): chẩn đoán",
+    "vocabulary" : "diagnose"
+  },
+  {
+    "example" : "Howard was pleased to find that the diet recommended by his doctor was quite effective (Howard đã đã cảm thấy hài lòng khi chế độ ăn kiêng được bác sĩ dặn đã hoàn toàn có hiệu quả)",
+    "type" : "(adj): ‹có› kết quả, tác dụng; ‹có› hiệu quả, hiệu lực; ảnh hưởng",
+    "vocabulary" : "effective"
+  },
+  {
+    "example" : "The senior physician carried his instruments in a black leather bag (Người thầy thuốc thâm niên mang những dụng cụ của mình trong một cái túi da màu đen)",
+    "type" : "(n): dụng cụ, công cụ, thiết bị đo đạc; văn kiện, nhạc cụ",
+    "vocabulary" : "instrument"
+  },
+  {
+    "example" : "The head nurse's ability to manage her staff through a difficult time caught the hospital administrator's attention (Khả năng quản lý\/điều hành nhân viên của người y tá trưởng suốt thời gian khó khăn đã gây sự chú ý của người quản lý bệnh viện)",
+    "type" : "(v): quản lý, trông nom, điều khiển, sai khiến",
+    "vocabulary" : "manage"
+  },
+  {
+    "example" : "By encouraging teenagers not to smoke, doctors are hoping to prevent many cases of cancer (Bằng cách khuyến khích thiếu niên không hút thuốc, các bác sĩ đang hy vọng ngăn chặn được nhiều ca ung thư)",
+    "type" : "(v): ngăn ngừa, ngăn chặn; phòng ngừa, phòng tránh",
+    "vocabulary" : "prevent"
+  },
+  {
+    "example" : "It is important to follow the doctor's recommendations if you want to improve your health (Thật quan trọng để làm theo những dặn dò của bác sĩ nếu bạn muốn cải thiện sức khỏe)",
+    "type" : "(n): sự› giới thiệu, tiến cử; ‹sự› gửi gắm, phó thác, dặn dò",
+    "vocabulary" : "recommendation"
+  },
+  {
+    "example" : "You should keep a record of your expenses (Bạn nên lưu trữ lại hồ sơ lưu trữ chi phí khám bệnh của bạn.)",
+    "type" : "(n): hồ sơ, sổ sách, biên bản, văn thư; kỷ lục; đĩa hát;",
+    "vocabulary" : "record"
+  },
+  {
+    "example" : "As soon as Agnes referred to the failed treatment, everyone's mood soured (Ngay khi Agnes quy cho việc thất bại là do điều trị, tâm trạng của mọi người đã tỏ ra cáu kỉnh)",
+    "type" : "(v): quy vào, quy cho, viện vào, ám chỉ, nói đến; tham khảo, hỏi ý kiến",
+    "vocabulary" : "refer"
+  },
+  {
+    "example" : "For her dissertation, she made a serious study of women's health care needs in developing nations (Vì luận án của mình, cô ấy đã thực hiện một nghiên cứu nghiêm túc về nhu cầu chăm sóc sức khỏe phụ nữ trong sự phát triển của các dân tộc)",
+    "type" : "(adj): nghiêm trọng, trầm trọng; nghiêm trang, đứng đắn, nghiêm túc",
+    "vocabulary" : "serious"
+  },
+  {
+    "example" : "My dentist made me aware that I should have an appointment twice a year (Nha sĩ của tôi làm cho tôi biết rằng tôi nên hẹn gặp 2 lần mỗi năm (để khám răng))",
+    "type" : "(adj): biết, nhận thấy, nhận thức thấy",
+    "vocabulary" : "aware"
+  },
+  {
+    "example" : "The dental assistant caught up on her paperwork in between patients (Người trợ tá nha sĩ đã kịp làm công việc giấy tờ của mình giữa các lần khám bệnh nhân)",
+    "type" : "(v): làm kịp, kịp thời gian",
+    "vocabulary" : "catch up"
+  },
+  {
+    "example" : "To provide a distraction from the noise, Luisa's dentist offered her a pair of earphones (Để tránh khỏi tiếng ồn, nha sĩ của Luisa đã đưa ra cho cô một cặp tai nghe)",
+    "type" : "(n): ‹sự› sao nhãng, lãng trí, rối trí; sự giải trí, trò tiêu khiển",
+    "vocabulary" : "distraction"
+  },
+  {
+    "example" : "Let me offer you some encouragement about your crooked teeth (Để tôi sẵn sàng cho anh vài sự động viên về hàm răng lệch lạc của anh)",
+    "type" : "(n): khuyến khích, cổ vũ, niềm động viên",
+    "vocabulary" : "encouragement"
+  },
+  {
+    "example" : "The presence of a wisdom tooth was not evident until the dentist started to examine the patient (Sự có mặt của cái răng khôn thì không rõ ràng cho đến khi nha sĩ bắt đầu khám bệnh nhân)",
+    "type" : "(adj): rõ ràng, hiển nhiên, rành rành",
+    "vocabulary" : "evident"
+  },
+  {
+    "example" : "The patient had a habit of grinding his teeth during his sleep (Bệnh nhân có một thói quen nghiến răng ken két trong khi ngủ)",
+    "type" : "(n): thói quen, tập quán",
+    "vocabulary" : "habit"
+  },
+  {
+    "example" : "Let me turn on more lights to properly illuminate the back teeth (Để tôi bật thêm đèn để chiếu sáng đúng mức hàm răng đen)",
+    "type" : "(v): chiếu sáng, soi sáng; giải thích rõ, làm sáng tỏ",
+    "vocabulary" : "illuminate"
+  },
+  {
+    "example" : "Aspirin irritates my stomach (Aspirin kích ứng dạ dày của tôi)",
+    "type" : "(v): kích thích; làm tấy lên, làm rát",
+    "vocabulary" : "irritate"
+  },
+  {
+    "example" : "I did a quick overview of your teeth and they look in good shape (Tôi đã khám tổng quát nhanh hàm răng của anh và chúng trông có vẻ tốt)",
+    "type" : "(n): chung, tổng quan, tổng quát",
+    "vocabulary" : "overview"
+  },
+  {
+    "example" : "Let me tilt your head to a more comfortable position for you (Để tôi nghiêng đầu anh đến vị trí thoải mái hơn cho anh)",
+    "type" : "(n): vị trí, chỗ, thế, tư thế; địa vị, chức vụ",
+    "vocabulary" : "position"
+  },
+  {
+    "example" : "She brushes regularly after every meal (Cô ta chải (răng) đều đặn sau mỗi bữa ăn)",
+    "type" : "(adv): đều đặn, thường xuyên; theo quy tắc, có quy củ",
+    "vocabulary" : "regularly"
+  },
+  {
+    "example" : "The cleaning restored the whiteness of my teeth (Việc làm sạch răng đã phục hồi độ trắng của hàm răng tôi)",
+    "type" : "(v): phục hồi, khôi phục",
+    "vocabulary" : "restore"
+  },
+  {
+    "example" : "My insurance does not allow me to choose my own hospital (Hợp đồng bảo hiểm của tôi không cho tôi chọn bệnh viện cho mình)",
+    "type" : "(v): cho phép; để cho",
+    "vocabulary" : "allow"
+  },
+  {
+    "example" : "To lower the cost of health insurance, my employer chose an alternative method of insuring us (Để hạ thấp chi phí bảo hiểm y tế, sếp của tôi đã chọn phương pháp bảo hiểm luân phiên cho chúng tôi)",
+    "type" : "(adj): xen kẽ, thay phiên, luân phiên",
+    "vocabulary" : "alternative"
+  },
+  {
+    "example" : "She felt she had looked at the problem from every aspect. (Cô ấy cảm thấy rằng cô ấy đã nhìn nhận vấn đề từ mọi khía cạnh)",
+    "type" : "(n): vẻ, bề ngoài; diện mạo",
+    "vocabulary" : "aspect"
+  },
+  {
+    "example" : "Whenever I have health concerns, I call my doctor (Hễ khi nào tôi có lo ngại về sức khỏe, tôi gọi cho bác sĩ của mình)",
+    "type" : "(n): liên quan, dính líu; lo lắng, lo ngại, quan tâm",
+    "vocabulary" : "concern"
+  },
+  {
+    "example" : "The nurse emphasized the importance of eating a balanced diet (Người y tá nhấn mạnh tầm quan trọng của việc ăn uống theo chế độ cân bằng)",
+    "type" : "(v): nhấn mạnh, làm nổi bật",
+    "vocabulary" : "emphasize"
+  },
+  {
+    "example" : "I incrurred substantial expenses that my health plan does not coverI incurred substantial expenses that my health plan does not cover (Tôi phải gánh những chi phí phát sinh mà dự án chăm sóc sức khỏe của tôi không bao gồm)",
+    "type" : "(v): chịu, gánh, mắc, bị",
+    "vocabulary" : "incur"
+  },
+  {
+    "example" : "The employee went to see the director of personnel about taking an extended leave of absence (Người nhân viên đi gặp giám đốc nhân sự về việc xin gia hạn thời gian nghỉ phép)",
+    "type" : "(n): cán bộ, nhân viên",
+    "vocabulary" : "personnel"
+  },
+  {
+    "example" : "The company's insurance policy did not cover cosmetic surgery (Chính sách bảo hiểm của công ty không bao gồm phẫu thuật thẩm mỹ)",
+    "type" : "(n): chính sách, đường lối",
+    "vocabulary" : "policy"
+  },
+  {
+    "example" : "A portion of my benefits is my health care coverage (Một phần phúc lợi của tôi là bảo hiểm chăm sóc sức khỏe)",
+    "type" : "(n): phần, phần chia",
+    "vocabulary" : "portion"
+  },
+  {
+    "example" : "Regardless of the cost, we all need health insurance (Bất chấp phí tổn, tất cả chúng tôi đều cần bảo hiểm y tế)",
+    "type" : "(adv): không quan tâm, không chú ý tới, không đếm xỉa tới, bất chấp",
+    "vocabulary" : "regardless"
+  },
+  {
+    "example" : "he technician was pleased to have a raise in salary after only six months on the job (Người kỹ thuật viên đã hài lòng khi có sự tăng lương chỉ sau 6 tháng làm việc)",
+    "type" : "(n): tiền lương",
+    "vocabulary" : "salary"
+  },
+  {
+    "example" : "I have finally found a health plan that suits my needs (Rốt cuộc thì tôi đã tìm ra một dự án chăm sóc sức khỏe (mà) phù hợp với như cầu của tôi)",
+    "type" : "(v): làm cho phù hợp, thích hợp; làm cho thỏa mãn, đáp ứng; tiện, hợp với",
+    "vocabulary" : "suit"
+  },
+  {
+    "example" : "The injured patient was admitted to the unit directly from the emergency room (Bệnh nhân bị thương đã được đưa thẳng vào khoa từ phòng cấp cứu)",
+    "type" : "(v): thú nhận, thừa nhận; cho vào, nhận vào, kết nạp",
+    "vocabulary" : "admit"
+  },
+  {
+    "example" : "We cannot share the test results with you until we have been authorized to do so by your doctor (Chúng tôi không thể chia sẻ kết quả xét nghiệm với anh cho đến khi chúng tôi được cho phép làm như vậy bởi bác sĩ của anh)",
+    "type" : "(v): Cho quyền, ủy quyền, cho phép",
+    "vocabulary" : "authorize"
+  },
+  {
+    "example" : "This floor has been designated a no-smoking area. (Tầng này được chỉ định cấm hút thuốc.)",
+    "type" : "(v): chỉ rõ, định rõ",
+    "vocabulary" : "designate"
+  },
+  {
+    "example" : "You cannot leave the unit on your own; you'll have to wait for an escort (Anh không thể rời đơn vị (khoa...) một mình, anh phải chờ một người dẫn đường)",
+    "type" : "(n): đội hộ tống; người dẫn đường, vệ sĩ",
+    "vocabulary" : "escort"
+  },
+  {
+    "example" : "The tiny bracelets identified each baby in the nursery (Những cái vòng tay bé xíu nhận diện từng em bé ở trong phòng dành riêng cho trẻ nhỏ)",
+    "type" : "(v): nhận ra, nhận biết, nhận diện; đồng nhất, đồng cảm, đồng hóa",
+    "vocabulary" : "identify"
+  },
+  {
+    "example" : "Our mission is to build a future in which humans live in harmony with nature (Sứ mệnh của chúng ta là xây dựng tương lai con người sống hoà hợp với tự nhiên)",
+    "type" : "(n): sứ mệnh, nhiệm vụ",
+    "vocabulary" : "mission"
+  },
+  {
+    "example" : "Smoking is not permitted anywhere inside the hospital (Hút thuốc bị cấm ở bất kỳ đâu bên trong bệnh viện)",
+    "type" : "(v): giấy phép, sự cho phép",
+    "vocabulary" : "permit"
+  },
+  {
+    "example" : "He should speak a pertinent problem\/ (Anh ất nên nói thẳng vào vấn đề của anh ấy.)",
+    "type" : "(adj): thích hợp, thích đáng, đúng chỗ; đi thẳng vào (vấn đề...)",
+    "vocabulary" : "pertinent"
+  },
+  {
+    "example" : "Call the hospital to schedule this procedure for tomorrow (Hãy gọi cho bệnh viện để sắp lịch cho thủ tục này vào ngày mai)",
+    "type" : "(n): thủ tục, các bước tiến hành (cho đến khi hoàn thành công việc)",
+    "vocabulary" : "procedure"
+  },
+  {
+    "example" : "The scientific results prove that the new prodedure is not significantly safer than the traditional one (Các kết quả khoa học đã chứng minh rằng thủ tục mới không an toàn hơn đáng kể so với thủ tục truyền thống)",
+    "type" : "(n): kết quả, đáp số",
+    "vocabulary" : "result"
+  },
+  {
+    "example" : "My bank sends me monthly statement (Ngân hàng gởi cho tôi bản trình bày vào mỗi tháng.)",
+    "type" : "(n): sự bày tỏ, sự trình bày, sự phát biểu",
+    "vocabulary" : "statement"
+  },
+  {
+    "example" : "I'm usually home by 6 o'clock. (Tôi thường về nhà lúc 6 giờ)",
+    "type" : "(adv): thông thường, thường lệ",
+    "vocabulary" : "usually"
+  },
+  {
+    "example" : "If the pain continues, consult your doctor. (Nếu cơn đau vẫn tiếp tục, thì bạn tham khảo ý kiến bác sĩ của bạn.)",
+    "type" : "(v): hỏi ý kiến, tham khảo",
+    "vocabulary" : "consult"
+  },
+  {
+    "example" : "Please take your medication every day to control your high blood pressure (Vui lòng uống thuốc mỗi ngày để kiểm soát huyết áp cao của ông)",
+    "type" : "(v): kiểm tra, kiểm soát; điều khiển, chỉ huy",
+    "vocabulary" : "control"
+  },
+  {
+    "example" : "Is this a convenient location for you to pick up your prescription? (Đây có phải là một địa điểm thuận tiện cho anh lấy toa thuốc của mình không?)",
+    "type" : "(adj): thuận lợi, thuận tiện; ở gần, dễ đi đến",
+    "vocabulary" : "convenient"
+  },
+  {
+    "example" : "The tests are designed to detect the disease early. (Các xét nghiệm này được thiết kế để phát hiện bệnh sớm.)",
+    "type" : "(v): dò ra, tìm ra, khám phá ra, phát hiện ra",
+    "vocabulary" : "detect"
+  },
+  {
+    "example" : "Could my cat be a factor contributing to my asthma? (Con mèo của tôi có thể là một yếu tố góp phần cho bệnh hen suyễn của tôi hay không?)",
+    "type" : "(n): nhân tố, yếu tố",
+    "vocabulary" : "factor"
+  },
+  {
+    "example" : "My pharmacist was concerned about the interaction of the two medications I was prescribed (Dược sĩ của tôi lo lắng về sự tương tác của 2 loại thuốc mà tôi được kê toa)",
+    "type" : "(n): ‹sự› tương tác, ảnh hưởng lẫn nhau, tác động qua lại",
+    "vocabulary" : "interaction"
+  },
+  {
+    "example" : "We were reaching the limits of civilization. (Chúng tôi đã đạt đến giới hạn của nền văn minh.)",
+    "type" : "(n): giới hạn, hạn định, ranh giới",
+    "vocabulary" : "limit"
+  },
+  {
+    "example" : "The patient had weekly appointments so that the doctor could monitor their progress (Người bệnh có các cuộc hẹn hàng tuần để cho bác sĩ có thể theo dõi tiến triển của họ)",
+    "type" : "(v): màn hình vi tính, lớp trưởng",
+    "vocabulary" : "monitor"
+  },
+  {
+    "example" : "I want my children to reach their full potential (Tôi muốn đứa trẻ của tôi vươn tới hết khả năng tiềm tàng của nó )",
+    "type" : "(adj): tiềm tàng, tiềm năng, tiềm lực, khả năng",
+    "vocabulary" : "potential"
+  },
+  {
+    "example" : "A sample of the population taking the new medicine was surveyed to determine whether it caused side effects (Một số người dân uống loại thuốc mới đã được khảo sát để xác định xem nó có gây ra phản ứng phụ hay không)",
+    "type" : "(n): mẫu, hàng mẫu",
+    "vocabulary" : "sample"
+  },
+  {
+    "example" : "I got the sense it would be better to get my prescription filled right away (Tôi có cảm giác sẽ tốt hơn khi uống theo toa của tôi ngay lập tức)",
+    "type" : "(n): giác quan, cảm giác, ý thức, tri thức; sự thông minh, khả năng phán đoán",
+    "vocabulary" : "sense"
+  },
+  {
+    "example" : "Several staff members volunteered for early retirement (Một số nhân viên tình nguyện nghỉ hưu sớm)",
+    "type" : "(n): tình nguyện viên, người xung phong",
+    "vocabulary" : "volunteer"
+  },
+  {
+    "example" : "She was compensated by the insuarance company for her lost motorbike. (Cô ta được công ty bảo hiểm bồi thường về việc mất xe gắn máy)",
+    "type" : "(v): đền bù, bồi thường",
+    "vocabulary" : "compensate"
+  },
+  {
+    "example" : "The contract contains a confidentiality clause. (Bản hợp đồng bao gồm điều khoản bảo mật)",
+    "type" : "(n): điều khoản",
+    "vocabulary" : "clause"
+  },
+  {
+    "example" : "A new policy strategy for crowd control. (Một chiến lược mới của cảnh sát để kiểm soát đám đông)",
+    "type" : "(n): chiến lược, kế hoạch",
+    "vocabulary" : "strategy"
+  },
+  {
+    "example" : "I heard his new book advertised on the radio. (Tôi nghe radio quảng cáo quyển sách mới của ông ấy)",
+    "type" : "(v): quảng cáo, thông báo",
+    "vocabulary" : "advertise"
+  },
+  {
+    "example" : "The spy stole secrect government documents. (Tên gián điệp đã đánh cắp tài liệu mật của chính phủ)",
+    "type" : "(n): văn kiện, tài liệu, tư liệu",
+    "vocabulary" : "document"
+  },
+  {
+    "example" : "You must take what I say on trust. (Anh cứ tin vào lời tôi)",
+    "type" : "(n): sự tín nhiệm, lòng tin, sự tin cậy",
+    "vocabulary" : "trust"
+  },
+  {
+    "example" : "You should overcome technical difficulties first. (Bạn nên khắc phục các khó hăn về kỹ thuật trước)",
+    "type" : "(n): sự khó khăn, điều cản trở",
+    "vocabulary" : "difficulty"
+  },
+  {
+    "example" : "He accomplished plan within the required term. (Anh ấy đã hoàn thành kế hoạch trong thời hạn qui định)",
+    "type" : "(n): giới hạn, thời hạn, kỳ hạn",
+    "vocabulary" : "term"
+  },
+  {
+    "example" : "You are always a welcome guest in our house. (Bạn luôn là vị khách được đón tiếp ân cần trong nhà của chúng tôi)",
+    "type" : "(n): khách, khách mời",
+    "vocabulary" : "guest"
+  },
+  {
+    "example" : "Her colleagues organlized a farewell dinner for her. (Các đồng nghiệp của cô ấy đã tổ chức tiệc chia tay cô)",
+    "type" : "(v): thành lập, tổ chức, thiết lập",
+    "vocabulary" : "organize"
+  },
+  {
+    "example" : "The computer is a very smart device. (Máy tính là một thiết bị rất thông minh)",
+    "type" : "(adj): thông minh, nhanh, mau lẹ",
+    "vocabulary" : "smart"
+  },
+  {
+    "example" : "Our company have just brought out a new piece of software. (Công ty chúng tôi vừa mới đưa ra một phần mềm mới)",
+    "type" : "(n): phần mềm",
+    "vocabulary" : "software"
+  },
+  {
+    "example" : "She is as agile as a monkey in work. (Trong công việc thì cô ấy nhanh nhẹn như khỉ)",
+    "type" : "(adj): nhanh nhẹn, lanh lợi",
+    "vocabulary" : "agile"
+  },
+  {
+    "example" : "It's not easy to manage a company's document. (Quản lý tài liệu của công ty không phải là chuyện dễ)",
+    "type" : "(v): quản lý, điều khiển",
+    "vocabulary" : "manage"
+  },
+  {
+    "example" : "The staff should wear company uniform when they go to work. (Nhân viên nên mặc đồng phục công ty khi đi làm)",
+    "type" : "(n): đồng phục",
+    "vocabulary" : "uniform"
+  },
+  {
+    "example" : "Soldiers are trained to obey without question. (Binh lính được huấn luyện để tuân theo không bàn cãi)",
+    "type" : "(v): tuân theo, tuân lệnh",
+    "vocabulary" : "obey"
+  },
+  {
+    "example" : "We need to study technical parameter exactly before performing. (Chúng ta cần tìm hiểu chính xác các thông số kỹ thuật trước khi thực hiện)",
+    "type" : "(n): thông số",
+    "vocabulary" : "parameter"
+  },
+  {
+    "example" : "Ultraviolet radiation has bad influence to health's people. (Bức xạ cực tím có ảnh hưởng xấu đến sức khỏe con người)",
+    "type" : "(n): sự bức xạ, sự phát xạ",
+    "vocabulary" : "radiation"
+  },
+  {
+    "example" : "Please inform me by letter of your plans. (Đề nghị gửi thư cho tôi biết kế hoạch của anh)",
+    "type" : "(n): thư từ, thư tín",
+    "vocabulary" : "letter"
+  },
+  {
+    "example" : "The envelope had been torn in such manner that the name of the addressee was lacking. (Phong bì đã bị xé theo cách như vậy mà tên của người nhận đã bị thiếu",
+    "type" : "(n): người nhận (thư)",
+    "vocabulary" : "addressee"
+  },
+  {
+    "example" : "If you have any special requirements, just let me know ! (Nếu bạn có bất cứ yêu cầu đặc biệt gì cứ báo cho tôi biết)",
+    "type" : "(n): yêu cầu, thủ tục, luật lệ",
+    "vocabulary" : "requirement"
+  },
+  {
+    "example" : "We have placed your CV in our file. (Chúng tôi đã đưa lí lịch của anh vào hồ sơ)",
+    "type" : "(n): hồ sơ, tài liệu",
+    "vocabulary" : "file"
+  },
+  {
+    "example" : "I interviewed a tourist after his trip to Vietnam. (Tôi đã phỏng vấn một du khách sau chuyến đi của ông ta đến Việt Nam)",
+    "type" : "(v): phỏng vấn",
+    "vocabulary" : "interview"
+  },
+  {
+    "example" : "We will have bonus if we finish this project well. (Chúng ta sẽ được thưởng nếu hoàn thành tốt dự án này)",
+    "type" : "(n): thưởng, tiền thưởng",
+    "vocabulary" : "bonus"
+  },
+  {
+    "example" : "I'm going to take a computer course in May. (Tôi sẽ học một khóa vi tính vào tháng 5)",
+    "type" : "(n): khóa, đợt, lớp",
+    "vocabulary" : "course"
+  },
+  {
+    "example" : "We are close to an agreement. (Chúng tôi sắp đạt được một thỏa thuận)",
+    "type" : "(n): sự thỏa thuận, giao kèo, hợp đồng",
+    "vocabulary" : "agreement"
+  },
+  {
+    "example" : "He gets an allowance of 200 dollars per month. (Anh ấy nhận được tiền trợ cấp 200 đô mỗi tháng)",
+    "type" : "(n): tiền phụ cấp, tiền trợ cấp",
+    "vocabulary" : "subvention"
+  },
+  {
+    "example" : "Has your salary beeb paid yet? (Anh được trả lương chưa ?)",
+    "type" : "(n): tiền lương (trả theo tháng)",
+    "vocabulary" : "salary"
+  },
+  {
+    "example" : "I wish they put a little more effort into it. (Tôi ước họ đặt nhiều nổ lực hơn một chút vào nó)",
+    "type" : "(n): sự cố gắng, sự nổ lực",
+    "vocabulary" : "effort"
+  },
+  {
+    "example" : "He is always enthusiastic in work. (Anh ấy luôn hăng hái trong công việc)",
+    "type" : "(adj): hăng hái, nhiệt tình, say mê",
+    "vocabulary" : "enthusiastic"
+  },
+  {
+    "example" : "I can not affort it at that price. (Tôi không thể nào mua với giá ấy)",
+    "type" : "(n): số tiền mua hoặc bán cái gì, giá",
+    "vocabulary" : "price"
+  },
+  {
+    "example" : "Our store is currently offering a 5% discount on radios. (Cửa hàng chúng tôi hiện đang giảm giá 5% cho mặt hàng ra-đi-ô)",
+    "type" : "(n): giảm giá, hạ giá",
+    "vocabulary" : "discount"
+  },
+  {
+    "example" : "All our products come with a two-year guagantee. (Tất cả sẩn phẩm của chúng tôi được bảo hành 2 năm)",
+    "type" : "(n): sự bảo đảm, sự bảo hành",
+    "vocabulary" : "guarantee"
+  },
+  {
+    "example" : "They contact with each other by phone. (Họ liên lạc với nhau bằng điện thoại)",
+    "type" : "(v): liên lạc (với ai)",
+    "vocabulary" : "contact"
+  },
+  {
+    "example" : "We always ensure that our products is given to customers on time. (Chúng tôi luôn đảm bảo hàng hóa được gửi đến khách hàng đúng hạn)",
+    "type" : "(idiom): đúng hạn, đúng giờ",
+    "vocabulary" : "on time"
+  },
+  {
+    "example" : "we deliver your order to your door. (Chúng tôi giao hàng ông đặt đến tận cửa nhà ông)",
+    "type" : "(v): phân phát, chuyển, giao",
+    "vocabulary" : "deliver"
+  },
+  {
+    "example" : "I don't know his account number. (Tôi không biết số tài khoản của anh ta)",
+    "type" : "(n): số tài khoản",
+    "vocabulary" : "account number"
+  },
+  {
+    "example" : "The address of my company is 3 Ly Thuong Kiet Street. (Đia chỉ của công ty của tôi là số 3 đường Lý Thường Kiệt)",
+    "type" : "(n): địa chỉ",
+    "vocabulary" : "address"
+  },
+  {
+    "example" : "She records everything that happens to her in her diary. (Cô ấy ghi lại tất cả những gì xảy ra với mình vào nhật ký)",
+    "type" : "(v,n): ghi lại",
+    "vocabulary" : "record"
+  },
+  {
+    "example" : "The company makes and retails moderately priced sportswear. (Công ty này sản xuất và bán lẻ quần áo thể thao với giá cả phải chăng)",
+    "type" : "(v,n): bán lẻ",
+    "vocabulary" : "retail"
+  },
+  {
+    "example" : "The agency has lost the several of its most important accounts. (Hãng đã mất nhiều tài khoản quan trọng nhất)",
+    "type" : "(n): tài khoản",
+    "vocabulary" : "account"
+  },
+  {
+    "example" : "The deposits can be made at any branch. (Tiền có thể được gửi ở bất kỳ chi nhánh nào)",
+    "type" : "(v,n): gửi (tiền,vật), tiền gửi, vật gửi",
+    "vocabulary" : "deposit"
+  },
+  {
+    "example" : "We have to accept that we are in bankruptcy. (Chúng ta phải chấp nhận rằng chúng ta bị phá sản)",
+    "type" : "(v): chấp nhận, chấp thuận",
+    "vocabulary" : "accept"
+  },
+  {
+    "example" : "We need to evaluate staff's ability accurately. (Chúng ta cần đánh giá đúng đắn khả năng của nhân viên)",
+    "type" : "(adv): chính xác, đúng đắn",
+    "vocabulary" : "accurately"
+  },
+  {
+    "example" : "Any investment involves an element of risk. (Bất kỳ vụ đầu tư nào cũng có yếu tố rủi ro)",
+    "type" : "(n): rủi ro",
+    "vocabulary" : "risk"
+  },
+  {
+    "example" : "Ho Chi Minh City has developed 20 projects in industry, tourism and entertainment. (Thành phố Hồ Chí Minh đã triển khai 20 dự án về công nghiệp, du lịch và dịch vụ)",
+    "type" : "(n): dự án",
+    "vocabulary" : "project"
+  },
+  {
+    "example" : "He makes a good profit on agricultural export. (Anh ta kiếm được nhiều lợi nhuận từ việc xuất khẩu nông sản)",
+    "type" : "(n): lời, lãi, lợi nhuận",
+    "vocabulary" : "profit"
+  },
+  {
+    "example" : "Ministry of Industry and Trade has decided to levy a high tax on car import. (Bộ công thương đã quyết định đánh thuế cao vào việc nhập khẩu xe hơi)",
+    "type" : "(v): đánh thuế",
+    "vocabulary" : "levy"
+  },
+  {
+    "example" : "Combined financial statement (bản báo cáo tài chính tổng hợp)",
+    "type" : "(n): báo cáo",
+    "vocabulary" : "statement"
+  },
+  {
+    "example" : "I gratefully acknowledge financial support from several local business. (Tôi vô cùng biết ơn sự hỗ trợ tài chính từ các doanh nghiệp địa phương)",
+    "type" : "(adj): thuộc về tài chính",
+    "vocabulary" : "financial"
+  },
+  {
+    "example" : "The expectation is thatproperty prices will rise. (Kỳ vọng là giá bất động sản sẽ tăng lên)",
+    "type" : "(n): của cải, tài sản, bất động sản",
+    "vocabulary" : "property"
+  },
+  {
+    "example" : "Several newspapers made allegations of corruption in the city's police department. (Nhiều tờ báo đã cáo buộc hành vi tham nhũng của phòng cảnh sát thành phố)",
+    "type" : "(n): phòng, ban",
+    "vocabulary" : "department"
+  },
+  {
+    "example" : "The plan will be submitted to the committee for official approval. (Kế hoạch này sẽ được trình lên ủy ban xin phê duyệt chính thức)",
+    "type" : "(n): ủy ban",
+    "vocabulary" : "committee"
+  },
+  {
+    "example" : "Board of Inquiry was convened inmediately after the accident. (Ban giám sát đã được triệu tập ngay lập tức sau khi tai nạn xảy ra)",
+    "type" : "(n): ban, ủy, bộ",
+    "vocabulary" : "board"
+  },
+  {
+    "example" : "This product has not been tested on animals. (Sản phẩm này chưa được thử nghiệm trên động vật)",
+    "type" : "(n): sản phẩm",
+    "vocabulary" : "product"
+  },
+  {
+    "example" : "They are campaigning to save the area from building development. (Họ đang mở chiến dịch bảo vệ khu vực khỏi sự phát triển đô thị)",
+    "type" : "(n): sự phát triển",
+    "vocabulary" : "development"
+  },
+  {
+    "example" : "We have to set a time-limit for finishing plan. (Chúng ta phải ấn định thời gian để hoàn thành kế hoạch)",
+    "type" : "(n): thời hạn",
+    "vocabulary" : "time-limit"
+  },
+  {
+    "example" : "Our company will terminate a contract with that comapny on Octoper. (Công ty chúng ta sẽ chấm dứt hợp động với công ty đó vào tháng 10)",
+    "type" : "(v): chấm dứt, kết thúc",
+    "vocabulary" : "terminate"
+  },
+  {
+    "example" : "Always select the right tool for the job. (Hãy luôn chọn công cụ thích hợp cho công việc)",
+    "type" : "(v): lựa chọn, chọn",
+    "vocabulary" : "select"
+  },
+  {
+    "example" : "There are good cafes and a restaurant close at hand. (Có những quán cà phê và nhà hàng ngon nằm gần nhau)",
+    "type" : "(n): nhà hàng",
+    "vocabulary" : "restaurant"
+  },
+  {
+    "example" : "This restaurant's menu has many good dishes. (Thức đơn của nhà hàng này có nhiều món ăn ngon)",
+    "type" : "(n): thực đơn",
+    "vocabulary" : "menu"
+  },
+  {
+    "example" : "Black coffee leaves a bitter taste in the mouth. (Cà phê đen để lại một chút vị đắng trong miệng)",
+    "type" : "(n): vị, khẩu vị, sở thích",
+    "vocabulary" : "taste"
+  },
+  {
+    "example" : "Can you recommend me a good English dictionary?. (Bạn có thể giới thiệu cho tôi một quyển từ điển Anh ngữ tốt được không?)",
+    "type" : "(v): giới thiệu, tiến cử",
+    "vocabulary" : "recommend"
+  },
+  {
+    "example" : "Are you ready to order? (Anh chị đã muốn gọi đồ chưa?)",
+    "type" : "(v,n): gọi món, đặt món",
+    "vocabulary" : "order"
+  },
+  {
+    "example" : "We had an argument with the waiter about the bill. (Chúng tôi đã cãi vã với bồi bàn về hóa đơn thanh toán)",
+    "type" : "(n): hóa đơn",
+    "vocabulary" : "bill"
+  },
+  {
+    "example" : "The spice imparts an Eastern flavor to the dish. (Gia vị mang lại hương vị lễ Phục sinh cho các món ăn)",
+    "type" : "(n): gia vị",
+    "vocabulary" : "spice"
+  },
+  {
+    "example" : "Try this new dish, create by our head chef. (Hãy thử ón ăn mới này, được nấu bởi đầu bếp trường của chúng ta)",
+    "type" : "(n): đầu bếp",
+    "vocabulary" : "chef"
+  },
+  {
+    "example" : "The meeting was attended by 90% of shareholders. (90% cổ đông đã tham gia cuộc hợp)",
+    "type" : "(v): tham dự, có mặt",
+    "vocabulary" : "attend"
+  },
+  {
+    "example" : "The college prepares students for a career in business. (Trường đại học chuẩn bị cho sinh viên một ngành nghề trong lĩnh vực kinh doanh)",
+    "type" : "(v): chuẩn bị, sửa soạn",
+    "vocabulary" : "prepare"
+  },
+  {
+    "example" : "We have a general idea of how many guests will attend. (Chúng tôi có chung một ý kiến về lượng khách sẽ tới than dự)",
+    "type" : "(adj): chung",
+    "vocabulary" : "general"
+  },
+  {
+    "example" : "We traveled to California for the weeding. (Nhân ngày cưới chúng tôi đã đi du lịch California)",
+    "type" : "(n,v): chuyến du lịch, đi du lịch",
+    "vocabulary" : "travel"
+  },
+  {
+    "example" : "The main and always primary duty of flight attendant is for customer's safety. (Nhiệm vụ chính và cơ bản của một tiếp viên hàng không là sự an toàn của khách hàng)",
+    "type" : "(n): nữ tiếp viên hàng không",
+    "vocabulary" : "stewardess"
+  },
+  {
+    "example" : "The accident was caused by the pilot error. (Vụ tai nạn là do lỗi của phi công)",
+    "type" : "(n): phi công, hoa tiêu",
+    "vocabulary" : "pilot"
+  },
+  {
+    "example" : "The train went slower and slower until it stopped altogether. (Con tàu tiến chầm chậm cho đến khi dừng hẳn)",
+    "type" : "(n): tàu hỏa",
+    "vocabulary" : "train"
+  },
+  {
+    "example" : "This town got a lot bigger when the railroad came in the 1860s. (Thị trấn này trở nên phát triển hơn khi có đường sắt vào những năm 1860)",
+    "type" : "(n): đường sắt",
+    "vocabulary" : "railroad"
+  },
+  {
+    "example" : "The receptionist led the way to the boardroom. (Nhân viên tiếp tân đã dẫn đường đến phòng hợp)",
+    "type" : "(n): tiếp tân",
+    "vocabulary" : "receptionist"
+  },
+  {
+    "example" : "The hotel manger asked the chambermain to clean carefully the room. (Giám đốc khách sạn yêu cầu nữ dọn phòng dọn căn phòng một cách cẩn thận)",
+    "type" : "(n): nữ dọn phòng",
+    "vocabulary" : "chambermaid"
+  },
+  {
+    "example" : "The car rental included unlimited mileage, but not fuel. (Tiền thuê ô tô đã bao gồm cước phí không giới hạn nhưng không bao gồm xăng xe)",
+    "type" : "(n): tiền thuê",
+    "vocabulary" : "rental"
+  },
+  {
+    "example" : "This car has to be returned by 2 pm on Saturday. (Bạn phải trả chiếc xe này vào 2 giờ chiều thứ Bảy)",
+    "type" : "(n,v): trả lại",
+    "vocabulary" : "return"
+  },
+  {
+    "example" : "The film that we saw last night is thrilling. (Bộ phim tối qua chúng tôi xem rất hồi hộp)",
+    "type" : "(adj): hồi hộp, ly kỳ",
+    "vocabulary" : "thrilling"
+  },
+  {
+    "example" : "This is the most interesting episode of the film. (Đây là tập hay nhất trong phim)",
+    "type" : "(n): phần, tập, đoạn",
+    "vocabulary" : "episode"
+  },
+  {
+    "example" : "There were more than 50 peoples on stage in one scene. (Có hơn 50 người diễn trên sân khấu trong một cảnh)",
+    "type" : "(n): sân khấu, sàn diễn",
+    "vocabulary" : "stage"
+  },
+  {
+    "example" : "Tickets are available from the Arts center at $5.00. (Vé bán ở trung tâm Nghệ Thuật với giá 50 đô la)",
+    "type" : "(n): vé",
+    "vocabulary" : "ticket"
+  },
+  {
+    "example" : "All the people gather in front of the theater to see the young singer that they love very much. (Tất cả mọi người đều tập trung ở trước của rạp hát để thấy người ca sĩ trẻ mà họ rất yêu thích)",
+    "type" : "(n): ca sĩ",
+    "vocabulary" : "singer"
+  },
+  {
+    "example" : "You can't find them here because they're in concert at Wembley Arena. (Bạn không thể tìm thấy họ ở đây đâu vì họ đang ở buổi hòa nhạc tại Wembley Arena)",
+    "type" : "(n): buổi hòa nhạc",
+    "vocabulary" : "concert"
+  },
+  {
+    "example" : "The work symbolizes the friendship and partnership of the two countries. (Tác phẩm tượng trưng cho tình hữu nghị và quan hệ đối tác giữa hai nước)",
+    "type" : "(v): tượng trưng cho",
+    "vocabulary" : "symbolize"
+  },
+  {
+    "example" : "The works of this famous artist are displayed in the national museum. (Những tác phẩm của nghệ sĩ nổi tiếng này được trưng bày tại bảo tàng thành phố)",
+    "type" : "(v): trưng bày",
+    "vocabulary" : "display"
+  },
+  {
+    "example" : "Advertising is a very popular service around the world. (Quảng cáo là dịch vụ phổ biến trên toàn thế giới)",
+    "type" : "(n): dịch vụ, sự phục vụ",
+    "vocabulary" : "service"
+  },
+  {
+    "example" : "He finds a good job as a reporter of the New York Times. (Anh ta tìm được việc tốt đó là phóng viên của tờ New York Times)",
+    "type" : "(n): phóng viên",
+    "vocabulary" : "reporter"
+  },
+  {
+    "example" : "Flu is highly infectious. (Cúm là bệnh rất dễ lây nhiễm)",
+    "type" : "(adj): lây, nhiễm",
+    "vocabulary" : "infectious"
+  },
+  {
+    "example" : "He underwent a three-hour heart operation. (Anh ấy trãi qua cuộc phẩu thuật tim kéo dài 3 tiếng)",
+    "type" : "(n): cuộc phẫu thuật",
+    "vocabulary" : "operation"
+  },
+  {
+    "example" : "The dentist gives him ointment to reduce soreness and swelling in his teeth. (Nha sĩ đưa cho ông ta lọ thuốc mỡ để giảm đau nhức và sưng ở răng)",
+    "type" : "(n): sự đau nhức",
+    "vocabulary" : "soreness"
+  },
+  {
+    "example" : "He has a decaying tooth which makes him hurt very much. (Anh ta có một cái răng sâu làm anh ta đau rất nhiều)",
+    "type" : "(v): sâu, thối, mục (răng)",
+    "vocabulary" : "decay"
+  },
+  {
+    "example" : "David must give up smoking and drinking wine because he is in medical treatment. (David phải bỏ hút thuốc và uống rượu vì ông đang phải điều trị)",
+    "type" : "(n): sự điều trị, phép trị bệnh",
+    "vocabulary" : "treatment"
+  },
+  {
+    "example" : "The government has caried out a program of public health in the whole country. (Chính phủ đã thực hiện một chương trình y tế công cộng trên toàn cả nước)",
+    "type" : "(n): công cộng, công chúng, công khai",
+    "vocabulary" : "public"
+  },
+  {
+    "example" : "Vehicles must make way for an ambulance with a patient inside. (Xe cộ phải nhường đường cho xe cứu thương có người bệnh bên trong)",
+    "type" : "(n): xe cứu thương",
+    "vocabulary" : "ambulance"
+  },
+  {
+    "example" : "The patient is on the bad status, please call the nurse. (Bệnh nhân đang ở trong tình trạng xấu, vui lòng gọi y tá)",
+    "type" : "(n): y tá",
+    "vocabulary" : "nurse"
+  },
+  {
+    "example" : "Many people think that Laughter is the best medicine, so they laugh a lot. (Nhiều người nghĩ rằng Tiếng cười là thuốc tốt nhất, do đó, họ cười rất nhiều)",
+    "type" : "(n): thuốc",
+    "vocabulary" : "medicine"
+  },
+  {
+    "example" : "The doctor gave me a prescription for antibiotics. (Các bác sĩ cho kê cho tôi một toa thuốc cho kháng sinh)",
+    "type" : "(n): đơn thuốc",
+    "vocabulary" : "prescription"
+  }
+]
+

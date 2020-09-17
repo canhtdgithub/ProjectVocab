@@ -1,0 +1,6 @@
+framework module Pods_VocabularyEnglish_VocabularyEnglishUITests {
+  umbrella header "Pods-VocabularyEnglish-VocabularyEnglishUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

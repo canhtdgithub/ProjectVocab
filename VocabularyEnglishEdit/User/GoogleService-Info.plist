@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>3774884499-3bqhrs2413q5kb3juhlob46iro69u0nn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.3774884499-3bqhrs2413q5kb3juhlob46iro69u0nn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH9Pgqub8EwsRJVQSKtFehe84R4N1S6DE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3774884499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>canhlg.VocabularyEnglish</string>
+	<key>PROJECT_ID</key>
+	<string>vocabularyenglishyourself</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vocabularyenglishyourself.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3774884499:ios:d16066463d33a77041bb66</string>
+	<key>DATABASE_URL</key>
+	<string>https://vocabularyenglishyourself.firebaseio.com</string>
+</dict>
+</plist>
